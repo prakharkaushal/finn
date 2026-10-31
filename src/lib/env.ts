@@ -39,6 +39,20 @@ export class EnvError extends Error {
   }
 }
 
+/**
+ * Values as hosting dashboards store them: pasted with their quotes (`"demo-first"`) or with a
+ * trailing space or newline, which would otherwise fail validation and stop the server. Trims
+ * FINN's own variables and drops one pair of surrounding quotes, in place, before anything
+ * reads them.
+ */
+export function normaliseEnv(source: Record<string, string | undefined> = process.env): void {
+  for (const [name, value] of Object.entries(source)) {
+    if (value === undefined || !/^(FINN_|ANTHROPIC_)/.test(name)) continue;
+    const clean = value.trim().replace(/^(["'])([\s\S]*)\1$/, "$2").trim();
+    if (clean !== value) source[name] = clean;
+  }
+}
+
 export function checkEnv(source: Record<string, string | undefined> = process.env): EnvSummary {
   const parsed = EnvSchema.safeParse(source);
   if (!parsed.success) throw new EnvError(parsed.error.issues.map((i) => `${i.path.join(".")} ${i.message}`));

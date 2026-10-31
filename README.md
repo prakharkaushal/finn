@@ -45,7 +45,7 @@ Configuration is optional. Copy `.env.example` to `.env.local` to change anythin
 npm run dev                          # development server, http://localhost:3000
 npm run build                        # production build
 npm start                            # serve the production build (after npm run build)
-npm test                             # 228 unit tests (Vitest), all offline
+npm test                             # 229 unit tests (Vitest), all offline
 npm run lint                         # ESLint
 npm run typecheck                    # next typegen + tsc --noEmit
 npm run check                        # typecheck + lint + tests
@@ -243,7 +243,7 @@ Notes:
 
 ## Testing
 
-`npm test` runs 228 Vitest unit tests, all offline, on fixtures captured from the real sources. They cover:
+`npm test` runs 229 Vitest unit tests, all offline, on fixtures captured from the real sources. They cover:
 
 - parsing (NSE feed and JSON, XBRL, screener pages, Yahoo charts, malformed and error pages);
 - classification and ranking, bundling, alert thresholds at their exact boundaries, and duplicate suppression;
@@ -281,7 +281,7 @@ Notes:
 
 | Verified (28 Oct – 1 Nov 2026) | Not verified |
 |---|---|
-| `npm run lint`, `typecheck`, 228 tests and `build` pass; a fresh copy installs and runs from these instructions | Per-instance caching on Vercel, and research builds near the 60 s limit there |
+| `npm run lint`, `typecheck`, 229 tests and `build` pass; a fresh copy installs and runs from these instructions | Per-instance caching on Vercel, and research builds near the 60 s limit there |
 | Deployed on Vercel: pages load in under a second; a live TITAN report built in 13 s; NSE refuses Vercel's servers (see Deployment) | Live NSE filings on the deployment (NSE does not answer it) |
 | Browser checks on the production build: inbox, alerts, thresholds, research, views, refresh, keyboard, failure states, live/demo switching; 320–1280 px and dark mode with no overflow, no target under 24 px, no contrast failure | The LLM path against the real API (no key was available) |
 | Results numbers recomputed independently from screener for KPITTECH Q2 FY27 | The cost estimate per report (not measured) |

@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it } from "vitest";
-import { checkEnv, EnvError } from "@/lib/env";
+import { checkEnv, EnvError, normaliseEnv } from "@/lib/env";
 import { modeFor, runMode } from "@/lib/data/service";
 
 describe("environment validation at startup", () => {
@@ -23,6 +23,25 @@ describe("environment validation at startup", () => {
       const problems = (err as EnvError).problems.join("\n");
       for (const name of ["FINN_DATA_MODE", "FINN_LLM", "FINN_MODEL_FAST", "ANTHROPIC_API_KEY"]) expect(problems).toContain(name);
     }
+  });
+
+  it("accepts values pasted with quotes or trailing whitespace, as hosting dashboards keep them", () => {
+    const source: Record<string, string | undefined> = {
+      FINN_DATA_MODE: '"demo-first"',
+      FINN_USER_AGENT: "FINN-prototype/0.1 (+https://github.com/prakharkaushal/finn)\n",
+      FINN_LLM: " off ",
+      ANTHROPIC_API_KEY: "'sk-ant-api03-0123456789abcdef'",
+      PATH: '"left alone"',
+    };
+    normaliseEnv(source);
+    expect(source).toEqual({
+      FINN_DATA_MODE: "demo-first",
+      FINN_USER_AGENT: "FINN-prototype/0.1 (+https://github.com/prakharkaushal/finn)",
+      FINN_LLM: "off",
+      ANTHROPIC_API_KEY: "sk-ant-api03-0123456789abcdef",
+      PATH: '"left alone"',
+    });
+    expect(() => checkEnv(source)).not.toThrow();
   });
 
   it("says which mode and models it runs with, and warns a production deploy without a User-Agent", () => {

@@ -4,7 +4,8 @@
  */
 export async function register() {
   if (process.env.NEXT_RUNTIME !== "nodejs") return;
-  const { checkEnv } = await import("@/lib/env");
+  const { checkEnv, normaliseEnv } = await import("@/lib/env");
+  normaliseEnv();
   const { lines, warnings } = checkEnv();
   for (const line of lines) console.log(`[FINN] ${line}`);
   for (const w of warnings) console.warn(`[FINN] warning: ${w}`);
