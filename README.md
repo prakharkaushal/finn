@@ -11,6 +11,7 @@ A mobile-first prototype for the ENAM AI Engineer Build Challenge. For a portfol
 |---|---|---|
 | ![Inbox](docs/screenshots/inbox.png) | ![Kaynes business snapshot](docs/screenshots/research-business.png) | ![Kaynes narrative vs numbers](docs/screenshots/research-narrative.png) |
 
+- **Try it:** https://finn-seven-rho.vercel.app on a phone. It opens on the committed demo capture; *Switch to live data* in the banner moves to live data.
 - **Evaluating it?** [EVALUATOR_RUNBOOK.md](EVALUATOR_RUNBOOK.md) is a three-minute walkthrough.
 - **Where the data comes from:** [DATA_SOURCES.md](DATA_SOURCES.md).
 - **Why the screens work the way they do:** [PRODUCT_DECISIONS.md](PRODUCT_DECISIONS.md).
@@ -30,7 +31,7 @@ Configuration is optional. Copy `.env.example` to `.env.local` to change anythin
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `FINN_DATA_MODE` | `live` | `live`: read the sources and fall back to the committed snapshot; each visitor can still switch to demo data. `demo`: every visitor gets the committed capture, and nothing is fetched. |
+| `FINN_DATA_MODE` | `live` | `live`: read the sources and fall back to the committed snapshot; each visitor can still switch to demo data. `demo-first`: a visitor starts on the committed capture and can switch to live (used on the Vercel deployment, which NSE does not answer). `demo`: every visitor gets the committed capture, and nothing is fetched. |
 | `FINN_PRICE_PROVIDER` | `yahoo` | `nse-bhavcopy` puts NSE's official end-of-day file ahead of Yahoo. |
 | `ANTHROPIC_API_KEY` | unset | Enables the two optional LLM steps (below). Server-side only. |
 | `FINN_MODEL_FAST`, `FINN_MODEL_REASONING` | `claude-haiku-5-5`, `claude-opus-5-5` | Model routing. |
@@ -44,7 +45,7 @@ Configuration is optional. Copy `.env.example` to `.env.local` to change anythin
 npm run dev                          # development server, http://localhost:3000
 npm run build                        # production build
 npm start                            # serve the production build (after npm run build)
-npm test                             # 227 unit tests (Vitest), all offline
+npm test                             # 228 unit tests (Vitest), all offline
 npm run lint                         # ESLint
 npm run typecheck                    # next typegen + tsc --noEmit
 npm run check                        # typecheck + lint + tests
@@ -167,11 +168,12 @@ Raw payloads are cached on disk and parsed on read, so a parser fix applies to c
 - NSE's equity list;
 - 24 precomputed research reports (the 20 inbox companies and the four picks), built 29 Oct 2026.
 
-It is used in three ways, always labelled:
+It is used in four ways, always labelled:
 
 1. **As a fallback in live mode.** When every live provider fails it is labelled *Snapshot*, and older filing windows are filled from it as *Archive*.
 2. **As demo data a visitor chooses.** On a live deployment anyone can switch their own browser to **Demo data** (header badge → Settings, or *Use demo data instead* on an error). This is the path that keeps working when a source is rate-limited. Nothing is fetched, the clock is set to the capture time, and a banner on every screen gives that time.
-3. **As demo data for everyone.** `FINN_DATA_MODE=demo` serves only the capture and refuses rebuilds.
+3. **As the first screen.** `FINN_DATA_MODE=demo-first` starts each visitor on demo data; the banner's *Switch to live data* (or the badge) moves that browser to live. The Vercel deployment runs this way, because NSE does not answer Vercel's servers (see Deployment).
+4. **As demo data for everyone.** `FINN_DATA_MODE=demo` serves only the capture and refuses rebuilds.
 
 In demo data, research works in full for the 24 precomputed companies. Anything else says "not in the demo dataset" and offers to switch to live data. Demo and live data are never mixed in one response.
 
@@ -194,22 +196,37 @@ Cost controls:
 
 ## Deployment
 
+**Deployed at https://finn-seven-rho.vercel.app** (Vercel, Mumbai region), from https://github.com/prakharkaushal/finn.
+
 The app is a single Next.js project with no database, so it fits Vercel's free Hobby plan with no build settings.
 
-1. Put the code on GitHub:
-   ```bash
-   git add -A && git commit -m "FINN prototype"
-   git remote add origin https://github.com/<you>/finn.git && git push -u origin main
-   ```
-2. In Vercel: **Add New → Project → Import** the repository. The framework is detected as Next.js; keep the defaults.
-3. Environment variables: none are required. Recommended: `FINN_USER_AGENT="FINN-prototype/0.1 (+https://github.com/<you>/finn)"`. Optional: `ANTHROPIC_API_KEY`. For a fully offline demo deployment, set `FINN_DATA_MODE=demo`.
-4. Deploy, then verify the URL. `/api/status` should answer with `"dataMode":"live"`, and the inbox, `/research/KAYNES` and Settings should load on a phone. The function log shows FINN's startup lines (`[FINN] data: live …`).
+1. Put the code on GitHub and, in Vercel, **Add New → Project → Import** the repository. The framework is detected as Next.js; keep the defaults.
+2. Environment variables:
+   - `FINN_DATA_MODE=demo-first`, because NSE does not answer Vercel's servers (below).
+   - `FINN_USER_AGENT="FINN-prototype/0.1 (+https://github.com/prakharkaushal/finn)"`.
+   - Optional: `ANTHROPIC_API_KEY`.
+3. Deploy, then check the URL:
+   - `/api/status` answers `"dataMode":"demo"` for a new visitor under `demo-first`.
+   - `/api/status?probe=1` shows which sources answer from the host.
+   - The inbox, `/research/KAYNES` and Settings load on a phone.
+
+**What the deployment showed (1 Nov 2026):**
+- Pages loaded in under a second.
+- Yahoo Finance and screener.in answered.
+- **NSE's hosts (`www.nseindia.com`, `nsearchives.nseindia.com`) refused the connection** ("fetch failed"). So in live data on Vercel:
+  - the inbox has no NSE filings: recent windows show BSE filings via screener.in where available, and older windows come from the labelled archive;
+  - the ticker list comes from the committed snapshot;
+  - live research finds no NSE results filing.
+- Annual reports, transcripts and presentations hosted on BSE read normally: a live TITAN report built in 13 s, with 6 of 6 documents read.
+- With live as the default, a first-time visitor saw an empty inbox with two sources marked unavailable. That is why the deployment starts on demo data.
 
 Notes:
 - `vercel.json` pins functions to Mumbai (`bom1`), close to NSE, BSE and screener.in.
-- The committed snapshot is traced into the function bundles (`outputFileTracingIncludes` in `next.config.ts`); this was checked in a local production build.
-- The research route asks for up to 60 seconds (`maxDuration`). A first report took 10–62 seconds in testing (MRF 13 s, KAYNES 18 s, IRCTC 29 s, TCS 62 s). A request cut off at the limit says so on screen. **Try again** is faster when it reaches the same server, because documents already read are cached; on serverless hosts that cache is per instance, so this is not guaranteed and has not been verified on Vercel. The 24 precomputed reports avoid the limit entirely.
-- **This app has not yet been deployed**; that needs a Vercel account.
+- The committed snapshot is traced into the function bundles (`outputFileTracingIncludes` in `next.config.ts`).
+- The research route asks for up to 60 seconds (`maxDuration`). A first report took 10–62 seconds locally (MRF 13 s, KAYNES 18 s, IRCTC 29 s, TCS 62 s), and TITAN took 13 s on Vercel.
+  - A request cut off at the limit says so on screen.
+  - **Try again** is faster when it reaches the same server, because documents already read are cached. On Vercel that cache is per instance, so this is not guaranteed.
+  - The 24 precomputed reports avoid the limit entirely.
 
 ## Add and test any ticker
 
@@ -226,7 +243,7 @@ Notes:
 
 ## Testing
 
-`npm test` runs 227 Vitest unit tests, all offline, on fixtures captured from the real sources. They cover:
+`npm test` runs 228 Vitest unit tests, all offline, on fixtures captured from the real sources. They cover:
 
 - parsing (NSE feed and JSON, XBRL, screener pages, Yahoo charts, malformed and error pages);
 - classification and ranking, bundling, alert thresholds at their exact boundaries, and duplicate suppression;
@@ -255,19 +272,21 @@ Notes:
 - **Rule-based extraction has blind spots.** Banks and large companies give little quantified guidance. Context-dependent targets (TCS's "26–28%" margin band) and guidance disclaimers stay as unscored quotes. The business snapshot is pattern-selected, and less on point when a report has no self-description.
 - **The document guard is a heuristic.** A symbol that is a common word can match another company's mention of it, and an investor-added note that names the company is accepted (labelled *added by you*).
 - **Unofficial sources.** Yahoo's chart endpoint and NSE's filings JSON can change or refuse at any time. Each sits behind an adapter with a labelled fallback.
+- **NSE does not answer the Vercel deployment.** From Vercel's servers, live data has no NSE filings, no NSE equity list and no results filing in research; the deployment therefore opens on demo data (`demo-first`). Run locally for the full live inbox.
 - **The LLM path has never run live** (no key was available).
 - **Per-process state on serverless hosts.** Provider health counters and the fail-fast window live in each server process.
 - **Dev-only reload loop.** Under `next dev`, research pages re-render in a loop; production builds do not.
 
 ### Verified, and not yet verified
 
-| Verified on this machine (28–29 Oct 2026) | Not verified |
+| Verified (28 Oct – 1 Nov 2026) | Not verified |
 |---|---|
-| `npm run lint`, `typecheck`, 227 tests and `build` pass; a fresh copy installs and runs from these instructions | Any deployment: not deployed yet, so Vercel time limits and per-instance caching are untested |
+| `npm run lint`, `typecheck`, 228 tests and `build` pass; a fresh copy installs and runs from these instructions | Per-instance caching on Vercel, and research builds near the 60 s limit there |
+| Deployed on Vercel: pages load in under a second; a live TITAN report built in 13 s; NSE refuses Vercel's servers (see Deployment) | Live NSE filings on the deployment (NSE does not answer it) |
 | Browser checks on the production build: inbox, alerts, thresholds, research, views, refresh, keyboard, failure states, live/demo switching; 320–1280 px and dark mode with no overflow, no target under 24 px, no contrast failure | The LLM path against the real API (no key was available) |
 | Results numbers recomputed independently from screener for KPITTECH Q2 FY27 | The cost estimate per report (not measured) |
 | 638 quotes in the 24 precomputed reports checked against their pages: 625 verbatim on the cited page, 13 across a page break with the footer removed | Behaviour when NSE's undocumented JSON or Yahoo's chart endpoint changes format (only refusals and hangs were simulated) |
-| All live sources hanging: the inbox falls back, labelled, in 40 s, then in under a second | Cold research builds within 60 s on a serverless host (up to 62 s locally) |
+| All live sources hanging: the inbox falls back, labelled, in 40 s, then in under a second | Cold research for the slowest companies within 60 s on Vercel (TCS took 62 s locally) |
 
 ## Decisions and trade-offs
 

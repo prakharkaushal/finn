@@ -38,10 +38,14 @@ export { DATA_COOKIE } from "@/lib/data/mode";
 /**
  * The mode one request runs in. FINN_DATA_MODE=demo forces demo for everyone (an offline
  * deployment); otherwise a visitor may opt into the committed demo dataset — the path that
- * still works when a live source is rate-limited or down.
+ * still works when a live source is rate-limited or down. FINN_DATA_MODE=demo-first starts a
+ * visitor who has not chosen on demo data (for a host the exchange does not answer); the
+ * visitor can still switch to live.
  */
 export function modeFor(cookie: string | undefined): RunMode {
-  return runMode() === "demo" || cookie === "demo" ? "demo" : "live";
+  if (runMode() === "demo") return "demo";
+  if (cookie === "demo" || cookie === "live") return cookie;
+  return (process.env.FINN_DATA_MODE ?? "").trim().toLowerCase() === "demo-first" ? "demo" : "live";
 }
 
 export type ProviderSet = {

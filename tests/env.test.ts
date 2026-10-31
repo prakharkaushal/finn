@@ -1,6 +1,6 @@
 import { afterEach, describe, expect, it } from "vitest";
 import { checkEnv, EnvError } from "@/lib/env";
-import { modeFor } from "@/lib/data/service";
+import { modeFor, runMode } from "@/lib/data/service";
 
 describe("environment validation at startup", () => {
   it("runs with no variables at all, in live mode with the LLM off", () => {
@@ -54,5 +54,15 @@ describe("demo and live data per visit", () => {
     process.env.FINN_DATA_MODE = "demo";
     expect(modeFor(undefined)).toBe("demo");
     expect(modeFor("live")).toBe("demo");
+  });
+
+  it("starts a new visitor on demo data under demo-first, and keeps their switch to live", () => {
+    process.env.FINN_DATA_MODE = "demo-first";
+    expect(modeFor(undefined)).toBe("demo");
+    expect(modeFor("anything else")).toBe("demo");
+    expect(modeFor("live")).toBe("live");
+    expect(modeFor("demo")).toBe("demo");
+    expect(runMode()).toBe("live"); // not forced: rebuilding and live research stay available
+    expect(checkEnv({ FINN_DATA_MODE: "demo-first" }).lines[0]).toMatch(/start on demo data and can switch to live/);
   });
 });

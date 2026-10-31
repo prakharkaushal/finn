@@ -1,13 +1,15 @@
 # Evaluator runbook — FINN in three minutes
 
 **Where:**
-- Deployed: [DEPLOYED URL — not yet verified]. Open it on a phone, or in a desktop browser at phone width.
+- Deployed: **https://finn-seven-rho.vercel.app**. Open it on a phone, or in a desktop browser at phone width.
 - Locally: `npm install && npm run dev`, then http://localhost:3000.
 
 **Which data:**
 - The badge at the top right says **Live data** or **Demo data**.
-- For a run that matches this script exactly, tap the badge → **Demo data** (Settings → *Data & models*). Every screen then replays FINN's capture of **28 Oct 2026, 09:56 IST**, and a banner says so.
-- Live data works the same way with today's filings and prices.
+- The deployed link opens on **Demo data**, so this script matches it exactly. Every screen replays FINN's capture of **28 Oct 2026, 09:56 IST**, and a banner says so.
+- **Switch to live data** (in the banner, or the badge → Settings) for today's prices and for research on any ticker.
+  - NSE does not answer Vercel's servers, so live data on the deployed link has no NSE filings. Run it locally for the full live inbox.
+  - Locally, FINN starts on live data; tap the badge → **Demo data** to follow this script.
 - If a live source is rate-limited, the error says so and offers **Use demo data instead**.
 
 The figures below are from the demo capture.
@@ -50,7 +52,7 @@ The figures below are from the demo capture.
 4. **Narrative vs numbers:** *FY26 Revenue target ₹4,500 cr — Missed*.
    - Management's own quote is cited to *Q4 FY26 call p. 8 · Viral Shah*.
    - The reported FY26 revenue is ₹3,626 cr, with the assessment "81% of the ₹4,500 cr promised".
-5. **Any other company** (live data only): type a ticker such as `TITAN` and press Enter. The report builds from the company's own documents in about 15–40 seconds, with progress shown, and *Sources* lists every document found, read or not.
+5. **Any other company** (live data only: switch first): type a ticker such as `TITAN` and press Enter. The report builds from the company's own documents in about 15–40 seconds, with progress shown, and *Sources* lists every document found, read or not.
 
 ---
 

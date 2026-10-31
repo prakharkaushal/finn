@@ -11,7 +11,7 @@ import { z } from "zod";
 const optional = <T extends z.ZodType>(schema: T) => z.preprocess((v) => (typeof v === "string" && v.trim() === "" ? undefined : v), schema.optional());
 
 const EnvSchema = z.object({
-  FINN_DATA_MODE: optional(z.enum(["live", "demo"], { message: 'must be "live" or "demo"' })),
+  FINN_DATA_MODE: optional(z.enum(["live", "demo-first", "demo"], { message: 'must be "live", "demo-first" or "demo"' })),
   FINN_PRICE_PROVIDER: optional(z.enum(["yahoo", "nse-bhavcopy"], { message: 'must be "yahoo" or "nse-bhavcopy"' })),
   FINN_LLM: optional(z.enum(["on", "off"], { message: 'must be "on" or "off"' })),
   ANTHROPIC_API_KEY: optional(z.string().regex(/^\S{20,}$/, "must be a single token of at least 20 characters, with no spaces")),
@@ -46,7 +46,11 @@ export function checkEnv(source: Record<string, string | undefined> = process.en
   const key = Boolean(env.ANTHROPIC_API_KEY || env.ANTHROPIC_AUTH_TOKEN);
   const llm = env.FINN_LLM === "off" ? "off (FINN_LLM=off)" : key ? `on (${env.FINN_MODEL_FAST ?? "claude-haiku-5-5"} / ${env.FINN_MODEL_REASONING ?? "claude-opus-5-5"})` : "off (no ANTHROPIC_API_KEY)";
   const lines = [
-    env.FINN_DATA_MODE === "demo" ? "data: demo for every visitor (FINN_DATA_MODE=demo; nothing is fetched)" : "data: live, falling back to the committed snapshot (visitors can switch to demo data)",
+    env.FINN_DATA_MODE === "demo"
+      ? "data: demo for every visitor (FINN_DATA_MODE=demo; nothing is fetched)"
+      : env.FINN_DATA_MODE === "demo-first"
+        ? "data: visitors start on demo data and can switch to live (FINN_DATA_MODE=demo-first)"
+        : "data: live, falling back to the committed snapshot (visitors can switch to demo data)",
     `prices: ${env.FINN_PRICE_PROVIDER === "nse-bhavcopy" ? "NSE bhavcopy first, then Yahoo" : "Yahoo first, then NSE bhavcopy"}`,
     `LLM: ${llm}`,
   ];

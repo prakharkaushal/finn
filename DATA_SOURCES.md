@@ -26,6 +26,11 @@ Every source FINN reads, what it is used for, whether it is primary, how often i
 
 FINN identifies itself (`FINN_USER_AGENT`), caps concurrency and spaces requests per host, and retries server errors with backoff. A host that sends no response is not retried and is not asked again for a minute, so callers fall back at once to the labelled snapshot. FINN never uses cookies or header tricks to get past a block: BSE's announcements API answers 403 to a plain request, so it is not used.
 
+**From the Vercel deployment (checked 1 Nov 2026):**
+- NSE's hosts (`www.nseindia.com`, `nsearchives.nseindia.com`) refuse the connection. Every NSE row above therefore takes its "When it fails" path there.
+- Yahoo, screener.in and BSE-hosted company documents answer normally.
+- The deployment starts visitors on demo data (`FINN_DATA_MODE=demo-first`).
+
 ## Checking a source from your machine
 
 - `npm run probe` runs a small live sample against every provider.
