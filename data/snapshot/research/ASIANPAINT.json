@@ -1,0 +1,1414 @@
+{
+ "symbol": "ASIANPAINT",
+ "exchange": "NSE",
+ "name": "Asian Paints",
+ "generatedAt": "2026-10-29T09:08:34.741Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/ASIANPAINT/consolidated/",
+  "retrievedAt": "2026-10-29T09:05:05.778Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 2284.60009765625,
+  "changePct": 0.33377679649758457,
+  "date": "2026-10-28",
+  "spark": [
+   2530.60009765625,
+   2599.89990234375,
+   2566.10009765625,
+   2505.5,
+   2617.60009765625,
+   2622.199951171875,
+   2605.60009765625,
+   2614,
+   2600.699951171875,
+   2598.60009765625,
+   2598.800048828125,
+   2639.800048828125,
+   2657.800048828125,
+   2647,
+   2671.89990234375,
+   2671.60009765625,
+   2632.39990234375,
+   2660.699951171875,
+   2662.39990234375,
+   2661.60009765625,
+   2686.699951171875,
+   2659.199951171875,
+   2708.10009765625,
+   2715.10009765625,
+   2690.89990234375,
+   2747.39990234375,
+   2739.300048828125,
+   2748.10009765625,
+   2738,
+   2755,
+   2732.89990234375,
+   2674,
+   2661.199951171875,
+   2667.5,
+   2645.199951171875,
+   2656.89990234375,
+   2635.699951171875,
+   2716.39990234375,
+   2744.5,
+   2737.800048828125,
+   2754.89990234375,
+   2731.39990234375,
+   2665.89990234375,
+   2673.800048828125,
+   2677.800048828125,
+   2652.10009765625,
+   2641,
+   2670,
+   2674.699951171875,
+   2689,
+   2691.39990234375,
+   2692.39990234375,
+   2692.800048828125,
+   2668.800048828125,
+   2637.89990234375,
+   2710.199951171875,
+   2736.199951171875,
+   2758.39990234375,
+   2746.199951171875,
+   2747.300048828125,
+   2810,
+   2775,
+   2760,
+   2755,
+   2735,
+   2750,
+   2735.5,
+   2740,
+   2755.5,
+   2696.300048828125,
+   2687.5,
+   2628.39990234375,
+   2630.800048828125,
+   2625.199951171875,
+   2640,
+   2640.800048828125,
+   2639.800048828125,
+   2626.5,
+   2631,
+   2608.699951171875,
+   2653.60009765625,
+   2575.5,
+   2527.5,
+   2541.60009765625,
+   2527.300048828125,
+   2500.89990234375,
+   2481.60009765625,
+   2489,
+   2498.10009765625,
+   2472.5,
+   2402.800048828125,
+   2416.60009765625,
+   2454,
+   2451.300048828125,
+   2440.300048828125,
+   2448.5,
+   2455,
+   2392.699951171875,
+   2444,
+   2420,
+   2415,
+   2402.60009765625,
+   2407,
+   2366,
+   2424.199951171875,
+   2372.10009765625,
+   2311.60009765625,
+   2339.10009765625,
+   2331,
+   2376,
+   2344.699951171875,
+   2350,
+   2331.89990234375,
+   2330.699951171875,
+   2319.39990234375,
+   2284.800048828125,
+   2307,
+   2322,
+   2277,
+   2284.60009765625
+  ],
+  "high52": 2968.5,
+  "low52": 2121.300048828125,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/ASIANPAINT.NS",
+   "retrievedAt": "2026-10-29T09:05:06.833Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 2,16,596 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 2,258"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 2,986 / 2,115"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "44.4"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 223"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.23 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "26.3 %"
+  },
+  {
+   "name": "ROE",
+   "value": "21.8 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹10,542 cr (+17.9% YoY), PAT ₹1,559 cr (+39.6% YoY).",
+   "tone": "positive",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 12,
+     "excerpt": "Revenue from operations 9 ,976.51 10,541.94 8 ,531.27 20,518 .45 17,469 .82",
+     "level": "page",
+     "section": "Standalone financial statements"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 10542
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 1559
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹37,187 cr, EBITDA ₹7,240 cr (19.5% margin), PAT ₹4,837 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   21713,
+   29101,
+   34489,
+   35495,
+   33906,
+   35584
+  ],
+  "ebitda": [
+   4856,
+   4804,
+   6260,
+   7585,
+   6006,
+   6700
+  ],
+  "pat": [
+   3207,
+   3085,
+   4195,
+   5558,
+   3710,
+   4395
+  ],
+  "margin": [
+   22.36448210749321,
+   16.50802377925157,
+   18.150714720635566,
+   21.3692069305536,
+   17.713678994868165,
+   18.82868705035971
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 10.4% a year over FY21–FY26 (₹21,713 cr → ₹35,584 cr).",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 110,
+      "excerpt": "Revenue from operations 30,769.48 29,552.65 4.10 35,583.54 33,905.62 4.95",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 35584
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 21713
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 4.9% was within its 5-year range (−4.5% to 34.0%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 110,
+      "excerpt": "Revenue from operations 30,769.48 29,552.65 4.10 35,583.54 33,905.62 4.95",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 35584
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 33906
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 68 bps over FY23–FY26 (18.2% → 18.8%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 6.5% a year over FY21–FY26, lagging revenue.",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 110,
+      "excerpt": "Profit for the period 4,244.17 3,588.07 18.30 4,394.69 3,709.71 18.46",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 4395
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 3207
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   8028,
+   8549,
+   8359,
+   8939,
+   8531,
+   8867,
+   9247,
+   10542
+  ],
+  "ebitda": [
+   1240,
+   1637,
+   1436,
+   1625,
+   1503,
+   1781,
+   1787,
+   2169
+  ],
+  "pat": [
+   694,
+   1128,
+   701,
+   1117,
+   1018,
+   1074,
+   1185,
+   1559
+  ],
+  "margin": [
+   15.445939212755356,
+   19.148438413849572,
+   17.17908840770427,
+   18.178767199910503,
+   17.61809869886297,
+   20.085711063493854,
+   19.325186546988213,
+   20.574843483210017
+  ],
+  "revenueYoY": [
+   -5.3190234697487915,
+   -6.085905745358673,
+   -4.2606803344405,
+   -0.34559643255295425,
+   6.265570503238664,
+   3.7197333021406016,
+   10.623280296686206,
+   17.93265465935787
+  ],
+  "patYoY": [
+   -43.66883116883117,
+   -23.52542372881356,
+   -45.01960784313725,
+   -5.8972198820556025,
+   46.68587896253602,
+   -4.787234042553192,
+   69.04422253922966,
+   39.57027752909579
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   1093,
+   1587,
+   1933,
+   2474,
+   2290,
+   3929
+  ],
+  "equity": [
+   12806,
+   13812,
+   15992,
+   18728,
+   19400,
+   21372
+  ],
+  "debtToEquity": [
+   0.0853506168983289,
+   0.11490008688097307,
+   0.12087293646823412,
+   0.1321016659547202,
+   0.11804123711340206,
+   0.18383866741530974
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.18 at FY26 end (0.12 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 2.0× from ₹1,933 cr to ₹3,929 cr over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   3683,
+   986,
+   4193,
+   6104,
+   4424,
+   7088
+  ],
+  "pat": [
+   3207,
+   3085,
+   4195,
+   5558,
+   3710,
+   4395
+  ],
+  "fcf": [
+   3422,
+   475,
+   2774,
+   3613,
+   2604,
+   5604
+  ],
+  "capex": [
+   261,
+   511,
+   1419,
+   2491,
+   1820,
+   1484
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.09× reported profit (₹22,795 cr vs ₹20,943 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 236,
+      "excerpt": "Net Cash generated from Operating activities 7,088.18 4,423.96",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 7088
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 4424
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹15,070 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹7,725 cr, 34% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   59,
+   94,
+   99,
+   93,
+   107,
+   84
+  ],
+  "debtorDays": [
+   44,
+   49,
+   49,
+   50,
+   46,
+   46
+  ],
+  "inventoryDays": [
+   134,
+   142,
+   121,
+   122,
+   142,
+   118
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle shortened from 99 to 84 days over FY23–FY26.",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 26% in FY26 (34% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-08-1",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 20,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "We are still garnering around the guidance of 18-20% of our PBDIT margins holds.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-2",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 23,
+    "speaker": "Percy Panthaki",
+    "voice": "management",
+    "quote": "Just as a very rule of thumb, a calculation, the price increases that you have taken thus far, they are benchmarked to crude levels or rather, if you want to maintain a margin in the middle of the 18%-20% band with only the current price increases.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-3",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 23,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "What we can take in, is the point that 18-20% guidance is a good guidance to take.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-4",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 25,
+    "speaker": "Jaykumar Doshi",
+    "voice": "management",
+    "quote": "The last one, at the time of announcement of this project, you had indicated that you expect, this will give you cost competitiveness, which should help your gross margins by 400-500 basis points.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-06-1",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 15,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "Now this is also reflected in the profitability when we see in absolute terms, very strong growths, but the good part is that we have been able to extend the PBT margins, which is about 8.5% for the quarter, which is a strong improvement by 370 bps year-on-year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-06-3",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 20,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "And we basically believe that going forward, we are still looking atleast a high single-digit volume growth in terms of what we would kind of achieve.",
+    "structuredBy": "rules",
+    "metric": "volume_growth",
+    "low": 7,
+    "high": 9,
+    "unit": "%",
+    "interpreted": true,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-06-2",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 20,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "That part of the inflation which we are not passing out is something which we can work around and see how we conserving those costs and seeing that we are still able to maintain our margin guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-06-5",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 21,
+    "speaker": "Mihir Shah",
+    "voice": "management",
+    "quote": "And how should we see the impact of the margins as we go along, because in the past upcycle of crude, we had seen margins going down by 500 to 800 bps also.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-06-6",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 22,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "But with a set of things which we are doing and some passing of some more price increases, we should see how we can retain our margin guidance going forward.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-06-7",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 23,
+    "speaker": "Amit Sachdeva",
+    "voice": "management",
+    "quote": "Just to understand clearly that in doing so, you would like to maintain your margin guidance, which has always been 18-20%, there is a high single-digit volume ambition as well for the year.",
+    "structuredBy": "rules",
+    "metric": "other",
+    "low": 18,
+    "high": 20,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-06-8",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 23,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "We are maintaining our margin guidance, which is there.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-06-10",
+    "sourceId": "call-2026-06",
+    "callLabel": "Jun 2026 call · Q4 FY26",
+    "callMonth": "2026-06",
+    "page": 26,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "And we feel that over a period of time, it is good to maintain that 3-4% gap, which would remain from a point of view of overall direction between volume and value.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 15,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "When we see this the volume growth jumps to about 8.3% from the 7.9% in decorative and the value growth for all coatings jumps to 4.4%.",
+    "structuredBy": "rules",
+    "metric": "volume_growth",
+    "low": 8.3,
+    "high": 8.3,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-02-2",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 21,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "We see there is a 6.3% value growth, in constant currency terms it boils down to about 4.2%, given the fact that INR has depreciated.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-3",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 22,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "So, again we see that we have been able to look at growing the business, although here PBT margin is little bit contracted by about 40 bps points, but the business overall has done quite well in terms of the top line.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-4",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 24,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "24 | At a consolidated level, when we see again, from a top line perspective we are at about 4% yoy growth, a part of the industrial sale is not here.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-5",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 33,
+    "speaker": "Mihir Shah",
+    "voice": "management",
+    "quote": "Secondly, on margins, now you are at the higher end of the margin guidance band.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-7",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 35,
+    "speaker": "Amit Sachdeva",
+    "voice": "analyst",
+    "quote": "Sir, if I recall, you had given some sort of ambition, if not guidance, for second half, kind of 5% or mid-single-digit revenue growth and value volume gap of some 5% as well.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 4,
+    "high": 6,
+    "unit": "%",
+    "interpreted": true,
+    "segment": false,
+    "period": {
+     "scope": "H2",
+     "fy": 2026,
+     "inferred": true,
+     "label": "H2 FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 7.132718239886445,
+     "actualLabel": "YoY growth, H2 FY26",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "met",
+    "assessmentNote": "7.1% reported, above the 4–6% promised"
+   },
+   {
+    "id": "call-2026-02-6",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 35,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "So, I would say that we would keep the guidance between that 18 and 20% band as we go ahead and that is something which we will endeavour to maintain.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-8",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 36,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "No, I think I have been maintaining that, as I said that, band of 8- 10% for volume and gap between the volume and the value is a good indicator, because see, this whole thing of channel filling is something which is always artificial.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 12,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "The second area is the VAM VAE project in which we have committed to the project a CAPEX of about Rs. 3,250 crores.",
+    "structuredBy": "rules",
+    "metric": "capex",
+    "low": 3250,
+    "high": 3250,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 25,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "And therefore, we would anticipate that the gap between the volume and the value would remain in that zone of about 4-5%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-3",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 26,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "As we go ahead, we have also looked at saying that we will maintain a 4-5% difference between volume and value.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-4",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 27,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "Given all this, it is okay to maintain the whole guidance of 18 to 20% PBDIT margin band.",
+    "structuredBy": "rules",
+    "metric": "other",
+    "low": 18,
+    "high": 20,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2025-11-5",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 27,
+    "speaker": "Amit Syngle",
+    "voice": "management",
+    "quote": "But it's good to maintain 18-20% margin as we go ahead.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 1,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 5
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 10,
+    "excerpt": "We are Asian Paints, delivering joy since 1942. We are in the business of colour, décor, design and protection, we make anything & everything beautiful and lasting. Being innovators, we transcend global boundaries and are the preferred brand. We are dynamic and disruptive. Constantly redefining trends with world-class solutions, inspiring consumers",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 73,
+    "excerpt": "Asian Paints strengthened its design capabilities through Chromacosm, the world’s largest architectural colour system, offering over 5,300 shades in a structured palette. Designed for architects, designers and homeowners, it enables seamless visualisation across tonal variations, supporting more precise and consistent design outcomes.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 4,
+    "excerpt": "From leveraging advanced colour systems like Chromacosm - the world's largest colour system, to pioneering premium décor offerings through Nilaya Anthology, we are shaping the future of interior aesthetics. Our innovations encompass platforms like the Glitz Guide, to new introductions across paint, waterproofing, lights and kitchen categories, spreading joy in every corner.",
+    "section": "Management discussion and analysis"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-08",
+    "page": 24,
+    "excerpt": "The strategy going forward is that we really get growth in every segment which is there, because while the overall premium segment is important to us, the economy segment is also large. That is also very important that we are able to grow it. Putty is a starting point of paints.",
+    "speaker": "Amit Syngle"
+   },
+   {
+    "sourceId": "call-2026-08",
+    "page": 11,
+    "excerpt": "When we look at premiumization, we have been able to galvanize a lot of products from the point of view of upgrading the customer to a higher level and premiumization has been a route, not only in the premium segment but also in the luxury segment.",
+    "speaker": "Amit Syngle"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q1 FY27: revenue ₹10,542 cr (+17.9% YoY), PAT ₹1,559 cr (+39.6% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 12,
+      "excerpt": "Revenue from operations 9 ,976.51 10,541.94 8 ,531.27 20,518 .45 17,469 .82",
+      "level": "page",
+      "section": "Standalone financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 68 bps over FY23–FY26 (18.2% → 18.8%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.09× reported profit (₹22,795 cr vs ₹20,943 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 236,
+      "excerpt": "Net Cash generated from Operating activities 7,088.18 4,423.96",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.18 at FY26 end (0.12 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 2.0× from ₹1,933 cr to ₹3,929 cr over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 2.0× from ₹1,933 cr to ₹3,929 cr over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.18 at FY26 end (0.12 at FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (294 pages), 4 call transcripts, the Q2 FY27 results filing and the Aug 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/ASIANPAINT/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 294,
+   "coverage": {
+    "pagesRead": 294,
+    "totalPages": 294,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 26,
+   "coverage": {
+    "pagesRead": 26,
+    "totalPages": 26,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-06",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 26,
+   "coverage": {
+    "pagesRead": 26,
+    "totalPages": 26,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 38,
+   "coverage": {
+    "pagesRead": 38,
+    "totalPages": 38,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 30,
+   "coverage": {
+    "pagesRead": 30,
+    "totalPages": 30,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-08",
+   "kind": "presentation",
+   "title": "Investor presentation, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b5c9244a-c461-49ea-abdf-6645780a8715.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 28,
+   "coverage": {
+    "pagesRead": 28,
+    "totalPages": 28,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140936_OutcomeofBM29102026signed.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5703f4ea-cc29-49c6-9ec2-df459801eb50.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/218b2e64-6a82-4ecf-8d19-f92bd77518c7.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.asianpaints.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/ASIANPAINT.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

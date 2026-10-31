@@ -1,0 +1,1154 @@
+{
+ "symbol": "ETERNAL",
+ "exchange": "NSE",
+ "name": "Eternal",
+ "generatedAt": "2026-10-29T09:09:00.790Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/ETERNAL/consolidated/",
+  "retrievedAt": "2026-10-29T08:59:04.589Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 326,
+  "changePct": -1.5105740181268883,
+  "date": "2026-10-28",
+  "spark": [
+   257.4200134277344,
+   256.3900146484375,
+   245.8699951171875,
+   239.97999572753906,
+   237.82000732421875,
+   245.82000732421875,
+   241.17999267578125,
+   241.39999389648438,
+   247.2100067138672,
+   243.33999633789062,
+   242.0500030517578,
+   241.9499969482422,
+   247.6699981689453,
+   250.1699981689453,
+   256.510009765625,
+   250.5800018310547,
+   248.10000610351562,
+   250.75,
+   247,
+   254.35000610351562,
+   256.5,
+   248.3000030517578,
+   245.64999389648438,
+   239.8000030517578,
+   235.1999969482422,
+   243.8000030517578,
+   252,
+   253.60000610351562,
+   258.3999938964844,
+   258.54998779296875,
+   264.29998779296875,
+   263.6499938964844,
+   258.95001220703125,
+   256.3500061035156,
+   255.14999389648438,
+   259.3999938964844,
+   264.6000061035156,
+   279.70001220703125,
+   279.70001220703125,
+   281.6499938964844,
+   283.3999938964844,
+   289.3999938964844,
+   286.70001220703125,
+   292.45001220703125,
+   289.6499938964844,
+   285.20001220703125,
+   286.1499938964844,
+   294.79998779296875,
+   286.45001220703125,
+   286.6000061035156,
+   286.95001220703125,
+   286.6000061035156,
+   284.3999938964844,
+   287.1000061035156,
+   280,
+   295.8500061035156,
+   308.3500061035156,
+   311.79998779296875,
+   310.6499938964844,
+   302.45001220703125,
+   310.5,
+   312.3999938964844,
+   310.3500061035156,
+   316.25,
+   315,
+   310.25,
+   318,
+   314.04998779296875,
+   318,
+   318.5,
+   318,
+   315.8999938964844,
+   320,
+   327.95001220703125,
+   328,
+   327.1499938964844,
+   331,
+   327,
+   328.5,
+   328,
+   328.1000061035156,
+   327.75,
+   327.29998779296875,
+   324.79998779296875,
+   322.75,
+   320.79998779296875,
+   321.6000061035156,
+   320.6000061035156,
+   322.1000061035156,
+   323.5,
+   315.25,
+   317,
+   322.3500061035156,
+   326.8500061035156,
+   335.8999938964844,
+   342,
+   342.6499938964844,
+   335.5,
+   335,
+   330.95001220703125,
+   327.8500061035156,
+   320,
+   313.8999938964844,
+   320.79998779296875,
+   329,
+   328,
+   319.04998779296875,
+   323.45001220703125,
+   323,
+   320.45001220703125,
+   316,
+   323,
+   325.29998779296875,
+   320.20001220703125,
+   312.3500061035156,
+   304.45001220703125,
+   317.3999938964844,
+   325.54998779296875,
+   331,
+   326
+  ],
+  "high52": 342.6499938964844,
+  "low52": 215.67999267578125,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/ETERNAL.NS",
+   "retrievedAt": "2026-10-29T08:59:05.316Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 3,26,616 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 338"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 345 / 213"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "663"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 32.4"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.00 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "2.48 %"
+  },
+  {
+   "name": "ROE",
+   "value": "0.38 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹24,138 cr (+77.6% YoY), PAT ₹125 cr (+92.3% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 24138
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 125
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹77,956 cr, EBITDA ₹2,200 cr (2.8% margin), PAT ₹493 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   1994,
+   4192,
+   7079,
+   12114,
+   20243,
+   54364
+  ],
+  "ebitda": [
+   -467,
+   -1851,
+   -1211,
+   43,
+   637,
+   1208
+  ],
+  "pat": [
+   -816,
+   -1222,
+   -971,
+   351,
+   527,
+   366
+  ],
+  "margin": [
+   -23.42026078234704,
+   -44.155534351145036,
+   -17.106936007910722,
+   0.3549612019151395,
+   3.1467667835795092,
+   2.222058715326319
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 93.7% a year over FY21–FY26 (₹1,994 cr → ₹54,364 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 56,
+      "excerpt": "Consolidated revenue from operations grew 169% … YoY to INR 54,364 crore in FY26 from INR 20,243 crore",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 54364
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 1994
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 168.6% was the fastest in 5 years.",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 56,
+      "excerpt": "Consolidated revenue from operations grew 169% … YoY to INR 54,364 crore in FY26 from INR 20,243 crore",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 54364
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 20243
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 1933 bps over FY23–FY26 (−17.1% → 2.2%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   5405,
+   5833,
+   7167,
+   13590,
+   16315,
+   17292,
+   20211,
+   24138
+  ],
+  "ebitda": [
+   162,
+   72,
+   115,
+   239,
+   368,
+   486,
+   594,
+   752
+  ],
+  "pat": [
+   59,
+   39,
+   25,
+   65,
+   102,
+   174,
+   92,
+   125
+  ],
+  "margin": [
+   2.9972247918593897,
+   1.2343562489285103,
+   1.6045765313241245,
+   1.7586460632818248,
+   2.2555930125651242,
+   2.810548230395559,
+   2.938993617337094,
+   3.115419670229514
+  ],
+  "revenueYoY": [
+   64.38564476885644,
+   63.7563166760247,
+   70.39942938659058,
+   183.18399666597207,
+   201.85013876040702,
+   196.45122578433055,
+   182.00083717036418,
+   77.6158940397351
+  ],
+  "patYoY": [
+   -57.2463768115942,
+   -77.71428571428571,
+   -90.11857707509881,
+   -63.06818181818182,
+   72.88135593220339,
+   346.1538461538462,
+   268,
+   92.3076923076923
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   70,
+   507,
+   749,
+   2045,
+   4592,
+   5757
+  ],
+  "equity": [
+   16505,
+   19460,
+   20413,
+   30317,
+   30980,
+   31275
+  ],
+  "debtToEquity": [
+   0.004241139048773099,
+   0.02605344295991778,
+   0.03669230392397002,
+   0.06745390375037108,
+   0.14822466107165913,
+   0.18407673860911272
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.18 at FY27 end (0.04 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 7.7× from ₹749 cr to ₹5,757 cr over FY24–FY27.",
+    "tone": "negative",
+    "period": "FY24–FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   -1018,
+   -693,
+   -844,
+   646,
+   308,
+   632
+  ],
+  "pat": [
+   -816,
+   -1222,
+   -971,
+   351,
+   527,
+   366
+  ],
+  "fcf": [
+   -1028,
+   -750,
+   -945,
+   444,
+   -623,
+   -1114
+  ],
+  "capex": [
+   10,
+   57,
+   101,
+   202,
+   931,
+   1746
+  ],
+  "claims": [
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 1 of the last 5 years, −₹2,988 cr in total.",
+    "tone": "negative",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹3,037 cr, 6198% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "negative",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   -513,
+   -257,
+   -132,
+   -77,
+   -54,
+   2
+  ],
+  "debtorDays": [
+   24,
+   14,
+   24,
+   24,
+   35,
+   12
+  ],
+  "inventoryDays": [
+   28,
+   28,
+   22,
+   11,
+   12,
+   26
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from -132 to 2 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 2% in FY26 (-6% in FY23).",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 3,
+    "speaker": "Gaurav Malhotra",
+    "voice": "management",
+    "quote": "Firstly, you seem to have raised the long-term guidance in quick commerce from 5-6% to 6%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 3,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "It's also a function of increase in average store sizes, etc. All these investments are clearly lining up in a way where we now have higher visibility on margins and we think at this point we're likely to end at the higher end of the range that we had guided earlier and hence, the communication.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 7,
+    "speaker": "Swapnil Potdukhe",
+    "voice": "management",
+    "quote": "You mentioned last quarter that there will be some bit of seasonality in the Blinkit business, and that will help you grow meaningfully faster and you did deliver 21% QoQ volume growth.",
+    "structuredBy": "rules",
+    "metric": "volume_growth",
+    "low": 21,
+    "high": 21,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-07-4",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 8,
+    "speaker": "Swapnil Potdukhe",
+    "voice": "management",
+    "quote": "The other question is with respect to your capex guidance that you have said.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 3,
+    "speaker": "Gaurav Malhotra",
+    "voice": "management",
+    "quote": "First question is on the overall EBITDA guidance or indication of $1 billion by FY29.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 3,
+    "speaker": "Gaurav Malhotra",
+    "voice": "management",
+    "quote": "We do know about District EBITDA guidance of FY30.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 4,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "We've given overall guidance of 60% CAGR and that would obviously mean some reasonable store expansion, but we're not planning to give out any specific number guidance on that.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 4,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "Yes, it will not be 100%, but we are not guiding to a specific number.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 4,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "We've tried to give you the building blocks of what the 60% CAGR guidance is based upon.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "Manish Adukia",
+    "voice": "management",
+    "quote": "Where I was coming from was also the building blocks in terms of, and I know you don't want to give like a three-year store guidance, but if you were to think about user growth versus frequency versus average order value, if you can maybe give us a pecking order of what drives the most amount of growth versus followed by the second, followed by the third, that would also be helpful.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "I'm not saying that this metric will not go up, but I'm saying that the reason we're not providing a guidance for this metric and instead we're giving guidance for the overall growth of the business is because these variables and the building blocks of how we look at the business might evolve as we go along.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 16,
+    "speaker": "Vijit Jain",
+    "voice": "management",
+    "quote": "Any sort of guidance you can give on how you're thinking about capex beyond the store additions that you would do.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-9",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "We're not giving specific guidance but increasingly, as we also mentioned in the letter, a large part of our growth will come from geographic diversification so we will see that mix change over time.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 4,
+    "speaker": "Manish Adukia",
+    "voice": "management",
+    "quote": "I just wanted to tie up that guidance that you're saying that if competition is not irrational, it's only then you'll open 3,500 to 4,000 stores and only then you'll achieve 100% YoY growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-2",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 5,
+    "speaker": "Manish Adukia",
+    "voice": "management",
+    "quote": "You've maintained your $3 billion NOV guidance for going-out in FY30, which would imply north of 30% CAGR over the next four years.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-3",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 6,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "Even though we might see capex per store going up over the next few quarters, we don't expect net working capital to be beyond those 18 days that we had shared earlier, so that should remain within range and hence, as a consequence of that, the ROCE outcome should still be north of 40%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-4",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "As we have mentioned in question 11, the new labor codes do not impact our long-term margin guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-5",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 11,
+    "speaker": "Akshant Goyal",
+    "voice": "management",
+    "quote": "As of now, as we have mentioned, we expect year-on-year growth to continue slowly trending up towards 20% YoY, is what our current sense on the market is.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 1
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 141,
+    "excerpt": "We are a part of global coalitions on EVs including the Climate Group’s EV100 initiative and the UNEP-supported Deliver-e Coalition. We regularly contribute to stakeholder consultations facilitated by central, state and city-level government on the topic of EVs.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 147,
+    "excerpt": "We are a part of global",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 55,
+    "excerpt": "State of the Company’s affairs Company overview The Company is one of the first home-grown new-age tech companies listed in India and operates through four key business segments:  Food delivery: A technology platform that provides customers with a seamless, on-demand solution to search and discover restaurants, order food, and have it delivered reliably and quickly.",
+    "section": "Board's report"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-10",
+    "page": 4,
+    "excerpt": "Hi Aditya. Yes, dark.ai is definitely in Eternal. Anything in this letter is safe to assume is part of Eternal. On your other question, this product has been in the works for about a year, and it's not monetized yet, so all the costs here are accounted for in our ‘Others’ segment. So they are already carved out.",
+    "speaker": "Akshant Goyal"
+   },
+   {
+    "sourceId": "call-2026-10",
+    "page": 3,
+    "excerpt": "Hi Garima, Akshant here. Generally, the competitive intensity last quarter in food delivery was higher compared to the previous few quarters, and partly also driven by Zomato. We've been aggressively investing in growth, and we are seeing good outcomes on certain investments that we've experimented with in the last few quarters, and they're paying off well.",
+    "speaker": "Akshant Goyal"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 93.7% a year over FY21–FY26 (₹1,994 cr → ₹54,364 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 56,
+      "excerpt": "Consolidated revenue from operations grew 169% … YoY to INR 54,364 crore in FY26 from INR 20,243 crore",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 1933 bps over FY23–FY26 (−17.1% → 2.2%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.18 at FY27 end (0.04 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 7.7× from ₹749 cr to ₹5,757 cr over FY24–FY27.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "cash",
+    "text": "Free cash flow (as computed by screener.in) was positive in 1 of the last 5 years, −₹2,988 cr in total.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 7.7× from ₹749 cr to ₹5,757 cr over FY24–FY27.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.18 at FY27 end (0.04 at FY24).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from -132 to 2 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 422 pages), 4 call transcripts and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/ETERNAL/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b6a4218-6bde-4c99-b10c-39ec7553cc42.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 422,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 422,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 16,
+   "coverage": {
+    "pagesRead": 16,
+    "totalPages": 16,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faa4f0f7-06e4-4066-9d68-3da95dfe02d9.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://b.zmtcdn.com/investor-relations/Eternal_Limited_Shareholders_Letter_Q2FY27_Results.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 39,
+   "coverage": {
+    "pagesRead": 39,
+    "totalPages": 39,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2687a83-7148-436f-9c29-f2d06f912134.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/629bfe24-4e55-4b14-957e-8c8bc5828ff0.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.zomato.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/ETERNAL.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

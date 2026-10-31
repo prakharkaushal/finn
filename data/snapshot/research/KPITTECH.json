@@ -1,0 +1,1258 @@
+{
+ "symbol": "KPITTECH",
+ "exchange": "NSE",
+ "name": "KPIT Technologies",
+ "generatedAt": "2026-10-29T09:09:10.114Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/KPITTECH/consolidated/",
+  "retrievedAt": "2026-10-29T09:00:22.895Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 552.5,
+  "changePct": 3.872903673698886,
+  "date": "2026-10-28",
+  "spark": [
+   722.6500244140625,
+   729.1500244140625,
+   733.4500122070312,
+   712.0499877929688,
+   710.6500244140625,
+   709,
+   703.7000122070312,
+   707.75,
+   743.7000122070312,
+   750.7999877929688,
+   750.9000244140625,
+   751.0499877929688,
+   756.5999755859375,
+   784.7000122070312,
+   771.7999877929688,
+   771.9500122070312,
+   786.0999755859375,
+   809.25,
+   774.25,
+   773,
+   777.7999877929688,
+   755.2999877929688,
+   756.1500244140625,
+   732.9500122070312,
+   736.9000244140625,
+   749,
+   757,
+   756.5499877929688,
+   752,
+   745.9500122070312,
+   760.0499877929688,
+   756.4000244140625,
+   741.1500244140625,
+   736.0499877929688,
+   742.5999755859375,
+   712.2000122070312,
+   671.5499877929688,
+   557.5499877929688,
+   558.7999877929688,
+   558.6500244140625,
+   558,
+   562.4000244140625,
+   554.5999755859375,
+   548.1500244140625,
+   561.75,
+   573.4500122070312,
+   555.5999755859375,
+   551.5999755859375,
+   551.3499755859375,
+   554.0499877929688,
+   561.2000122070312,
+   564.4500122070312,
+   554.9000244140625,
+   550.9000244140625,
+   583.2000122070312,
+   585.2000122070312,
+   602.4500122070312,
+   638.75,
+   589.75,
+   598.4000244140625,
+   619.25,
+   625.5999755859375,
+   623,
+   623,
+   629.9000244140625,
+   627.9000244140625,
+   627,
+   609.2000122070312,
+   620.5,
+   614,
+   609,
+   596.6500244140625,
+   589.0999755859375,
+   592.9000244140625,
+   589.2999877929688,
+   583.0999755859375,
+   592,
+   590,
+   588,
+   609.4000244140625,
+   585,
+   590,
+   588,
+   583.5,
+   575.4500122070312,
+   562.25,
+   562,
+   553.0999755859375,
+   550.9500122070312,
+   553.75,
+   563,
+   555,
+   559.2999877929688,
+   532,
+   536.7999877929688,
+   529.0499877929688,
+   527,
+   516.8499755859375,
+   519.4000244140625,
+   509,
+   519.7000122070312,
+   499.1000061035156,
+   492,
+   489.5,
+   492.70001220703125,
+   484.25,
+   471,
+   479,
+   481,
+   513.75,
+   523.7999877929688,
+   526,
+   555,
+   536.9500122070312,
+   544.7000122070312,
+   537.75,
+   532.6500244140625,
+   536.5499877929688,
+   531.9000244140625,
+   552.5
+  ],
+  "high52": 1269.800048828125,
+  "low52": 471,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/KPITTECH.NS",
+   "retrievedAt": "2026-10-29T09:00:23.752Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 14,879 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 543"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,285 / 470"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "25.8"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 134"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.38 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "26.3 %"
+  },
+  {
+   "name": "ROE",
+   "value": "20.9 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 10.0"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹1,691 cr (+6.5% YoY), PAT ₹121 cr (−28.4% YoY).",
+   "tone": "neutral",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 9,
+     "excerpt": "Revenue from operations 16,909.66 16,749.94 15,877.11 33,659.60 31,264.72 64 ,549.31",
+     "level": "page",
+     "unit": "₹ million"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 1691
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 121
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹6,694 cr, EBITDA ₹1,152 cr (17.2% margin), PAT ₹533 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   2036,
+   2432,
+   3365,
+   4872,
+   5842,
+   6455
+  ],
+  "ebitda": [
+   307,
+   439,
+   633,
+   991,
+   1230,
+   1220
+  ],
+  "pat": [
+   147,
+   276,
+   387,
+   599,
+   840,
+   637
+  ],
+  "margin": [
+   15.078585461689586,
+   18.050986842105264,
+   18.811292719167906,
+   20.34072249589491,
+   21.054433413214653,
+   18.90007745933385
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 26.0% a year over FY21–FY26 (₹2,036 cr → ₹6,455 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Revenue from operations 292.83 26,078.62 724.80 64,549.31",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 6455
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 2036
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 10.5% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Revenue from operations 292.83 26,078.62 724.80 64,549.31",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "ar-2026",
+      "page": 149,
+      "excerpt": "Revenue from operations 35 64,549.31 58,423.45",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Independent auditor's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 6455
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 5842
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 9 bps over FY23–FY26 (18.8% → 18.9%).",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 34.1% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Profit after Tax (PAT) 61.28 5,457.25 71.57 6,373.70",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 637
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 147
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   1478,
+   1528,
+   1539,
+   1588,
+   1617,
+   1711,
+   1675,
+   1691
+  ],
+  "ebitda": [
+   306,
+   323,
+   295,
+   298,
+   311,
+   317,
+   257,
+   267
+  ],
+  "pat": [
+   187,
+   245,
+   172,
+   169,
+   133,
+   163,
+   116,
+   121
+  ],
+  "margin": [
+   20.70365358592693,
+   21.138743455497384,
+   19.16829109811566,
+   18.765743073047858,
+   19.233147804576376,
+   18.52717708942139,
+   15.343283582089553,
+   15.789473684210526
+  ],
+  "revenueYoY": [
+   17.58154335719968,
+   15.933232169954476,
+   12.747252747252746,
+   7.953772943575799,
+   9.404600811907985,
+   11.976439790575915,
+   8.836907082521117,
+   6.486146095717885
+  ],
+  "patYoY": [
+   19.10828025477707,
+   47.59036144578313,
+   -15.686274509803921,
+   -17.15686274509804,
+   -28.87700534759358,
+   -33.46938775510204,
+   -32.55813953488372,
+   -28.402366863905325
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   227,
+   287,
+   329,
+   345,
+   838,
+   764
+  ],
+  "equity": [
+   1310,
+   1651,
+   2146,
+   2912,
+   3541,
+   3687
+  ],
+  "debtToEquity": [
+   0.1732824427480916,
+   0.17383403997577226,
+   0.1533084808946878,
+   0.11847527472527472,
+   0.23665631177633437,
+   0.20721453756441552
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.21 at FY27 end (0.15 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 2.3× from ₹329 cr to ₹764 cr over FY24–FY27.",
+    "tone": "negative",
+    "period": "FY24–FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   628,
+   475,
+   462,
+   1002,
+   1390,
+   1195
+  ],
+  "pat": [
+   147,
+   276,
+   387,
+   599,
+   840,
+   637
+  ],
+  "fcf": [
+   568,
+   406,
+   335,
+   847,
+   1262,
+   1056
+  ],
+  "capex": [
+   60,
+   69,
+   127,
+   155,
+   128,
+   139
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.65× reported profit (₹4,524 cr vs ₹2,739 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 151,
+      "excerpt": "Cash generated from operations 14,088.49 15,944.21 … Net cash generated from operating activities (A) 11,947.74 13,895.27",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 1195
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 1390
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹3,906 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹618 cr, 14% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   55,
+   56,
+   64,
+   56,
+   56,
+   61
+  ],
+  "debtorDays": [
+   55,
+   56,
+   64,
+   56,
+   56,
+   61
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle held steady from 64 to 61 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 26% in FY26 (30% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-08-1",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 16,
+    "speaker": "Sandeep Shah",
+    "voice": "management",
+    "quote": "And in margin uplift you are saying the major uplift where you have already guided Q-on-Q improvement, but the major uplift can happen with the growth turnaround, which we expect by Q4.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 6,
+    "speaker": "Priya Hardikar",
+    "voice": "management",
+    "quote": "We believe this growth, we expect to be 30% on this, even though it's a small part, as we said, initially we start with 20 25%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "Priya Hardikar",
+    "voice": "management",
+    "quote": "And that will pretty much take us north of 75% overall, in terms of having outcome-based and fixed price The second part is there are five products that we have and we see tremendous growth in all of these five products in the immediate future.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Priya Hardikar",
+    "voice": "management",
+    "quote": "India, we will be Almost doubling, it's a small base, but doubling the revenue and China, which is also, again, have grown reasonably well Connected vehicles, after sales, and autonomous driving which we are expecting growth, which these are the areas where we will have substantial growth We expect 30% year-on-year revenue growth in solution and products, and we hope it will increase over the period.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 30,
+    "high": 30,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 7.643108410617206,
+     "actualLabel": "YoY growth, 2 of 4 quarters of FY27",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (YoY growth, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 18,
+    "speaker": "Priya Hardikar",
+    "voice": "management",
+    "quote": "So we expect the EBITDA to be between 22% to 24% from where we are today.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 5,
+    "speaker": "Kishor Patil",
+    "voice": "management",
+    "quote": "So, after giving that, I think we will be in a position to maintain our EBITDA margins at 21% for the whole year.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 21,
+    "high": 21,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 18.90007745933385,
+     "actualLabel": "FY26 EBITDA margin",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "missed",
+    "assessmentNote": "18.9% reported — 2.1 percentage points short of 21%"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 5,
+    "speaker": "Kishor Patil",
+    "voice": "management",
+    "quote": "And we are very confident that what we have talked about, that we will be in a position to maintain 21% EBITDA for the full year..",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 1,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 1,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 32,
+    "excerpt": "and has been reaping its benefits for the last 4 years. In our pursuit of continual services optimization, the Company has adopted Hyperconverged Infrastructure from the leading OEMs. Scaling out HCI cluster is helping us to suffice dynamic business requirements, quick customer on boarding & on the fly resource upgradation for deployed workloads.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 49,
+    "excerpt": "expertise of these companies and scaling it across its global client base alongside an ecosystem of complementary semiconductor, Tier-1, and cloud partners KPIT offers what few competitors can: end-to-end ownership across the entire vehicle software stack. This moat reaches clients through a fast-growing portfolio of solutions and products.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 48,
+    "excerpt": "advanced solutions, platforms, and products - propelled by mobility-infused AI frameworks, software craftsmanship, and systems integration mastery. Vision in Motion: Fueled by 2000+ vehicle production programs and powering 20+ million vehicles on the road with KPIT software, our experience is unmatched.",
+    "section": "Corporate overview"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-08",
+    "page": 4,
+    "excerpt": "So these were some of the few leading areas which helped us to get these revenues. I think these are the 2 things which we have mentioned about. Of course, this is not where we have been in the past, and we would like to come back to growth.",
+    "speaker": "Kishor Patil"
+   },
+   {
+    "sourceId": "call-2026-08",
+    "page": 13,
+    "excerpt": "Number two, within that, how do we get more business and wallet share from our existing clients in passenger cars. The clients that we never worked with, we have started engaging with them. An OEM in Korea, one OEM in Europe, one OEM in the U.S. and one in Japan. We have started doing this. This is step number one to have broad-based growth. Number two, we have opened seven different OEMs in off-highway segment.",
+    "speaker": "Sachin Tikekar"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-08-check-1",
+   "sourceId": "call-2026-08",
+   "page": 4,
+   "speaker": "Kishor Patil",
+   "quote": "On the back of this, for this quarter, year-on-year revenue we had Constant Currency revenue growth of 0.1%, year-on-year USD revenue decline of 0.6% and quarter-on-quarter Constant Currency revenue decline of 3.6%.",
+   "metric": "revenue_growth",
+   "quarter": "Q1 FY27",
+   "claimed": 0.1,
+   "reported": 8.836907082521117,
+   "status": "conflict",
+   "note": "Said +0.1%; the reported consolidated figure is +8.8% — a 8.7-point gap. Definitions or basis may differ; check the filing."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 26.0% a year over FY21–FY26 (₹2,036 cr → ₹6,455 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Revenue from operations 292.83 26,078.62 724.80 64,549.31",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of 10.5% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 26,
+       "excerpt": "Revenue from operations 292.83 26,078.62 724.80 64,549.31",
+       "level": "page",
+       "unit": "₹ million",
+       "section": "Corporate overview"
+      },
+      {
+       "sourceId": "ar-2026",
+       "page": 149,
+       "excerpt": "Revenue from operations 35 64,549.31 58,423.45",
+       "level": "page",
+       "unit": "₹ million",
+       "section": "Independent auditor's report"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.65× reported profit (₹4,524 cr vs ₹2,739 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 151,
+      "excerpt": "Cash generated from operations 14,088.49 15,944.21 … Net cash generated from operating activities (A) 11,947.74 13,895.27",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.21 at FY27 end (0.15 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 2.3× from ₹329 cr to ₹764 cr over FY24–FY27.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 26% in FY26 (30% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of 10.5% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Revenue from operations 292.83 26,078.62 724.80 64,549.31",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "ar-2026",
+      "page": 149,
+      "excerpt": "Revenue from operations 35 64,549.31 58,423.45",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Independent auditor's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Revenue compounded at 26.0% a year over FY21–FY26 (₹2,036 cr → ₹6,455 cr).",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 26,
+       "excerpt": "Revenue from operations 292.83 26,078.62 724.80 64,549.31",
+       "level": "page",
+       "unit": "₹ million",
+       "section": "Corporate overview"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 2.3× from ₹329 cr to ₹764 cr over FY24–FY27.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.21 at FY27 end (0.15 at FY24).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "credibility",
+    "text": "A number management stated does not match the reported one: Revenue growth (YoY) for Q1 FY27 — Said +0.1%; the reported consolidated figure is +8.8% — a 8.7-point gap. Definitions or basis may differ; check the filing.",
+    "citations": [
+     {
+      "sourceId": "call-2026-08",
+      "page": 4,
+      "speaker": "Kishor Patil",
+      "excerpt": "On the back of this, for this quarter, year-on-year revenue we had Constant Currency revenue growth of 0.1%, year-on-year USD revenue decline of 0.6% and quarter-on-quarter Constant Currency revenue decline of 3.6%.",
+      "level": "page"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (210 pages), 4 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/KPITTECH/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4d2467e3-e28a-472b-8492-7fd9e46e63c4.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 210,
+   "coverage": {
+    "pagesRead": 210,
+    "totalPages": 210,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d07f9c52-5c5a-443b-b239-6acd5e94b97a.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70c85b6c-58e6-423f-9b32-50b17a948674.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 31,
+   "coverage": {
+    "pagesRead": 31,
+    "totalPages": 31,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a574a9b4-2ec3-4418-afd7-7deb13264328.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 26,
+   "coverage": {
+    "pagesRead": 26,
+    "totalPages": 26,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcf7302f-a4b8-4d59-8914-f53018acd102.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 24,
+   "coverage": {
+    "pagesRead": 24,
+    "totalPages": 24,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f901b2e2-5991-467d-836f-623b8eefdbb9.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 36,
+   "coverage": {
+    "pagesRead": 36,
+    "totalPages": 36,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026124748_Outcome_NSE.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 27,
+   "coverage": {
+    "pagesRead": 27,
+    "totalPages": 27,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e6d2634-be8b-41d7-93c4-9b3fd8b78107.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2adfaf3e-928d-457f-af6f-aa7ae7130b36.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.kpit.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/KPITTECH.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

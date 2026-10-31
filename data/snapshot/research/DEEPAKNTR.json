@@ -1,0 +1,1175 @@
+{
+ "symbol": "DEEPAKNTR",
+ "exchange": "NSE",
+ "name": "Deepak Nitrite",
+ "generatedAt": "2026-10-29T09:09:10.897Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/DEEPAKNTR/consolidated/",
+  "retrievedAt": "2026-10-29T09:00:30.882Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1488.4000244140625,
+  "changePct": 3.9748532598017814,
+  "date": "2026-10-28",
+  "spark": [
+   1854.4000244140625,
+   1875.9000244140625,
+   1863.5999755859375,
+   1848.300048828125,
+   1856.4000244140625,
+   1840.199951171875,
+   1826.4000244140625,
+   1748.5,
+   1805.800048828125,
+   1824,
+   1785.300048828125,
+   1739.800048828125,
+   1745.9000244140625,
+   1727.0999755859375,
+   1714.800048828125,
+   1682,
+   1670.0999755859375,
+   1686.5,
+   1698.9000244140625,
+   1676.699951171875,
+   1680.0999755859375,
+   1664.800048828125,
+   1678.300048828125,
+   1664.699951171875,
+   1612.4000244140625,
+   1669.9000244140625,
+   1666.699951171875,
+   1641.300048828125,
+   1615.300048828125,
+   1658.199951171875,
+   1644.4000244140625,
+   1671.5,
+   1637.9000244140625,
+   1645.199951171875,
+   1622.4000244140625,
+   1563.699951171875,
+   1546.4000244140625,
+   1548.800048828125,
+   1572.4000244140625,
+   1558.0999755859375,
+   1602.199951171875,
+   1613.0999755859375,
+   1571.300048828125,
+   1621.199951171875,
+   1644,
+   1667.199951171875,
+   1669.300048828125,
+   1697,
+   1741.800048828125,
+   1708,
+   1689.699951171875,
+   1708.300048828125,
+   1696,
+   1653.800048828125,
+   1649.5999755859375,
+   1678.9000244140625,
+   1651.300048828125,
+   1674.5999755859375,
+   1643.9000244140625,
+   1662.199951171875,
+   1713.800048828125,
+   1717.699951171875,
+   1736.699951171875,
+   1750.4000244140625,
+   1796.5,
+   1779.199951171875,
+   1784.800048828125,
+   1718.4000244140625,
+   1701.800048828125,
+   1723.199951171875,
+   1780.5,
+   1771,
+   1768.300048828125,
+   1750.4000244140625,
+   1747.0999755859375,
+   1730.300048828125,
+   1751,
+   1776.699951171875,
+   1752.800048828125,
+   1762.9000244140625,
+   1749.4000244140625,
+   1782.800048828125,
+   1734.0999755859375,
+   1725.300048828125,
+   1712.4000244140625,
+   1642.0999755859375,
+   1647.800048828125,
+   1641.9000244140625,
+   1645.800048828125,
+   1587.800048828125,
+   1561.300048828125,
+   1590.5,
+   1604.800048828125,
+   1586.300048828125,
+   1586.300048828125,
+   1613.199951171875,
+   1635.800048828125,
+   1600.9000244140625,
+   1587.0999755859375,
+   1550.800048828125,
+   1529,
+   1529.800048828125,
+   1492.800048828125,
+   1497,
+   1560.5999755859375,
+   1553.9000244140625,
+   1584.0999755859375,
+   1621.9000244140625,
+   1618.300048828125,
+   1622.0999755859375,
+   1645.4000244140625,
+   1599.5999755859375,
+   1598.5,
+   1550.5999755859375,
+   1506.199951171875,
+   1487.4000244140625,
+   1446.800048828125,
+   1442.5,
+   1431.5,
+   1488.4000244140625
+  ],
+  "high52": 1875.9000244140625,
+  "low52": 1286.800048828125,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/DEEPAKNTR.NS",
+   "retrievedAt": "2026-10-29T09:00:31.501Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 20,062 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,471"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,898 / 1,280"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "25.3"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 428"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.51 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "11.4 %"
+  },
+  {
+   "name": "ROE",
+   "value": "9.82 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹2,578 cr (+36.4% YoY), PAT ₹345 cr (+208.0% YoY).",
+   "tone": "positive",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q1 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 2578
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 345
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹8,575 cr, EBITDA ₹1,331 cr (15.5% margin), PAT ₹783 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   4360,
+   6802,
+   7972,
+   7682,
+   8282,
+   7887
+  ],
+  "ebitda": [
+   1252,
+   1607,
+   1292,
+   1127,
+   1095,
+   987
+  ],
+  "pat": [
+   776,
+   1067,
+   852,
+   811,
+   697,
+   551
+  ],
+  "margin": [
+   28.71559633027523,
+   23.62540429285504,
+   16.20672353236327,
+   14.67065868263473,
+   13.221444095629076,
+   12.514263978699125
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 12.6% a year over FY21–FY26 (₹4,360 cr → ₹7,887 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 7887
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 4360
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of −4.8% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 7887
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 8282
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 369 bps over FY23–FY26 (16.2% → 12.5%).",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at −6.6% a year over FY21–FY26, lagging revenue.",
+    "tone": "negative",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 203,
+      "excerpt": "Net Profit for the Year 188.88 276.43 550.66 697.37",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 551
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 776
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   2032,
+   1903,
+   2180,
+   1890,
+   1902,
+   1975,
+   2120,
+   2578
+  ],
+  "ebitda": [
+   298,
+   169,
+   317,
+   190,
+   204,
+   211,
+   376,
+   540
+  ],
+  "pat": [
+   194,
+   98,
+   202,
+   112,
+   119,
+   100,
+   220,
+   345
+  ],
+  "margin": [
+   14.665354330708661,
+   8.88071466106148,
+   14.541284403669724,
+   10.052910052910052,
+   10.725552050473187,
+   10.683544303797468,
+   17.735849056603772,
+   20.946470131885185
+  ],
+  "revenueYoY": [
+   14.285714285714285,
+   -5.276256844201095,
+   2.539981185324553,
+   -12.782648823257961,
+   -6.397637795275591,
+   3.783499737256963,
+   -2.7522935779816518,
+   36.402116402116405
+  ],
+  "patYoY": [
+   -5.365853658536586,
+   -51.48514851485149,
+   -20.47244094488189,
+   -44.827586206896555,
+   -38.659793814432994,
+   2.0408163265306123,
+   8.91089108910891,
+   208.03571428571428
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   590,
+   315,
+   73,
+   286,
+   1267,
+   1638
+  ],
+  "equity": [
+   2346,
+   3338,
+   4090,
+   4796,
+   5388,
+   5837
+  ],
+  "debtToEquity": [
+   0.2514919011082694,
+   0.09436788496105453,
+   0.01784841075794621,
+   0.05963302752293578,
+   0.23515219005196733,
+   0.2806236080178174
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.28 at FY26 end (0.02 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 22.4× from ₹73 cr to ₹1,638 cr over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   1002,
+   824,
+   650,
+   874,
+   625,
+   539
+  ],
+  "pat": [
+   776,
+   1067,
+   852,
+   811,
+   697,
+   551
+  ],
+  "fcf": [
+   788,
+   638,
+   290,
+   110,
+   -494,
+   -658
+  ],
+  "capex": [
+   214,
+   186,
+   360,
+   764,
+   1119,
+   1197
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 0.88× reported profit (₹3,512 cr vs ₹3,978 cr) — conversion is partial.",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 539
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 625
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 3 of the last 5 years, −₹114 cr in total.",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹3,626 cr, 103% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   56,
+   67,
+   76,
+   77,
+   82,
+   92
+  ],
+  "debtorDays": [
+   63,
+   61,
+   60,
+   62,
+   56,
+   70
+  ],
+  "inventoryDays": [
+   64,
+   53,
+   62,
+   54,
+   59,
+   57
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from 76 to 92 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 11% in FY26 (30% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 19,
+    "speaker": "Sanil Jain",
+    "voice": "management",
+    "quote": "But if we see the gross margin of the Phenolics business, then the gross margins have improved by 150 bps sequentially.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 11,
+    "speaker": "Abhijit Akella",
+    "voice": "management",
+    "quote": "And just on the Advanced Intermediates segment, the 3% revenue decline we see year-on-year this quarter to INR 588 crore.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 15,
+    "speaker": "Kumar Saumya",
+    "voice": "management",
+    "quote": "Lastly, the CAPEX guidance for this year was about INR 1,500 crore.",
+    "structuredBy": "rules",
+    "metric": "capex",
+    "low": 1500,
+    "high": 1500,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 1
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 78,
+    "excerpt": "The opportunities before us are significant, and we are confident that the investments being undertaken today will meaningfully expand our future earnings potential and reinforce Deepak Nitrite’s position as one of India’s leading",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 149,
+    "excerpt": "its operations, strengthening governance practices, and creating long-term value for all stakeholders. Overall, FY 2025-26 reflected the Company’s ability to navigate a challenging market environment while continuing to strengthen its manufacturing capabilities, expand its growth platform, and invest in future opportunities.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 242,
+    "excerpt": "products into the market will generate more revenue through greater business with existing customers and the addition of new clients. 18 Digitalization, IT Security & Data Privacy Opportunity As demonstrated during recent global disruptions, adopting digital modes of operation is crucial. These methods can greatly influence customer relationships, product launches, workforce productivity and operational efficiency.",
+    "section": "Corporate overview"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-08",
+    "page": 5,
+    "excerpt": "Our strategy of diversifying products, customers and geographies continues to reduce dependence on any single market or end application while strengthening the resilience of our business.",
+    "speaker": "Maulik Mehta"
+   },
+   {
+    "sourceId": "call-2026-08",
+    "page": 4,
+    "excerpt": "Performance was driven by improving domestic demand, a better product mix and increasing synergies from our recent backward integration and growing contribution from other commissioned manufacturing assets. During the quarter, we also expanded our engagement in specialty chemical applications and strengthened our presence across high-value customer segments.",
+    "speaker": "Maulik Mehta"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-08-check-1",
+   "sourceId": "call-2026-08",
+   "page": 6,
+   "speaker": "Sanjay Upadhyay",
+   "quote": "EBITDA margin expanded to 21% compared to 18% in previous quarter and 11% in Q1 FY26.",
+   "metric": "ebitda_margin",
+   "quarter": "Q1 FY27",
+   "claimed": 21,
+   "reported": 20.946470131885185,
+   "status": "consistent",
+   "note": "Said 21.0%; reported 20.9% (consolidated)."
+  },
+  {
+   "id": "call-2026-05-check-2",
+   "sourceId": "call-2026-05",
+   "page": 5,
+   "speaker": "Sanjay Upadhyay",
+   "quote": "PBT before exceptional items stood at INR301 crore, while PAT for the quarter stood at INR220 crore, reflecting growth of 9% year-on-year and 120% quarter-on-quarter.",
+   "metric": "pat_growth",
+   "quarter": "Q4 FY26",
+   "claimed": 9,
+   "reported": 8.91089108910891,
+   "status": "consistent",
+   "note": "Said +9.0%; reported +8.9% (consolidated)."
+  },
+  {
+   "id": "call-2026-02-check-3",
+   "sourceId": "call-2026-02",
+   "page": 3,
+   "speaker": "Maulik Mehta",
+   "quote": "During Q3, our consolidated total revenue stood at INR 1,983 crore, registering a growth of 3% on both a year-on-year and a quarter-on-quarter basis.",
+   "metric": "revenue_growth",
+   "quarter": "Q3 FY26",
+   "claimed": 3,
+   "reported": 3.783499737256963,
+   "status": "consistent",
+   "note": "Said +3.0%; reported +3.8% (consolidated)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q1 FY27: revenue ₹2,578 cr (+36.4% YoY), PAT ₹345 cr (+208.0% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "level": "document",
+      "section": "Revenue Q1 FY27 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "PAT compounded at −6.6% a year over FY21–FY26, lagging revenue.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 203,
+       "excerpt": "Net Profit for the Year 188.88 276.43 550.66 697.37",
+       "level": "page",
+       "section": "Board's report"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.28 at FY26 end (0.02 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 22.4× from ₹73 cr to ₹1,638 cr over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "credibility",
+    "text": "Numbers management stated on calls match the reported figures (3 checked, e.g. EBITDA margin for Q1 FY27).",
+    "citations": [
+     {
+      "sourceId": "call-2026-08",
+      "page": 6,
+      "speaker": "Sanjay Upadhyay",
+      "excerpt": "EBITDA margin expanded to 21% compared to 18% in previous quarter and 11% in Q1 FY26.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-05",
+      "page": 5,
+      "speaker": "Sanjay Upadhyay",
+      "excerpt": "PBT before exceptional items stood at INR301 crore, while PAT for the quarter stood at INR220 crore, reflecting growth of 9% year-on-year and 120% quarter-on-quarter.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-02",
+      "page": 3,
+      "speaker": "Maulik Mehta",
+      "excerpt": "During Q3, our consolidated total revenue stood at INR 1,983 crore, registering a growth of 3% on both a year-on-year and a quarter-on-quarter basis.",
+      "level": "page"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "PAT compounded at −6.6% a year over FY21–FY26, lagging revenue.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 203,
+      "excerpt": "Net Profit for the Year 188.88 276.43 550.66 697.37",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Q1 FY27: revenue ₹2,578 cr (+36.4% YoY), PAT ₹345 cr (+208.0% YoY).",
+     "citations": [
+      {
+       "sourceId": "results-2026-09-30",
+       "level": "document",
+       "section": "Revenue Q1 FY27 not located on a page"
+      },
+      {
+       "sourceId": "screener",
+       "section": "quarters",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin compressed by 369 bps over FY23–FY26 (16.2% → 12.5%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 22.4× from ₹73 cr to ₹1,638 cr over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.28 at FY26 end (0.02 at FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from 76 to 92 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 462 pages), 4 call transcripts, the Q2 FY27 results filing and the Aug 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/DEEPAKNTR/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9576f6d-6ec3-4f36-b0e0-2af594782e65.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 462,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 462,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=830edde9-d00b-4243-98bd-a0e7c77d716b.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=589629dc-be30-42d5-8ed4-bb605071a9bc.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 15,
+   "coverage": {
+    "pagesRead": 15,
+    "totalPages": 15,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fe2e422-45bb-44a8-a6e2-c9677c942a8d.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5cea937b-ae35-415f-bec1-eb4943130e05.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 19,
+   "coverage": {
+    "pagesRead": 19,
+    "totalPages": 19,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-08",
+   "kind": "presentation",
+   "title": "Investor presentation, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44bf51f8-1dc4-46da-a35b-d397a5aea85c.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b07f062f-57c7-4fa7-ac53-6daa1758ab26.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 1,
+   "coverage": {
+    "pagesRead": 1,
+    "totalPages": 1,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b98232b9-c32a-4a66-9523-93930a6c919c.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5ece091-ab73-49aa-9632-b0707bb1f68b.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "https://www.godeepak.com/",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/DEEPAKNTR.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

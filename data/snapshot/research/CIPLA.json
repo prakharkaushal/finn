@@ -1,0 +1,1582 @@
+{
+ "symbol": "CIPLA",
+ "exchange": "NSE",
+ "name": "Cipla",
+ "generatedAt": "2026-10-29T09:08:54.436Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/CIPLA/consolidated/",
+  "retrievedAt": "2026-10-29T08:58:15.840Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1365.5999755859375,
+  "changePct": 1.1555537471064814,
+  "date": "2026-10-28",
+  "spark": [
+   1362.300048828125,
+   1347,
+   1304.9000244140625,
+   1292.300048828125,
+   1327.5999755859375,
+   1436.699951171875,
+   1432.0999755859375,
+   1426.199951171875,
+   1409.800048828125,
+   1399.5,
+   1401.9000244140625,
+   1399.199951171875,
+   1413.9000244140625,
+   1417.5,
+   1418.199951171875,
+   1401,
+   1390.300048828125,
+   1379.300048828125,
+   1375.199951171875,
+   1398.699951171875,
+   1401.300048828125,
+   1387.9000244140625,
+   1376.5,
+   1377,
+   1383.300048828125,
+   1389.4000244140625,
+   1381.300048828125,
+   1373.199951171875,
+   1350.800048828125,
+   1355.5,
+   1351.800048828125,
+   1415.699951171875,
+   1433.0999755859375,
+   1437.9000244140625,
+   1440.0999755859375,
+   1454.0999755859375,
+   1465.4000244140625,
+   1456.699951171875,
+   1456,
+   1458.199951171875,
+   1472.300048828125,
+   1451.800048828125,
+   1431.800048828125,
+   1441.300048828125,
+   1439.4000244140625,
+   1426.699951171875,
+   1438.0999755859375,
+   1438,
+   1429.5,
+   1418.699951171875,
+   1441.5999755859375,
+   1432.5,
+   1415.0999755859375,
+   1393,
+   1410.5999755859375,
+   1409.4000244140625,
+   1444.5999755859375,
+   1474.300048828125,
+   1466.4000244140625,
+   1473.199951171875,
+   1474.4000244140625,
+   1460,
+   1458.800048828125,
+   1477,
+   1463.800048828125,
+   1467.699951171875,
+   1463,
+   1463,
+   1458.800048828125,
+   1450,
+   1431.5,
+   1431.0999755859375,
+   1422,
+   1438,
+   1432.199951171875,
+   1437.9000244140625,
+   1422,
+   1402.699951171875,
+   1420,
+   1423.5,
+   1409.199951171875,
+   1423,
+   1412.800048828125,
+   1394.699951171875,
+   1385,
+   1395,
+   1384,
+   1363.0999755859375,
+   1373.300048828125,
+   1366,
+   1351,
+   1358,
+   1376.300048828125,
+   1394.5,
+   1386.0999755859375,
+   1384.0999755859375,
+   1383,
+   1399,
+   1399.699951171875,
+   1383.699951171875,
+   1379.300048828125,
+   1346,
+   1344,
+   1335.5,
+   1340.199951171875,
+   1327.199951171875,
+   1306.800048828125,
+   1301,
+   1311.300048828125,
+   1329.5999755859375,
+   1314.5999755859375,
+   1328,
+   1325.0999755859375,
+   1324.0999755859375,
+   1314,
+   1330.9000244140625,
+   1338,
+   1355,
+   1350,
+   1365.5999755859375
+  ],
+  "high52": 1581.0999755859375,
+  "low52": 1192.4000244140625,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/CIPLA.NS",
+   "retrievedAt": "2026-10-29T09:05:28.540Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 1,10,076 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,363"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,599 / 1,166"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "35.4"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 438"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.96 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "15.5 %"
+  },
+  {
+   "name": "ROE",
+   "value": "11.6 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹7,404 cr (−2.4% YoY), PAT ₹852 cr (−37.0% YoY).",
+   "tone": "negative",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 2,
+     "excerpt": "Total revenue from operations 7,403.93 7,119.28 7,589.44 14,523.21 14,546.91 28,162.59",
+     "level": "page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 7404
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 852
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹28,139 cr, EBITDA ₹4,790 cr (17.0% margin), PAT ₹2,854 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   19160,
+   21763,
+   22753,
+   25774,
+   27548,
+   28163
+  ],
+  "ebitda": [
+   4252,
+   4553,
+   5027,
+   6291,
+   7128,
+   5883
+  ],
+  "pat": [
+   2389,
+   2547,
+   2833,
+   4154,
+   5269,
+   3862
+  ],
+  "margin": [
+   22.192066805845513,
+   20.920828929835043,
+   22.093789829912538,
+   24.408318460464034,
+   25.87483664875853,
+   20.889109824947628
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 8.0% a year over FY21–FY26 (₹19,160 cr → ₹28,163 cr).",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 28163
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 19160
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 2.2% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 28163
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 27548
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 120 bps over FY23–FY26 (22.1% → 20.9%).",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 10.1% a year over FY21–FY26, ahead of revenue.",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "PAT FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 3862
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 2389
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   7073,
+   6730,
+   6957,
+   7589,
+   7074,
+   6541,
+   7119,
+   7404
+  ],
+  "ebitda": [
+   1989,
+   1538,
+   1778,
+   1895,
+   1255,
+   955,
+   1192,
+   1388
+  ],
+  "pat": [
+   1575,
+   1214,
+   1292,
+   1353,
+   674,
+   543,
+   786,
+   852
+  ],
+  "margin": [
+   28.121023610914747,
+   22.85289747399703,
+   25.556992956734227,
+   24.97035182500988,
+   17.741023466214305,
+   14.600214034551293,
+   16.743924708526478,
+   18.74662344678552
+  ],
+  "revenueYoY": [
+   7.1017565112053305,
+   9.20006490345611,
+   3.928891544666866,
+   7.630123386753652,
+   0.014138272303124559,
+   -2.808320950965825,
+   2.3285899094437257,
+   -2.4377388325207536
+  ],
+  "patYoY": [
+   47.47191011235955,
+   30.257510729613735,
+   9.957446808510637,
+   3.67816091954023,
+   -57.2063492063492,
+   -55.271828665568364,
+   -39.1640866873065,
+   -37.028824833702885
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   1056,
+   803,
+   559,
+   438,
+   614,
+   699
+  ],
+  "equity": [
+   20841,
+   23407,
+   26706,
+   31194,
+   34432,
+   35396
+  ],
+  "debtToEquity": [
+   0.05066935367784655,
+   0.03430597684453369,
+   0.020931625851868495,
+   0.014041161761877283,
+   0.01783224907063197,
+   0.01974799412362979
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.02 at FY27 end (0.02 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   3755,
+   3326,
+   3238,
+   4134,
+   5005,
+   3940
+  ],
+  "pat": [
+   2389,
+   2547,
+   2833,
+   4154,
+   5269,
+   3862
+  ],
+  "fcf": [
+   2964,
+   2645,
+   2102,
+   2819,
+   3490,
+   928
+  ],
+  "capex": [
+   791,
+   681,
+   1136,
+   1315,
+   1515,
+   3012
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.05× reported profit (₹19,643 cr vs ₹18,665 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 3940
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 5005
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹11,984 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹7,659 cr, 39% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   195,
+   180,
+   181,
+   182,
+   188,
+   202
+  ],
+  "debtorDays": [
+   66,
+   57,
+   65,
+   68,
+   73,
+   73
+  ],
+  "inventoryDays": [
+   232,
+   230,
+   228,
+   217,
+   231,
+   252
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from 181 to 202 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 15% in FY26 (18% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 8,
+    "speaker": "Damayanti Kerai",
+    "voice": "management",
+    "quote": "And similarly, if you can comment on your earlier guidance for the EBITDA margins of 18.5% to 20% for FY27.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 18.5,
+    "high": 20,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 17.764924602354885,
+     "actualLabel": "EBITDA margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBITDA margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 13,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "And our EBITDA margin guidance is also predicated on the launches and the margin improvement.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 15,
+    "speaker": "Abdulkader Puranwala",
+    "voice": "analyst",
+    "quote": "Sir, my first question is with regards to your $1 billion revenue guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-4",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 16,
+    "speaker": "Foram Parekh",
+    "voice": "management",
+    "quote": "Since we are retaining the EBITDA margin for guidance of around 20%, so just wanted to and which is subject to these new launches.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 20,
+    "high": 20,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 17.764924602354885,
+     "actualLabel": "EBITDA margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBITDA margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-07-5",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 16,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "Of course, if there is a change in the plan due to any reason, then there can be risk to this margin guidance, including that of new launches, what you said.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-6",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 18,
+    "speaker": "Achin Gupta",
+    "voice": "management",
+    "quote": "And we've already mentioned 18.5% to 20% as the guidance for this year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 7,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "We expect the EBITDA margins to be in the range of 18.5% to 20% and this would be actually achieved with a sequential improvement quarter-on-quarter with the key improvement being in the second half of the year.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 18.5,
+    "high": 20,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "H2",
+     "fy": 2027,
+     "inferred": true,
+     "label": "H2 FY27"
+    },
+    "verdict": {
+     "status": "pending",
+     "basis": "No reported numbers for H2 FY27 yet"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "No reported numbers for H2 FY27 yet"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Surya Patra",
+    "voice": "management",
+    "quote": "revenue guidance, what you are talking about, about $1 billion by the end of this year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 10,
+    "speaker": "Surya Patra",
+    "voice": "management",
+    "quote": "And now is it fair -- I mean since you have mentioned that Lanreotide, you have not factored while guiding the margin for the year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "Achin Gupta",
+    "voice": "management",
+    "quote": "We are guiding towards 7%-ish on R&D spend as a percentage of sales.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "Achin Gupta",
+    "voice": "management",
+    "quote": "So we are confident that we'll be able to deliver a strong double-digit growth as well as a market beating growth in FY '27, '28.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Neha Manpuria",
+    "voice": "management",
+    "quote": "And my second question is on the margin guidance that we mentioned, 18.5% to 20%.",
+    "structuredBy": "rules",
+    "metric": "other",
+    "low": 18.5,
+    "high": 20,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "So that's exactly what I had mentioned initially that in 18.5% to 20% that we're guiding, it will be more in the favor of H2 where you will have better than average and first 2 quarters where we don't have the benefit of new launches, we will see a lower margin than the average that we're giving.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 18,
+    "speaker": "Vivek Agarwal",
+    "voice": "management",
+    "quote": "I'm just again trying to understand your EBITDA margin guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 4,
+    "speaker": "Achin Gupta",
+    "voice": "management",
+    "quote": "Our One-India business delivered a strong quarter with 10% year-on-year growth, reinforcing its momentum and commitment to sustainable long-term growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-4",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 6,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "Now, these are deliberate strategic choices and will lead to FY’26 EBITDA margin guidance to land at around 21%.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 21,
+    "high": 21,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "delivered",
+     "actual": 20.889109824947628,
+     "actualLabel": "FY26 EBITDA margin",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "met",
+    "assessmentNote": "20.9% reported against 21% promised"
+   },
+   {
+    "id": "call-2026-01-2",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 6,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "Now, I would like to present the key financial highlights for the quarter: We reported a quarterly revenue of Rs 7,074 crores, which is flat YOY.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-3",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 6,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "This quarter our EBITDA was lower than our internal expectation by about 1.5% to 2%, which will affect the overall guidance for the year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-5",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 9,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "So, '27 margin, we are not currently guiding towards for a reason that we have not completed our annual operating plan for the year, which needs to go to the Board and then we can give that guidance next quarter.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-6",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 9,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "FY'26 is for which we have given guidance of that we should land the year at about 21%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-7",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 10,
+    "speaker": "Surya Narayan Patra",
+    "voice": "management",
+    "quote": "See, now we are guiding kind of a 21% margin for the full year, FY'26, wherein the fourth quarter, obviously, we know that it is a relatively weaker quarter for us.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-8",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 11,
+    "speaker": "Surya Narayan Patra",
+    "voice": "management",
+    "quote": "So, in that case, the overall margin, if we see, it looks like below 20%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-9",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 16,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "So, yes, that's the guidance that we have given in the last quarter as well, where we said that our R&D expenses, an estimate has gone up by about 50 basis points.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 6,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "And following a review of our other operations, we are revising our full year EBITDA margin guidance to about 22.75% to 24%.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 22.75,
+    "high": 24,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 20.889109824947628,
+     "actualLabel": "FY26 EBITDA margin",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "missed",
+    "assessmentNote": "20.9% reported — 1.9 percentage points short of 22.75–24%"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 6,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "The earlier guidance was 23.5% to 24.5%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-3",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 9,
+    "speaker": "Damayanti Kerai",
+    "voice": "management",
+    "quote": "My second question is on your revised EBITDA margin guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-4",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 9,
+    "speaker": "Damayanti Kerai",
+    "voice": "management",
+    "quote": "So it's, I think, a wide margin guidance which you have given.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-5",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 9,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "So that is one reason for the first half being at 25-plus-percent and second half being based on the margin guidance that we have given.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-6",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 10,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "The R&D spend that we had planned for the year, so now that we are estimating the R&D spend for the entire year now as against the plan, what we had planned, the spend will be about 0.5% -- sorry, I may have said 500 basis points, I meant 50 basis points, 0.5% of revenue higher basically.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-7",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 12,
+    "speaker": "Ashish Adukia",
+    "voice": "management",
+    "quote": "But usually, it should be -- you should pencil in for industry about 8% to 9% kind of growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-8",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 14,
+    "speaker": "Tushar Manudhane",
+    "voice": "management",
+    "quote": "So directionally, the EBITDA margin for FY '27 would be higher or lower than the current guidance for FY '26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-9",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 15,
+    "speaker": "Bino Pathiparampil",
+    "voice": "management",
+    "quote": "And last -- sorry, I couldn't clearly hear the EBITDA margin guidance.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [
+   {
+    "metric": "ebitda_margin",
+    "period": "FY26",
+    "from": "22.75–24%",
+    "to": "21%",
+    "direction": "cut",
+    "fromCall": "Nov 2025 call · Q2 FY26",
+    "toCall": "Jan 2026 call · Q3 FY26"
+   }
+  ],
+  "scorecard": {
+   "delivered": 1,
+   "missed": 1,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 2,
+   "pending": 1,
+   "not_comparable": 1
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 21,
+    "excerpt": "Cipla is a global pharmaceutical company dedicated to making medicines accessible to those in need. We proudly stand as the third largest pharmaceutical company in India2 and hold the second position in the prescription market in South Africa3.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 122,
+    "excerpt": "Established in 1997 in Pune, the Cipla Palliative Care and Training Centre (\"CPC\") is one of India's earliest dedicated palliative care centres. CPC Cipla Palliative Care and Training Centre was set up to provide free and holistic care to patients living with life-limiting illnesses, especially cancer.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 160,
+    "excerpt": "Strong relationships with the world’s largest generic pharmaceutical companies have helped Cipla to take necessary steps to provide better realisations to its partners. Additionally, it aims to support a higher number of seeding and lock-ins for new molecules under development that will help in achieving sustainable growth. The Company plans to enhance its API R&D and manufacturing capacities.",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-07",
+    "page": 4,
+    "excerpt": "On the trade generic side, our business delivered a healthy growth during the quarter on the back of vigorous execution in distribution and new product launches. Expanding our portfolio remains a key growth driver with 3 new launches this quarter, addressing specific patient needs.",
+    "speaker": "Achin Gupta"
+   },
+   {
+    "sourceId": "call-2026-07",
+    "page": 5,
+    "excerpt": "These launches are expected to strengthen our portfolio, enhance our respiratory leadership, and also help us support a sustainable long-term growth in the North America business. Coming to South Africa. In the private market, we achieved strong secondary growth of 6.5%, outperforming the overall market growth of 5.7% as per IQVIA MAT data.",
+    "speaker": "Achin Gupta"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-07-check-1",
+   "sourceId": "call-2026-07",
+   "page": 5,
+   "speaker": "Ashish Adukia",
+   "quote": "The EBITDA margin, excluding the other income, stood at 16.7% for the quarter.",
+   "metric": "ebitda_margin",
+   "quarter": "Q1 FY27",
+   "claimed": 16.7,
+   "reported": 16.743924708526478,
+   "status": "consistent",
+   "note": "Said 16.7%; reported 16.7% (consolidated)."
+  },
+  {
+   "id": "call-2026-01-check-2",
+   "sourceId": "call-2026-01",
+   "page": 6,
+   "speaker": "Ashish Adukia",
+   "quote": "The EBITDA margin, excluding other income, stood at 17.7%, to be precise for the quarter.",
+   "metric": "ebitda_margin",
+   "quarter": "Q3 FY26",
+   "claimed": 17.7,
+   "reported": 17.741023466214305,
+   "status": "consistent",
+   "note": "Said 17.7%; reported 17.7% (consolidated)."
+  },
+  {
+   "id": "call-2025-11-check-3",
+   "sourceId": "call-2025-11",
+   "page": 3,
+   "speaker": "Umang Vohra",
+   "quote": "This quarter, we delivered an all-time high quarterly revenue of INR7,589 crores, supported by a robust EBITDA margin of 25%.",
+   "metric": "ebitda_margin",
+   "quarter": "Q2 FY26",
+   "claimed": 25,
+   "reported": 24.97035182500988,
+   "status": "consistent",
+   "note": "Said 25.0%; reported 25.0% (consolidated)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.05× reported profit (₹19,643 cr vs ₹18,665 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.02 at FY27 end (0.02 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "Numbers management stated on calls match the reported figures (3 checked, e.g. EBITDA margin for Q1 FY27).",
+    "citations": [
+     {
+      "sourceId": "call-2026-07",
+      "page": 5,
+      "speaker": "Ashish Adukia",
+      "excerpt": "The EBITDA margin, excluding the other income, stood at 16.7% for the quarter.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-01",
+      "page": 6,
+      "speaker": "Ashish Adukia",
+      "excerpt": "The EBITDA margin, excluding other income, stood at 17.7%, to be precise for the quarter.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2025-11",
+      "page": 3,
+      "speaker": "Umang Vohra",
+      "excerpt": "This quarter, we delivered an all-time high quarterly revenue of INR7,589 crores, supported by a robust EBITDA margin of 25%.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Management fell short on 1 of 2 checkable promises, e.g. EBITDA margin 22.75–24% for FY26 (20.9% reported — 1.9 percentage points short of 22.75–24%).",
+     "citations": [
+      {
+       "sourceId": "call-2025-11",
+       "page": 6,
+       "speaker": "Ashish Adukia",
+       "excerpt": "And following a review of our other operations, we are revising our full year EBITDA margin guidance to about 22.75% to 24%.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹7,404 cr (−2.4% YoY), PAT ₹852 cr (−37.0% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 2,
+      "excerpt": "Total revenue from operations 7,403.93 7,119.28 7,589.44 14,523.21 14,546.91 28,162.59",
+      "level": "page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin compressed by 120 bps over FY23–FY26 (22.1% → 20.9%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from 181 to 202 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "Management fell short on 1 of 2 checkable promises, e.g. EBITDA margin 22.75–24% for FY26 (20.9% reported — 1.9 percentage points short of 22.75–24%).",
+    "citations": [
+     {
+      "sourceId": "call-2025-11",
+      "page": 6,
+      "speaker": "Ashish Adukia",
+      "excerpt": "And following a review of our other operations, we are revising our full year EBITDA margin guidance to about 22.75% to 24%.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Numbers management stated on calls match the reported figures (3 checked, e.g. EBITDA margin for Q1 FY27).",
+     "citations": [
+      {
+       "sourceId": "call-2026-07",
+       "page": 5,
+       "speaker": "Ashish Adukia",
+       "excerpt": "The EBITDA margin, excluding the other income, stood at 16.7% for the quarter.",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2026-01",
+       "page": 6,
+       "speaker": "Ashish Adukia",
+       "excerpt": "The EBITDA margin, excluding other income, stood at 17.7%, to be precise for the quarter.",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2025-11",
+       "page": 3,
+       "speaker": "Umang Vohra",
+       "excerpt": "This quarter, we delivered an all-time high quarterly revenue of INR7,589 crores, supported by a robust EBITDA margin of 25%.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 465 pages), 4 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/CIPLA/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 465,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 465,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 19,
+   "coverage": {
+    "pagesRead": 19,
+    "totalPages": 19,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6eae672f-e610-445c-967b-f13445776fd9.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/CIPLA_27102026133100_Cipla_SE_20261027_FR_Signed.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 19,
+   "coverage": {
+    "pagesRead": 19,
+    "totalPages": 19,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/674f8305-0979-4722-ad6c-b7915c00c1d8.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9ec11f08-4ca3-4060-8cd4-2cfad0af4959.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.cipla.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/CIPLA.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

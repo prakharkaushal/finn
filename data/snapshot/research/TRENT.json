@@ -1,0 +1,919 @@
+{
+ "symbol": "TRENT",
+ "exchange": "NSE",
+ "name": "Trent",
+ "generatedAt": "2026-10-29T09:09:00.193Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/TRENT/consolidated/",
+  "retrievedAt": "2026-10-29T08:58:53.758Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 2913.89990234375,
+  "changePct": 3.3077998105802577,
+  "date": "2026-10-28",
+  "spark": [
+   2862.7333984375,
+   2828.199951171875,
+   2787.39990234375,
+   2700.39990234375,
+   2723,
+   2754.933349609375,
+   2734.199951171875,
+   2688.199951171875,
+   2713.066650390625,
+   2733.2666015625,
+   2780.2666015625,
+   2864.333251953125,
+   2866.666748046875,
+   2826.39990234375,
+   2832.39990234375,
+   2816,
+   2771.533447265625,
+   2806.933349609375,
+   2838.39990234375,
+   2837.60009765625,
+   2774.199951171875,
+   2724.10009765625,
+   2771.300048828125,
+   2754.699951171875,
+   2710.89990234375,
+   2755.300048828125,
+   2901.10009765625,
+   2897.800048828125,
+   3102.800048828125,
+   3179.699951171875,
+   3205.800048828125,
+   3180.60009765625,
+   3142.89990234375,
+   3247,
+   3216.199951171875,
+   3258.300048828125,
+   3282.60009765625,
+   3290.300048828125,
+   3317.800048828125,
+   3340.60009765625,
+   3343.800048828125,
+   2927.800048828125,
+   2924,
+   2904.10009765625,
+   2902.800048828125,
+   2900.10009765625,
+   2869.10009765625,
+   2867.699951171875,
+   2860.199951171875,
+   2842.39990234375,
+   2925.89990234375,
+   2894.699951171875,
+   2887.300048828125,
+   2874.800048828125,
+   2890.5,
+   2938.300048828125,
+   2930.699951171875,
+   3005.199951171875,
+   2999.199951171875,
+   3005.89990234375,
+   3050,
+   3107.699951171875,
+   3129,
+   3107.10009765625,
+   2997,
+   3025,
+   3000,
+   2987,
+   2990,
+   2978,
+   2946,
+   2942.10009765625,
+   2953,
+   2970,
+   2924,
+   2905,
+   2930,
+   2908.199951171875,
+   2878.5,
+   2898,
+   2879.89990234375,
+   2855,
+   2852.300048828125,
+   2815.60009765625,
+   2853,
+   2814.5,
+   2793.60009765625,
+   2820,
+   2818.699951171875,
+   2802.39990234375,
+   2730,
+   2769.699951171875,
+   2789,
+   2824,
+   2815.5,
+   2782.89990234375,
+   2774,
+   2700,
+   2669.300048828125,
+   2626,
+   2635,
+   2621.60009765625,
+   2580,
+   2580,
+   2906,
+   2890.300048828125,
+   2876.300048828125,
+   2918.199951171875,
+   2913,
+   2987.800048828125,
+   2971,
+   2949.699951171875,
+   2958.699951171875,
+   2891.60009765625,
+   2822,
+   2775.800048828125,
+   2727.5,
+   2754,
+   2820.60009765625,
+   2913.89990234375
+  ],
+  "high52": 4780.60009765625,
+  "low52": 2197.199951171875,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/TRENT.NS",
+   "retrievedAt": "2026-10-29T09:08:58.998Z",
+   "mode": "live",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 1,52,406 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 2,858"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 3,400 / 2,184"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "83.4"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 131"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.14 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "28.3 %"
+  },
+  {
+   "name": "ROE",
+   "value": "27.7 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹5,755 cr (+17.9% YoY), PAT ₹518 cr (+21.9% YoY).",
+   "tone": "positive",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 5755
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 518
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹20,945 cr, EBITDA ₹3,928 cr (18.8% margin), PAT ₹1,815 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   2593,
+   4498,
+   8242,
+   12375,
+   17135,
+   20074
+  ],
+  "ebitda": [
+   114,
+   595,
+   1114,
+   1971,
+   2820,
+   3745
+  ],
+  "pat": [
+   -181,
+   35,
+   394,
+   1477,
+   1534,
+   1721
+  ],
+  "margin": [
+   4.3964519861164675,
+   13.228101378390395,
+   13.516136859985439,
+   15.927272727272726,
+   16.457543040560257,
+   18.655972900269006
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 50.6% a year over FY21–FY26 (₹2,593 cr → ₹20,074 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 104,
+      "excerpt": "Revenue from Operations 19,701.41 16,668.11 20,074.21 17,134.61",
+      "level": "page",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 20074
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 2593
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 17.2% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 104,
+      "excerpt": "Revenue from Operations 19,701.41 16,668.11 20,074.21 17,134.61",
+      "level": "page",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 20074
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 17135
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 514 bps over FY23–FY26 (13.5% → 18.7%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   4157,
+   4657,
+   4217,
+   4883,
+   4818,
+   5345,
+   5028,
+   5755
+  ],
+  "ebitda": [
+   646,
+   847,
+   651,
+   848,
+   816,
+   1081,
+   911,
+   1119
+  ],
+  "pat": [
+   335,
+   497,
+   312,
+   425,
+   373,
+   510,
+   413,
+   518
+  ],
+  "margin": [
+   15.54005292278085,
+   18.18767446854198,
+   15.43751482096277,
+   17.366373131271757,
+   16.936488169364882,
+   20.224508886810103,
+   18.118536197295146,
+   19.44396177237185
+  ],
+  "revenueYoY": [
+   39.40308517773307,
+   34.32362272858379,
+   27.865372953305034,
+   18.98148148148148,
+   15.900890064950685,
+   14.773459308567746,
+   19.2316812900166,
+   17.857874257628506
+  ],
+  "patYoY": [
+   46.92982456140351,
+   33.9622641509434,
+   -56.17977528089888,
+   8.695652173913043,
+   11.343283582089553,
+   2.61569416498994,
+   32.371794871794876,
+   21.88235294117647
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   2964,
+   4725,
+   4464,
+   1753,
+   2237,
+   2561
+  ],
+  "equity": [
+   2313,
+   2364,
+   2596,
+   4068,
+   5462,
+   6985
+  ],
+  "debtToEquity": [
+   1.2814526588845656,
+   1.998730964467005,
+   1.7195685670261942,
+   0.4309242871189774,
+   0.40955693885023803,
+   0.36664280601288474
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.37 at FY26 end (1.72 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings fell 43% from ₹4,464 cr to ₹2,561 cr over FY23–FY26.",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   285,
+   58,
+   595,
+   1349,
+   1661,
+   2668
+  ],
+  "pat": [
+   -181,
+   35,
+   394,
+   1477,
+   1534,
+   1721
+  ],
+  "fcf": [
+   194,
+   -152,
+   371,
+   955,
+   799,
+   931
+  ],
+  "capex": [
+   91,
+   210,
+   224,
+   394,
+   862,
+   1737
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.23× reported profit (₹6,331 cr vs ₹5,161 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 2668
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 1661
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹2,904 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹3,427 cr, 54% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   40,
+   74,
+   55,
+   45,
+   43,
+   36
+  ],
+  "debtorDays": [
+   3,
+   1,
+   2,
+   2,
+   1,
+   1
+  ],
+  "inventoryDays": [
+   102,
+   128,
+   105,
+   83,
+   77,
+   74
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle shortened from 55 to 36 days over FY23–FY26.",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 28% in FY26 (12% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "no_transcripts",
+  "transcriptsRead": 0,
+  "statements": [],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  },
+  "note": "No earnings-call transcripts were found for this company. Add one under Sources to check guidance."
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 12,
+    "excerpt": "Trent is one of the leading players in the branded lifestyle space in India. Our differentiated brands, that bring quality, affordability, and an enhanced customer experience, enable us to cater to a diverse and evolving consumer base across markets. Our key fashion brand concepts - Westside, Zudio, Samoh, and Burnt Toast - are each defined by a distinct identity and a clear consumer proposition.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 126,
+    "excerpt": "It is engaged in providing business support and outsourcing services relating to accounting, merchandising, human resources, payroll, sourcing, warehousing, distribution, etc., to Trent and associated businesses. Trent MAS Fashion Private Limited (TMF) Trent MAS Fashion Private Limited (TMF) was incorporated in 2023 as a 50:50 Joint Venture between the Company and MAS Amity Pte. Ltd.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 77,
+    "excerpt": "Strategic Roadmap At Trent, we are building a portfolio of distinctive own brands that deliver relevant fashion and lifestyle experiences at scale. Through an expanding omni-channel presence, consistent brand experience, and compelling value, we drive customer loyalty.",
+    "section": "Corporate overview"
+   }
+  ],
+  "segments": null,
+  "management": []
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 50.6% a year over FY21–FY26 (₹2,593 cr → ₹20,074 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 104,
+      "excerpt": "Revenue from Operations 19,701.41 16,668.11 20,074.21 17,134.61",
+      "level": "page",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of 17.2% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 104,
+       "excerpt": "Revenue from Operations 19,701.41 16,668.11 20,074.21 17,134.61",
+       "level": "page",
+       "section": "Corporate overview"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 514 bps over FY23–FY26 (13.5% → 18.7%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.23× reported profit (₹6,331 cr vs ₹5,161 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.37 at FY26 end (1.72 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of 17.2% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 104,
+      "excerpt": "Revenue from Operations 19,701.41 16,668.11 20,074.21 17,134.61",
+      "level": "page",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Revenue compounded at 50.6% a year over FY21–FY26 (₹2,593 cr → ₹20,074 cr).",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 104,
+       "excerpt": "Revenue from Operations 19,701.41 16,668.11 20,074.21 17,134.61",
+       "level": "page",
+       "section": "Corporate overview"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (262 pages) and the Aug 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/TRENT/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3f6fa4a-3c51-453e-b634-3c3ef98f7361.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 262,
+   "coverage": {
+    "pagesRead": 262,
+    "totalPages": 262,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-08",
+   "kind": "presentation",
+   "title": "Investor presentation, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffb34801-a67e-4184-897a-06bf9e8bec64.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 35,
+   "coverage": {
+    "pagesRead": 35,
+    "totalPages": 35,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c7330ad5-ba82-4673-baaa-b39af9c47c87.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "https://trentlimited.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/TRENT.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

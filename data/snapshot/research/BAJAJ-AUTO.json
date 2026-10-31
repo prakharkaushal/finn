@@ -1,0 +1,1134 @@
+{
+ "symbol": "BAJAJ-AUTO",
+ "exchange": "NSE",
+ "name": "Bajaj Auto",
+ "generatedAt": "2026-10-29T09:08:52.814Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/BAJAJ-AUTO/consolidated/",
+  "retrievedAt": "2026-10-29T08:58:06.299Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 10485,
+  "changePct": 0.9143407122232916,
+  "date": "2026-10-28",
+  "spark": [
+   10605,
+   10711.5,
+   10595.5,
+   10397,
+   10262,
+   10451,
+   10377.5,
+   10198.5,
+   10205,
+   10462.5,
+   10667,
+   10549.5,
+   10491,
+   10593,
+   10808.5,
+   10460,
+   10376,
+   10281,
+   10259,
+   10362,
+   10342,
+   10231,
+   10184,
+   10144,
+   10114,
+   10063,
+   9943,
+   9939,
+   10042,
+   10077,
+   10066,
+   10191,
+   10025,
+   9750,
+   9843,
+   9630,
+   9716,
+   9842,
+   9857,
+   9785.5,
+   10036.5,
+   10109.5,
+   10164,
+   10155,
+   10156,
+   10381,
+   10166,
+   10323,
+   10331.5,
+   10443,
+   10522.5,
+   10403.5,
+   10998.5,
+   11283.5,
+   11130,
+   11183.5,
+   11374,
+   11338,
+   11432,
+   11520.5,
+   11856,
+   11600,
+   11800,
+   11620,
+   11662,
+   11677,
+   11717,
+   11700,
+   11661,
+   11700,
+   11663,
+   11607,
+   11645,
+   11793,
+   11700,
+   11800,
+   11927,
+   11724,
+   11720,
+   11910,
+   12130,
+   12361,
+   12130,
+   11920,
+   11919,
+   11800,
+   11880,
+   11790,
+   11768,
+   11678,
+   11424,
+   11593,
+   11500,
+   11414,
+   11460,
+   11363,
+   11400,
+   11208,
+   11281,
+   11024,
+   10811,
+   10874,
+   10045,
+   10024,
+   10017,
+   9884,
+   9637,
+   9778,
+   10034,
+   10318,
+   10250,
+   10385,
+   10405,
+   10287,
+   10072,
+   10155,
+   10072,
+   10071,
+   10390,
+   10485
+  ],
+  "high52": 12361,
+  "low52": 8720.5,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/BAJAJ-AUTO.NS",
+   "retrievedAt": "2026-10-29T09:01:37.753Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 2,84,046 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 10,336"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 12,470 / 8,605"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "21.6"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 1,332"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.44 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "28.2 %"
+  },
+  {
+   "name": "ROE",
+   "value": "29.2 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 10.0"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹25,126 cr (+59.7% YoY), PAT ₹3,384 cr (+59.5% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q2 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 25126
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 3384
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹80,851 cr, EBITDA ₹16,229 cr (20.1% margin), PAT ₹12,815 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   27741,
+   33145,
+   36455,
+   44870,
+   50995,
+   62905
+  ],
+  "ebitda": [
+   4938,
+   5259,
+   6465,
+   8765,
+   9555,
+   13097
+  ],
+  "pat": [
+   4857,
+   6166,
+   6060,
+   7708,
+   7325,
+   10574
+  ],
+  "margin": [
+   17.800367686817346,
+   15.866646553024587,
+   17.734192840488273,
+   19.534209939826162,
+   18.73713109128346,
+   20.820284556076622
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 17.8% a year over FY21–FY26 (₹27,741 cr → ₹62,905 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 267,
+      "excerpt": "Total Revenue from operations 25 62,905.00 50,994.55",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 62905
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 27741
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 23.4% was the fastest in 5 years.",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 267,
+      "excerpt": "Total Revenue from operations 25 62,905.00 50,994.55",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 62905
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 50995
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 309 bps over FY23–FY26 (17.7% → 20.8%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 16.8% a year over FY21–FY26, in line with revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 62,
+      "excerpt": "Profit after tax 9,824.66 8,151.42 10,574.50 7,324.73",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 10574
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 4857
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   13169,
+   12646,
+   13133,
+   15735,
+   16204,
+   17832,
+   21689,
+   25126
+  ],
+  "ebitda": [
+   2751,
+   2358,
+   2793,
+   2829,
+   3730,
+   3075,
+   4528,
+   4896
+  ],
+  "pat": [
+   2196,
+   1802,
+   2210,
+   2122,
+   2750,
+   3492,
+   3189,
+   3384
+  ],
+  "margin": [
+   20.889968866276863,
+   18.646212241024827,
+   21.267037234447574,
+   17.97902764537655,
+   23.019007652431497,
+   17.2442799461642,
+   20.876942228779566,
+   19.485791610284167
+  ],
+  "revenueYoY": [
+   8.253185367858611,
+   9.441800086542623,
+   10.065370432450553,
+   18.78161093077678,
+   23.046548712886324,
+   41.00901470820813,
+   65.14886164623468,
+   59.68223705115984
+  ],
+  "patYoY": [
+   8.017707820954255,
+   -10.392839383391347,
+   13.80020597322348,
+   53.2129963898917,
+   25.22768670309654,
+   93.78468368479467,
+   44.29864253393665,
+   59.47219604147031
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   123,
+   124,
+   1912,
+   9364,
+   22713,
+   26401
+  ],
+  "equity": [
+   29859,
+   29362,
+   28962,
+   35188,
+   38832,
+   36606
+  ],
+  "debtToEquity": [
+   0.004119360996684417,
+   0.004223145562291397,
+   0.06601754022512257,
+   0.266113447766284,
+   0.5849042027194067,
+   0.7212205649347102
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.72 at FY27 end (0.07 at FY24).",
+    "tone": "neutral",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 13.8× from ₹1,912 cr to ₹26,401 cr over FY24–FY27.",
+    "tone": "negative",
+    "period": "FY24–FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   3120,
+   4197,
+   5277,
+   6558,
+   -1406,
+   2597
+  ],
+  "pat": [
+   4857,
+   6166,
+   6060,
+   7708,
+   7325,
+   10574
+  ],
+  "fcf": [
+   2866,
+   3680,
+   4304,
+   5847,
+   -2273,
+   1885
+  ],
+  "capex": [
+   254,
+   517,
+   973,
+   711,
+   867,
+   712
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 0.46× reported profit (₹17,223 cr vs ₹37,833 cr) — profits are not fully turning into cash.",
+    "tone": "negative",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 271,
+      "excerpt": "Net cash flow from operating activities before income tax 6,026.14 1,344.47 … Net cash flow from/(used in) operating activities 2,596.60 (1,405.57)",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 2597
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": -1406
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹13,443 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹3,780 cr, 22% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   -22,
+   -19,
+   -18,
+   -28,
+   -29,
+   -1
+  ],
+  "debtorDays": [
+   36,
+   17,
+   18,
+   17,
+   15,
+   20
+  ],
+  "inventoryDays": [
+   28,
+   18,
+   22,
+   19,
+   22,
+   54
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from -18 to -1 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 28% in FY26 (27% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 3,
+  "statements": [
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 15,
+    "speaker": "Rakesh Sharma",
+    "voice": "management",
+    "quote": "But when we unbundle this 9%, we find that the upper half, particularly the upper half of the upper half, is maintaining very strong growth, which just indicates that still the people with stronger wallets are coming in and we have had a very, very good start to the mini season, which is led by marriages in the northern parts of the country.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 22,
+    "speaker": "Chandramouli Muthiah",
+    "voice": "management",
+    "quote": "And the second question is just around the prepared remarks that Rakesh had made that you'd hope to grow faster than the 7% to 9% broader motorcycle industry growth outlook.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 4,
+    "speaker": "Rakesh Sharma",
+    "voice": "management",
+    "quote": "We expect this growth momentum in the industry to continue and the motorcycle industry to continue to grow at, say, 12% to 15%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-2",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 10,
+    "speaker": "Kapil Singh",
+    "voice": "management",
+    "quote": "You had last time mentioned 6% to 8% industry growth outlook in the medium term.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 4,
+    "speaker": "Rakesh Sharma",
+    "voice": "management",
+    "quote": "Though November and particularly December will be smaller months, we think that the industry should improve its growth rate by 6 to 8 percentage points in the medium term and offer us very good opportunities to attract customers to our Pulsar portfolio, which is being further strengthened by the introduction of the new variants in the next 2-3 months.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 5,
+    "speaker": "Rakesh Sharma",
+    "voice": "management",
+    "quote": "We expect the same pattern to continue with the GST rate cut, lifting the ICE Auto growth by about 5% points.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 53,
+    "excerpt": "l First, enhancing access to relevant data across the organisation to enable deeper and more reliable insights. l Second, building the capability to develop and deploy digital solutions with greater speed and effectiveness. l Third, enabling technology-led actions and automation to drive measurable outcomes across business processes.",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 70,
+    "excerpt": "Collaboration with Triumph Motorcycles Ltd. (Triumph) With the launch of Triumph, Bajaj Auto has established a strong presence in the classic premium motorcycle segment through collaboration with the iconic British brand. The product portfolio comprises technology-led, high-performance motorcycles designed in their timeless forms.",
+    "section": "Board's report"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 60,
+    "excerpt": "one of the India’s leading automobile companies, with a strong domestic and global presence, and a household name among millions of its customers. With over 32 million vehicles sold in over 100 countries, the ‘Bajaj’ brand is truly ‘The World’s Favourite Indian’. It is India’s No.1 motorcycle exporter and is also the world’s largest manufacturer of three-wheelers. Post the demerger of the erstwhile Bajaj Auto Ltd.",
+    "section": "Board's report"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-05",
+    "page": 5,
+    "excerpt": "We will continue to build on this momentum with further upgrades and interventions planned across the Pulsar portfolio in the 125 and 150-plus segments in the coming months and do so in time to capture the surge in the festive season. Probiking, which houses KTM and Triumph brands. The business continued its steep growth trajectory during the quarter.",
+    "speaker": "Rakesh Sharma"
+   },
+   {
+    "sourceId": "call-2026-05",
+    "page": 5,
+    "excerpt": "KTM growth was led by strong demand across the Adventure and street portfolios with Duke 250 leading the charge in the street segment. The Adventure portfolio was further strengthened with the launch of the KTM 390 Adventure R in January, the most off-road capable adventure motorcycle in India. The more tax-friendly 350cc variants have now been introduced.",
+    "speaker": "Rakesh Sharma"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 17.8% a year over FY21–FY26 (₹27,741 cr → ₹62,905 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 267,
+      "excerpt": "Total Revenue from operations 25 62,905.00 50,994.55",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 309 bps over FY23–FY26 (17.7% → 20.8%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹13,443 cr in total.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Over the last 5 years, operating cash flow was 0.46× reported profit (₹17,223 cr vs ₹37,833 cr) — profits are not fully turning into cash.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 271,
+       "excerpt": "Net cash flow from operating activities before income tax 6,026.14 1,344.47 … Net cash flow from/(used in) operating activities 2,596.60 (1,405.57)",
+       "level": "page",
+       "section": "Consolidated financial statements"
+      },
+      {
+       "sourceId": "screener",
+       "section": "cash-flow",
+       "level": "section"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 28% in FY26 (27% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Cash conversion cycle lengthened from -18 to -1 days over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "ratios",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 0.46× reported profit (₹17,223 cr vs ₹37,833 cr) — profits are not fully turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 271,
+      "excerpt": "Net cash flow from operating activities before income tax 6,026.14 1,344.47 … Net cash flow from/(used in) operating activities 2,596.60 (1,405.57)",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹13,443 cr in total.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "cash-flow",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 13.8× from ₹1,912 cr to ₹26,401 cr over FY24–FY27.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from -18 to -1 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Return on capital employed was 28% in FY26 (27% in FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "ratios",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 444 pages), 3 call transcripts and the Q2 FY27 results filing; 1 document could not be read (see Sources).",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/BAJAJ-AUTO/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5cfa2fc3-ea76-452d-a3a9-71d3c9bf5ad6.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 444,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 444,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "PDF unreachable (fetch failed)"
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 24,
+   "coverage": {
+    "pagesRead": 24,
+    "totalPages": 24,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6beac10f-a781-42da-b71b-38ad4dd37e78.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_27102026152127_Q2Fy27Results.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5b564ba4-e324-4e91-a177-fb272352f81d.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e10ea05d-5083-4c0b-b9d4-dd38508602d4.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.bajajauto.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/BAJAJ-AUTO.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [
+  "Earnings-call transcript, Jul 2026: PDF unreachable (fetch failed)"
+ ],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

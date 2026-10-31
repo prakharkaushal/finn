@@ -1,0 +1,1062 @@
+{
+ "symbol": "RELIANCE",
+ "exchange": "NSE",
+ "name": "Reliance Industries",
+ "generatedAt": "2026-10-29T09:08:37.434Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/RELIANCE/consolidated/",
+  "retrievedAt": "2026-10-29T08:48:33.467Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1158,
+  "changePct": -3.193441960472566,
+  "date": "2026-10-28",
+  "spark": [
+   1436.199951171875,
+   1435.199951171875,
+   1388.199951171875,
+   1364,
+   1358.800048828125,
+   1361.800048828125,
+   1336.4000244140625,
+   1335.9000244140625,
+   1322.699951171875,
+   1359.699951171875,
+   1349.5999755859375,
+   1354.5,
+   1367,
+   1356.300048828125,
+   1350.5,
+   1321.199951171875,
+   1320,
+   1314.5999755859375,
+   1313.199951171875,
+   1303.699951171875,
+   1291,
+   1263.300048828125,
+   1269.199951171875,
+   1258.800048828125,
+   1263,
+   1293,
+   1307,
+   1328.800048828125,
+   1332.699951171875,
+   1328.0999755859375,
+   1309.5,
+   1326.5,
+   1309.5,
+   1313.5999755859375,
+   1318.0999755859375,
+   1301,
+   1293.9000244140625,
+   1308,
+   1303.5,
+   1304,
+   1321.300048828125,
+   1308.4000244140625,
+   1275.9000244140625,
+   1279.800048828125,
+   1307.800048828125,
+   1296.9000244140625,
+   1293,
+   1295.5,
+   1296.5999755859375,
+   1327.199951171875,
+   1323.0999755859375,
+   1303.699951171875,
+   1288.5999755859375,
+   1272.199951171875,
+   1278,
+   1280,
+   1267.699951171875,
+   1275.9000244140625,
+   1292.9000244140625,
+   1307.800048828125,
+   1319,
+   1290.9000244140625,
+   1280,
+   1325,
+   1334.800048828125,
+   1327.300048828125,
+   1323.9000244140625,
+   1329,
+   1317,
+   1310,
+   1316,
+   1322,
+   1311,
+   1313.199951171875,
+   1316,
+   1309.800048828125,
+   1317,
+   1298,
+   1282.199951171875,
+   1287,
+   1277,
+   1309,
+   1313.0999755859375,
+   1302.5,
+   1322,
+   1309.5,
+   1294.9000244140625,
+   1279,
+   1274,
+   1257.5,
+   1235.300048828125,
+   1240,
+   1243.9000244140625,
+   1226.4000244140625,
+   1247.4000244140625,
+   1240.4000244140625,
+   1248,
+   1219.199951171875,
+   1226,
+   1197.5999755859375,
+   1182,
+   1187,
+   1167.699951171875,
+   1186.4000244140625,
+   1218,
+   1207.699951171875,
+   1178,
+   1170.300048828125,
+   1158.9000244140625,
+   1166.699951171875,
+   1174.5999755859375,
+   1215,
+   1211.199951171875,
+   1202,
+   1209,
+   1184.5,
+   1190,
+   1201.800048828125,
+   1196.199951171875,
+   1158
+  ],
+  "high52": 1592.300048828125,
+  "low52": 1158,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/RELIANCE.NS",
+   "retrievedAt": "2026-10-29T09:05:14.738Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 15,80,465 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,168"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,612 / 1,152"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "21.2"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 668"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.52 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "10.3 %"
+  },
+  {
+   "name": "ROE",
+   "value": "8.91 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 10.0"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹3,09,468 cr (+27.0% YoY), PAT ₹23,196 cr (−24.6% YoY).",
+   "tone": "neutral",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q1 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 309468
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 23196
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹11,23,055 cr, EBITDA ₹1,83,561 cr (16.3% margin), PAT ₹88,167 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   466307,
+   694673,
+   876396,
+   899041,
+   962820,
+   1055780
+  ],
+  "ebitda": [
+   80790,
+   108581,
+   142318,
+   162498,
+   165598,
+   179065
+  ],
+  "pat": [
+   53739,
+   67845,
+   74088,
+   79020,
+   81309,
+   95754
+  ],
+  "margin": [
+   17.32549586431257,
+   15.630519683361813,
+   16.239006111392566,
+   18.07459281612296,
+   17.199268814524,
+   16.960446305101442
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 17.8% a year over FY21–FY26 (₹4,66,307 cr → ₹10,55,780 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 1055780
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 466307
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 9.7% was within its 5-year range (2.6% to 49.0%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 1055780
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 962820
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 72 bps over FY23–FY26 (16.2% → 17.0%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 12.2% a year over FY21–FY26, lagging revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 80,
+      "excerpt": "Profit After Tax and Share of Profit / … 43,851 4,624 35,262 4,125 95,754 10,096 81,309 9,512",
+      "level": "page",
+      "section": "Corporate governance report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 95754
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 53739
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   231535,
+   239986,
+   261388,
+   243632,
+   254623,
+   264905,
+   294059,
+   309468
+  ],
+  "ebitda": [
+   39058,
+   43789,
+   43832,
+   42905,
+   45885,
+   46018,
+   44141,
+   47517
+  ],
+  "pat": [
+   19323,
+   21930,
+   22611,
+   30783,
+   22092,
+   22290,
+   20589,
+   23196
+  ],
+  "margin": [
+   16.86915585116721,
+   18.24648104472761,
+   16.76894119087334,
+   17.61057660734222,
+   18.020760104153986,
+   17.371510541514883,
+   15.010933180076108,
+   15.354414672922564
+  ],
+  "revenueYoY": [
+   -0.15136748229733576,
+   6.619692028824538,
+   10.508047502885432,
+   5.111655679425672,
+   9.97171054052303,
+   10.383522372138374,
+   12.49904356741702,
+   27.022722795035136
+  ],
+  "patYoY": [
+   -2.792031391488077,
+   11.654192760042768,
+   6.439768394294592,
+   76.45743766122098,
+   14.33007297003571,
+   1.6415868673050615,
+   -8.94255008624121,
+   -24.64672059253484
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   278962,
+   319158,
+   451664,
+   350719,
+   374313,
+   402962
+  ],
+  "equity": [
+   700172,
+   779485,
+   715872,
+   793481,
+   843200,
+   904030
+  ],
+  "debtToEquity": [
+   0.398419245556806,
+   0.40944726325715053,
+   0.6309284341334763,
+   0.4420005015873096,
+   0.4439195920303605,
+   0.44573963253431853
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.45 at FY26 end (0.63 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   26958,
+   110654,
+   115032,
+   158788,
+   178703,
+   192113
+  ],
+  "pat": [
+   53739,
+   67845,
+   74088,
+   79020,
+   81309,
+   95754
+  ],
+  "fcf": [
+   -76560,
+   13646,
+   -16770,
+   21212,
+   41079,
+   70023
+  ],
+  "capex": [
+   103518,
+   97008,
+   131802,
+   137576,
+   137624,
+   122090
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.90× reported profit (₹7,55,290 cr vs ₹3,98,016 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 142,
+      "excerpt": "Cash Generated from Operations 2,01,721 1,90,628 … Net Cash Flow from Operating Activities * 1,92,113 1,78,703",
+      "level": "page",
+      "section": "Independent auditor's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 192113
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 178703
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹1,29,190 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹6,26,100 cr, 83% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   -19,
+   -27,
+   7,
+   -3,
+   -8,
+   25
+  ],
+  "debtorDays": [
+   15,
+   12,
+   12,
+   13,
+   16,
+   20
+  ],
+  "inventoryDays": [
+   102,
+   83,
+   87,
+   95,
+   85,
+   88
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from 7 to 25 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 10% in FY26 (9% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 29,
+    "speaker": "Meeting Audio",
+    "voice": "management",
+    "quote": "Company Speaker (Amit Chaturvedi) So, our original volume that we had designed the system was for about 1.6 million tonnes and because of Suez getting blocked, we were short by about 7% to 8% kind of number and with new ships coming in, we will not only catch up that, but we will go beyond that and with all the three ships are there we will be substantially higher than that number.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 11,
+    "speaker": "Meeting Audio",
+    "voice": "management",
+    "quote": "You will see a growth of 20% in overall reach and a watch time growth of 80% over the previous WPL so that gives you an idea of the momentum that the women's game is seeing.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-2",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 14,
+    "speaker": "Meeting Audio",
+    "voice": "management",
+    "quote": "Of course, all of you know, and probably there will be questions around a lot of under recoveries there but gasoline at 6.5% growth, gasoil 3.6 and the petrochemical products also reasonably strong growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 18,
+    "speaker": "Meeting Audio",
+    "voice": "management",
+    "quote": "And if you look at the CBG and CNG, I would like to point out one on the extreme right, there also it is a 55% growth and now we are at 10,000 tonnes.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 41,
+    "excerpt": "Reliance Industries Limited (RIL) is India’s largest private sector enterprise through sustained investment, disciplined execution and a long-term commitment to the country. A Fortune 500 company, its businesses today span energy and materials, digital services, retail, media and entertainment, green technologies and AI, collectively serving Millions of Indians across the economy."
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 101,
+    "excerpt": "The Company is engaged in activities spanning across hydrocarbon exploration and production, Oil to Chemicals, Retail and Digital Services. B. Material Accounting Policies: B.1 Basis of Preparation and Presentation The Financial Statements have been prepared on the",
+    "section": "Board's report"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 16,
+    "excerpt": "6 & 7 The Company is engaged in activities spanning across hydrocarbon exploration and production, petroleum refining and marketing, petrochemicals, advanced materials and composites, renewables (solar and hydrogen), retail, digital services and media and entertainment, which are carried out either directly"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-07",
+    "page": 4,
+    "excerpt": "We want to build this and build the digital business, which I think then sets the stage for us for creating opportunities in the future. And Dinesh will take you through the strategy that we have. JioStar actually did well, Rs.13,000 Crores topline and income from operations, when I look at income from operations up 30%, again, very, very strong performance in the context of what was happening in terms of ads, etc.",
+    "speaker": "Meeting Audio"
+   },
+   {
+    "sourceId": "call-2026-07",
+    "page": 8,
+    "excerpt": "So, these are customers who shopped across at least one of the platforms. In terms of topline growth, as you would recollect, RCPL business was demerged out on 1st of December. So Q1 had the full revenue. Adjusted for that, the underlying revenue growth is 11.6%. On a reported basis, the growth is 7.4%. Grocery digital orders are up 116% on a Y- o-Y basis.",
+    "speaker": "Meeting Audio"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-01-check-1",
+   "sourceId": "call-2026-01",
+   "page": 5,
+   "speaker": "Meeting Audio",
+   "quote": "Revenues crossed 37,000 Crores during the quarter, and with a fairly healthy EBITDA margin of 52%, and broadband subscriber share of over 50% in the country.",
+   "metric": "ebitda_margin",
+   "quarter": "Q3 FY26",
+   "claimed": 52,
+   "reported": 17.371510541514883,
+   "status": "conflict",
+   "note": "Said 52.0%; the reported consolidated figure is 17.4% — a 34.6-point gap. Definitions or basis may differ; check the filing."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "PAT compounded at 12.2% a year over FY21–FY26, lagging revenue.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 80,
+      "excerpt": "Profit After Tax and Share of Profit / … 43,851 4,624 35,262 4,125 95,754 10,096 81,309 9,512",
+      "level": "page",
+      "section": "Corporate governance report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 72 bps over FY23–FY26 (16.2% → 17.0%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.90× reported profit (₹7,55,290 cr vs ₹3,98,016 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 142,
+      "excerpt": "Cash Generated from Operations 2,01,721 1,90,628 … Net Cash Flow from Operating Activities * 1,92,113 1,78,703",
+      "level": "page",
+      "section": "Independent auditor's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.45 at FY26 end (0.63 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from 7 to 25 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "A number management stated does not match the reported one: EBITDA margin for Q3 FY26 — Said 52.0%; the reported consolidated figure is 17.4% — a 34.6-point gap. Definitions or basis may differ; check the filing.",
+    "citations": [
+     {
+      "sourceId": "call-2026-01",
+      "page": 5,
+      "speaker": "Meeting Audio",
+      "excerpt": "Revenues crossed 37,000 Crores during the quarter, and with a fairly healthy EBITDA margin of 52%, and broadband subscriber share of over 50% in the country.",
+      "level": "page"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (187 pages), 4 call transcripts, the Q2 FY27 results filing and the Jul 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/RELIANCE/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 187,
+   "coverage": {
+    "pagesRead": 187,
+    "totalPages": 187,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 32,
+   "coverage": {
+    "pagesRead": 32,
+    "totalPages": 32,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 31,
+   "coverage": {
+    "pagesRead": 31,
+    "totalPages": 31,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 38,
+   "coverage": {
+    "pagesRead": 38,
+    "totalPages": 38,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2454c0f-aad9-4d23-add0-dfe3d49aa8d6.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 37,
+   "coverage": {
+    "pagesRead": 37,
+    "totalPages": 37,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-07",
+   "kind": "presentation",
+   "title": "Investor presentation, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01d1656c-cf53-4d52-94c3-7ed0edd50271.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 77,
+   "coverage": {
+    "pagesRead": 60,
+    "totalPages": 77,
+    "truncated": true
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5670a3e4-4e3c-489d-9160-455cb124704f.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 1,
+   "coverage": {
+    "pagesRead": 1,
+    "totalPages": 1,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/468b09a3-a212-4066-bbaa-4b0ba524d2ce.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.ril.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/RELIANCE.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

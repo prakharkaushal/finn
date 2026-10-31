@@ -1,0 +1,1157 @@
+{
+ "symbol": "TATAPOWER",
+ "exchange": "NSE",
+ "name": "Tata Power Company",
+ "generatedAt": "2026-10-29T09:09:02.178Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/TATAPOWER/consolidated/",
+  "retrievedAt": "2026-10-29T08:59:14.804Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 335,
+  "changePct": -1.209084644564717,
+  "date": "2026-10-28",
+  "spark": [
+   439.25,
+   436,
+   433.20001220703125,
+   418.3999938964844,
+   404.45001220703125,
+   407.8500061035156,
+   407,
+   404.3500061035156,
+   415,
+   413.5,
+   410.5,
+   408.8999938964844,
+   413.54998779296875,
+   420.95001220703125,
+   425.79998779296875,
+   420.75,
+   419.5,
+   414.8999938964844,
+   411.75,
+   410.79998779296875,
+   409.20001220703125,
+   404.20001220703125,
+   398.6499938964844,
+   394.75,
+   390.25,
+   393.54998779296875,
+   404.1000061035156,
+   402.25,
+   401.5,
+   402.8999938964844,
+   402.3500061035156,
+   405.95001220703125,
+   398.29998779296875,
+   393.1000061035156,
+   388.95001220703125,
+   386.5,
+   385.5,
+   375.45001220703125,
+   376.3999938964844,
+   375.20001220703125,
+   377.54998779296875,
+   377.20001220703125,
+   372.1000061035156,
+   375.5,
+   381.29998779296875,
+   377.8500061035156,
+   377.70001220703125,
+   380.8999938964844,
+   377.1000061035156,
+   377.25,
+   384.29998779296875,
+   381.45001220703125,
+   378.54998779296875,
+   376.1499938964844,
+   374.3999938964844,
+   377.3500061035156,
+   371.3500061035156,
+   377.25,
+   375.95001220703125,
+   380.70001220703125,
+   382,
+   380,
+   383,
+   378.6000061035156,
+   380.54998779296875,
+   382,
+   380,
+   379.45001220703125,
+   382.79998779296875,
+   382.04998779296875,
+   381.5,
+   381,
+   378.8999938964844,
+   375.25,
+   374.29998779296875,
+   373.5,
+   370.6000061035156,
+   364,
+   352,
+   351.8500061035156,
+   347,
+   350.54998779296875,
+   364,
+   365.70001220703125,
+   368,
+   365.70001220703125,
+   365.54998779296875,
+   370,
+   367,
+   364.6499938964844,
+   363,
+   360.3999938964844,
+   369,
+   374.79998779296875,
+   367.1499938964844,
+   367,
+   369,
+   363.45001220703125,
+   367.5,
+   361.8999938964844,
+   359,
+   359,
+   350.1499938964844,
+   351.5,
+   351.6499938964844,
+   345.1499938964844,
+   335.6499938964844,
+   342.1499938964844,
+   343.70001220703125,
+   345,
+   353,
+   349.79998779296875,
+   353.8500061035156,
+   352.25,
+   352,
+   353.5,
+   348.1000061035156,
+   338.5,
+   339.1000061035156,
+   335
+  ],
+  "high52": 461.79998779296875,
+  "low52": 335,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+   "retrievedAt": "2026-10-29T08:59:15.468Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 1,09,824 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 344"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 465 / 333"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "28.2"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 124"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.75 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "10.5 %"
+  },
+  {
+   "name": "ROE",
+   "value": "10.2 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹19,051 cr (+5.6% YoY), PAT ₹1,401 cr (+11.0% YoY).",
+   "tone": "positive",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 19051
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 1401
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹63,445 cr, EBITDA ₹12,816 cr (20.2% margin), PAT ₹5,256 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   32703,
+   42816,
+   55109,
+   61449,
+   65478,
+   62429
+  ],
+  "ebitda": [
+   6921,
+   7031,
+   7728,
+   10735,
+   12450,
+   13271
+  ],
+  "pat": [
+   1439,
+   2156,
+   3810,
+   4280,
+   4775,
+   5118
+  ],
+  "margin": [
+   21.163196037060818,
+   16.421431240657697,
+   14.023117821045563,
+   17.469771680580646,
+   19.014019976175202,
+   21.257748802639796
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 13.8% a year over FY21–FY26 (₹32,703 cr → ₹62,429 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 246,
+      "excerpt": "I Revenue from Operations 32 62,428.59 65,478.24",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 62429
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 32703
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of −4.7% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 246,
+      "excerpt": "I Revenue from Operations 32 62,428.59 65,478.24",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 62429
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 65478
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 723 bps over FY23–FY26 (14.0% → 21.3%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 28.9% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 100,
+      "excerpt": "(o) Net Profit after Tax 1,125 3,133 5,118 4,775",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 5118
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 1439
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   15698,
+   15391,
+   17096,
+   18035,
+   15545,
+   13948,
+   14900,
+   19051
+  ],
+  "ebitda": [
+   3271,
+   3079,
+   3246,
+   3565,
+   3302,
+   3055,
+   2599,
+   3860
+  ],
+  "pat": [
+   1093,
+   1188,
+   1306,
+   1262,
+   1245,
+   1194,
+   1416,
+   1401
+  ],
+  "margin": [
+   20.837049305644033,
+   20.005197842895196,
+   18.986897519887695,
+   19.767119489880788,
+   21.24155677066581,
+   21.902781760825928,
+   17.442953020134226,
+   20.26140360086085
+  ],
+  "revenueYoY": [
+   -0.25416190113102044,
+   5.050849771346666,
+   7.881617971855872,
+   4.284723025326703,
+   -0.9746464517772965,
+   -9.37560912221428,
+   -12.8451099672438,
+   5.633490435264763
+  ],
+  "patYoY": [
+   7.472959685349066,
+   10.408921933085502,
+   24.8565965583174,
+   6.139613120269134,
+   13.906678865507777,
+   0.5050505050505051,
+   8.422664624808576,
+   11.014263074484946
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   46708,
+   51195,
+   52923,
+   53689,
+   62866,
+   76141
+  ],
+  "equity": [
+   22323,
+   22442,
+   28788,
+   32356,
+   35841,
+   39468
+  ],
+  "debtToEquity": [
+   2.092371097074766,
+   2.281213795561893,
+   1.8383701542309296,
+   1.659321300531586,
+   1.7540247202924026,
+   1.9291831357048748
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 1.93 at FY26 end (1.84 at FY23).",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   8345,
+   6693,
+   7166,
+   12504,
+   12680,
+   5993
+  ],
+  "pat": [
+   1439,
+   2156,
+   3810,
+   4280,
+   4775,
+   5118
+  ],
+  "fcf": [
+   6558,
+   -540,
+   -440,
+   -590,
+   12680,
+   5993
+  ],
+  "capex": [
+   1787,
+   7233,
+   7606,
+   13094,
+   0,
+   0
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 2.24× reported profit (₹45,036 cr vs ₹20,139 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 248,
+      "excerpt": "Net Cash Flows generated from/(used in) Operating Activities A 5,993.33 12,680.19",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 5993
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 12680
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 2 of the last 5 years, ₹17,103 cr in total.",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹27,933 cr, 62% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   58,
+   51,
+   46,
+   44,
+   32,
+   26
+  ],
+  "debtorDays": [
+   58,
+   51,
+   46,
+   44,
+   32,
+   26
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle shortened from 46 to 26 days over FY23–FY26.",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 11% in FY26 (12% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 4,
+    "speaker": "Praveer Sinha",
+    "voice": "management",
+    "quote": "Let's look at the transmission business, how it has performed again in last 4 years, each quarter, it has done -- again, you will see that the transmission business has shown a revenue increase of 45% CAGR, 19% in EBITDA, and 27% in PAT.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "Sumit Kishore",
+    "voice": "management",
+    "quote": "This is meaningfully below the guidance that you had given to us in November in Odisha, which was INR250 billion.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 6,
+    "speaker": "Praveer Sinha",
+    "voice": "management",
+    "quote": "Yes, Sumit, so I agree that our guidance was, I don't think INR25,000 crores, but it was, I think, about INR22,000 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 12,
+    "speaker": "Atul Tiwari",
+    "voice": "analyst",
+    "quote": "Sir, I missed the FY '27 capex guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Sanjeev Churiwala",
+    "voice": "management",
+    "quote": "But then you have capex coming up in pumped storages, capex coming up in pure hydro, so a combination of all of this -- transmission as well, so I think a combination of all of this, next year is INR25,000 crores, our sense is probably going forward also, we'll have a similar kind of capital outlay.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 19,
+    "speaker": "Apoorva Bahadur",
+    "voice": "management",
+    "quote": "In your Q4 profitability for IEL, we see an increase of almost INR63 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 15,
+    "speaker": "Sanjeev Churiwala",
+    "voice": "management",
+    "quote": "I think on the EPC side, we kind of target PAT margin of close to 5% to 6% every quarter.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-12-1",
+    "sourceId": "call-2025-12",
+    "callLabel": "Dec 2025 call · Q2 FY26",
+    "callMonth": "2025-12",
+    "page": 4,
+    "speaker": "Dr․ Praveer Sinha",
+    "voice": "management",
+    "quote": "Similarly, our half yearly PAT for the Odisha Discom is Rs.279 crores and we do expect that this will be the template going forward because most of the initial issues have been sorted out.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-12-2",
+    "sourceId": "call-2025-12",
+    "callLabel": "Dec 2025 call · Q2 FY26",
+    "callMonth": "2025-12",
+    "page": 4,
+    "speaker": "Dr․ Praveer Sinha",
+    "voice": "management",
+    "quote": "We also saw for the first time the rooftop sales crossing Rs.1,000 crores in a quarter and I think going forward you will see many of these type of new benchmarks that will be set in the rooftop business.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 12,
+    "excerpt": "As we look to the coming year with renewed vigour, I am conscious of the founding principle of the Company: “Clean, cheap, and abundant power is one of the basic ingredients",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 15,
+    "excerpt": "We also operate one of India’s largest EV charging networks, with 7,000+ charging points across 700+ cities and",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 46,
+    "excerpt": "ESG focus ESG focus 85Integrated Annual Report 2025-26Powering a Billion Aspirations, Lifelong84 Reporting through global frameworks As one of India’s largest integrated power companies, we gained a leadership position in the sector by committing to Net Zero by 2045, aligned with India’s ambition to attain Net Zero by 2070.",
+    "section": "Corporate overview"
+   }
+  ],
+  "segments": {
+   "names": [
+    "Hydro",
+    "Transmission",
+    "Distribution",
+    "Others"
+   ],
+   "single": false,
+   "evidence": {
+    "sourceId": "ar-2026",
+    "page": 231,
+    "excerpt": "…of resource allocation and assessment of segment performance focuses on business segment which comprises of Thermal and Hydro, Transmission and Distribution and Others.",
+    "section": "Notes to the financial statements"
+   }
+  },
+  "management": [
+   {
+    "sourceId": "call-2026-07",
+    "page": 3,
+    "excerpt": "We also see that going forward, there will be a large increase in demand because it's not only the cooling, but also industrial growth has picked up, and there is good demand in the industrial sector. So I think it's good for the power sector, especially with the type of investment and capacity addition that is taking place all over the country. Moving to the financial performance of the company.",
+    "speaker": "Praveer Sinha"
+   },
+   {
+    "sourceId": "call-2026-07",
+    "page": 5,
+    "excerpt": "And that's the type of demand which is there for us will be marketed and the channel partner and the supply chain that we have tied up and the IT systems which support them after sales as well.",
+    "speaker": "Praveer Sinha"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 13.8% a year over FY21–FY26 (₹32,703 cr → ₹62,429 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 246,
+      "excerpt": "I Revenue from Operations 32 62,428.59 65,478.24",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of −4.7% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 246,
+       "excerpt": "I Revenue from Operations 32 62,428.59 65,478.24",
+       "level": "page",
+       "section": "Consolidated financial statements"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 723 bps over FY23–FY26 (14.0% → 21.3%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 2.24× reported profit (₹45,036 cr vs ₹20,139 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 248,
+      "excerpt": "Net Cash Flows generated from/(used in) Operating Activities A 5,993.33 12,680.19",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle shortened from 46 to 26 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of −4.7% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 246,
+      "excerpt": "I Revenue from Operations 32 62,428.59 65,478.24",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Revenue compounded at 13.8% a year over FY21–FY26 (₹32,703 cr → ₹62,429 cr).",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 246,
+       "excerpt": "I Revenue from Operations 32 62,428.59 65,478.24",
+       "level": "page",
+       "section": "Consolidated financial statements"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 1.93 at FY26 end (1.84 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 361 pages), 4 call transcripts and the Jul 2026 investor presentation; 1 document could not be read (see Sources).",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/TATAPOWER/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5491ca0-092d-4f99-a329-c62579cc6ef2.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 361,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 361,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2eec946-af3f-4579-8a6b-1483aa6f7312.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3e7a67bd-6f64-475b-96e4-37f8d51b86f3.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93b975b6-96db-407e-b75e-8ba408beb787.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-12",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Dec 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc08c9a5-8cf1-4103-951a-2ab5bdce40cd.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-07",
+   "kind": "presentation",
+   "title": "Investor presentation, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=696ad0f6-42b3-4bf5-a9b5-39a9cf2a1cee.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 71,
+   "coverage": {
+    "pagesRead": 60,
+    "totalPages": 71,
+    "truncated": true
+   }
+  },
+  {
+   "id": "results-2026-06-30",
+   "kind": "results",
+   "title": "Results filing, Q1 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/VPTPCL_27072026164937_Outcome.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "PDF: document too large (18 MB)"
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e1e3b92-6418-498e-9213-e8813818d464.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4326bc2-fc66-48b5-9f08-901e60dc60b6.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.tatapower.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [
+  "Results filing, Q1 FY27 (NSE): PDF: document too large (18 MB)"
+ ],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

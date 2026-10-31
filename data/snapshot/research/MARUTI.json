@@ -1,0 +1,1042 @@
+{
+ "symbol": "MARUTI",
+ "exchange": "NSE",
+ "name": "Maruti Suzuki India",
+ "generatedAt": "2026-10-29T09:08:48.090Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/MARUTI/consolidated/",
+  "retrievedAt": "2026-10-29T08:57:58.801Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 11579,
+  "changePct": 1.1266375545851528,
+  "date": "2026-10-28",
+  "spark": [
+   13770,
+   13726,
+   13483,
+   13172,
+   13103,
+   13075,
+   13221,
+   13016,
+   12956,
+   13003,
+   13010,
+   12987,
+   13170,
+   13208,
+   13364,
+   13127,
+   12946,
+   13022,
+   13044,
+   13064,
+   13050,
+   12912,
+   13120,
+   13073,
+   13098,
+   13366,
+   13805,
+   13691,
+   13630,
+   13484,
+   13395,
+   13421,
+   13451,
+   13248,
+   13745,
+   13412,
+   14115,
+   14395,
+   14348,
+   14366,
+   14456,
+   14538,
+   13951,
+   13728,
+   13854,
+   13695,
+   13489,
+   13583,
+   13783,
+   13803,
+   13514,
+   13597,
+   13545,
+   13403,
+   13442,
+   13730,
+   13802,
+   13948,
+   14188,
+   14234,
+   14150,
+   14168,
+   14190,
+   14080,
+   14037,
+   14097,
+   13990,
+   13875,
+   13905,
+   13834,
+   13760,
+   13691,
+   13690,
+   13809,
+   13565,
+   13620,
+   13678,
+   13520,
+   13440,
+   13376,
+   13547,
+   12950,
+   12849,
+   12857,
+   12694,
+   12760,
+   12641,
+   12618,
+   12590,
+   12400,
+   12231,
+   12166,
+   12338,
+   12103,
+   12153,
+   12190,
+   12230,
+   11990,
+   12065,
+   12008,
+   11877,
+   11967,
+   11386,
+   11532,
+   11625,
+   11450,
+   11228,
+   11420,
+   11315,
+   11245,
+   11178,
+   11445,
+   11489,
+   11475,
+   11200,
+   11170,
+   11230,
+   11220,
+   11450,
+   11579
+  ],
+  "high52": 17292,
+  "low52": 11170,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/MARUTI.NS",
+   "retrievedAt": "2026-10-29T09:02:25.418Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 3,58,802 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 11,412"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 17,372 / 10,984"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "26.7"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 3,467"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.22 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "18.9 %"
+  },
+  {
+   "name": "ROE",
+   "value": "14.3 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 5.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹53,356 cr (+26.0% YoY), PAT ₹2,466 cr (−26.4% YoY).",
+   "tone": "neutral",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 53356
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 2466
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹2,08,192 cr, EBITDA ₹20,809 cr (10.0% margin), PAT ₹13,451 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   70372,
+   88330,
+   118410,
+   141858,
+   152913,
+   183316
+  ],
+  "ebitda": [
+   5411,
+   5752,
+   13122,
+   18626,
+   20224,
+   21530
+  ],
+  "pat": [
+   4389,
+   3880,
+   8264,
+   13488,
+   14500,
+   14680
+  ],
+  "margin": [
+   7.689137725231626,
+   6.511943846937621,
+   11.081834304535091,
+   13.130031439890594,
+   13.225821218601427,
+   11.744746776058827
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 21.1% a year over FY21–FY26 (₹70,372 cr → ₹1,83,316 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 235,
+      "excerpt": "I Revenue from operations 21 475 1,833,160 1,529,130",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 183316
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 70372
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 19.9% was within its 5-year range (7.8% to 34.1%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 235,
+      "excerpt": "I Revenue from operations 21 475 1,833,160 1,529,130",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 183316
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 152913
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 66 bps over FY23–FY26 (11.1% → 11.7%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 27.3% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 235,
+      "excerpt": "IX Profit for the year (VII - VIII) 146,795 145,002",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 14680
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 4389
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   38764,
+   40920,
+   38605,
+   42344,
+   49904,
+   52462,
+   52470,
+   53356
+  ],
+  "ebitda": [
+   5076,
+   4844,
+   4623,
+   5086,
+   5573,
+   6158,
+   4313,
+   4764
+  ],
+  "pat": [
+   3727,
+   3911,
+   3792,
+   3349,
+   3879,
+   3659,
+   3447,
+   2466
+  ],
+  "margin": [
+   13.094623877824784,
+   11.837732160312806,
+   11.975132754824505,
+   12.011146797657284,
+   11.1674414876563,
+   11.73801990011818,
+   8.219935201067278,
+   8.928705300247394
+  ],
+  "revenueYoY": [
+   15.668546534180766,
+   6.365834004834811,
+   7.898487939852987,
+   13.071110042991801,
+   28.738004333918067,
+   28.206256109481913,
+   35.915036912317056,
+   26.00604572076327
+  ],
+  "patYoY": [
+   16.214530714062988,
+   -1.0374493927125508,
+   0.851063829787234,
+   7.9626047711154095,
+   4.078347196136303,
+   -6.443364868320122,
+   -9.098101265822784,
+   -26.366079426694533
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   426,
+   1248,
+   119,
+   87,
+   102,
+   83
+  ],
+  "equity": [
+   55333,
+   74600,
+   85636,
+   96240,
+   107156,
+   109002
+  ],
+  "debtToEquity": [
+   0.007698841559286501,
+   0.016729222520107237,
+   0.001389602503619973,
+   0.0009039900249376559,
+   0.0009518832356564262,
+   0.0007614539182767289
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.00 at FY27 end (0.00 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   8856,
+   1840,
+   10815,
+   16801,
+   16180,
+   19100
+  ],
+  "pat": [
+   4389,
+   3880,
+   8264,
+   13488,
+   14500,
+   14680
+  ],
+  "fcf": [
+   6528,
+   -1483,
+   2858,
+   7646,
+   5601,
+   8754
+  ],
+  "capex": [
+   2328,
+   3323,
+   7957,
+   9155,
+   10579,
+   10346
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.18× reported profit (₹64,736 cr vs ₹54,812 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 236,
+      "excerpt": "Cash generated from operations 234,371 199,868 … Net cash generated from operating activities 190,999 161,800",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 19100
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 16180
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹23,376 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹41,360 cr, 64% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   -44,
+   -26,
+   -25,
+   -31,
+   -18,
+   -19
+  ],
+  "debtorDays": [
+   7,
+   8,
+   10,
+   12,
+   16,
+   11
+  ],
+  "inventoryDays": [
+   22,
+   20,
+   23,
+   19,
+   23,
+   31
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from -25 to -19 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 19% in FY26 (16% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 1,
+  "statements": [
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 4,
+    "speaker": "Rahul Bharti",
+    "voice": "management",
+    "quote": "Coming to products, demonstrating its commitment to customer safety, the company is now offering 6 airbags as standard in almost all of its passenger vehicle product lineup- volumes going beyond 99% and advanced safety features like Electronic Stability Control, Anti-lock Braking System with Electronic Brakeforce Distribution as a standard across the entire product lineup.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-2",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 11,
+    "speaker": "Kumar Rakesh",
+    "voice": "management",
+    "quote": "But once we have passed through the Middle East conflict and part of it getting reversed and we potentially taking some price increase as well, in a quarter or 2, we should get back on a trajectory of margin expansion and potentially in the direction of 10% EBIT margin, which we have targeted to reach by 2030.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 10,
+    "high": 10,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 5.0431840946459285,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-04-3",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 11,
+    "speaker": "Rahul Bharti",
+    "voice": "management",
+    "quote": "So it's always difficult to give out a guidance on margins.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 1,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 97,
+    "excerpt": "Transaprency and Responsiveness Root Cause Analysis Timely Corrective ActionsGlobal Practices Regulatory Requirements Swift Issue Evaluation Robust Recall Framework The Net Promoter Score (NPS) is a globally recognised metric that measures customer loyalty and their likelihood to recommend Maruti Suzuki to others. The NPS for the year stood at 93.4 (Arena 93.9 and NEXA 92.3).",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 39,
+    "excerpt": "The Company remained India's leading exporter of passenger vehicles for the fifth consecutive year. Revenue increased to an all-time high of over INR 1.8 lakh crore, with profit after tax about ` 144,454 million also reaching record levels. Consequently, the Board has recommended highest- ever dividend of ` 140 per share.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 83,
+    "excerpt": "Material Circularity Supply chain operations are one of the major contributors to the Company’s overall GHG emissions (Scope 3.1). Steel and aluminium are the two major materials. Therefore,",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-04",
+    "page": 2,
+    "excerpt": "Our domestic sales volume growth during the year was constrained by production capacity. As of the end of the fiscal year, around 190,000 customer orders remained unserved, and we are trying to service them fast, highlighting the strength of the underlying demand. Importantly, near 130,000 of these pending orders were in the small car segment, falling in the 18% GST bracket.",
+    "speaker": "Rahul Bharti"
+   },
+   {
+    "sourceId": "call-2026-04",
+    "page": 4,
+    "excerpt": "Importantly, the recent GST reduction is seen as a transformative factor for the passenger vehicle sector in India. By lowering taxes, the reform has enhanced affordability, making passenger vehicles accessible to a broader segment of customers. This, in turn, has set the industry on a path of sustained long-term structural growth by enlarging the potential customer base.",
+    "speaker": "Rahul Bharti"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 21.1% a year over FY21–FY26 (₹70,372 cr → ₹1,83,316 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 235,
+      "excerpt": "I Revenue from operations 21 475 1,833,160 1,529,130",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 66 bps over FY23–FY26 (11.1% → 11.7%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.18× reported profit (₹64,736 cr vs ₹54,812 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 236,
+      "excerpt": "Cash generated from operations 234,371 199,868 … Net cash generated from operating activities 190,999 161,800",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.00 at FY27 end (0.00 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (270 pages), 1 call transcript and the Jul 2026 investor presentation; 4 documents could not be read (see Sources).",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/MARUTI/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 270,
+   "coverage": {
+    "pagesRead": 270,
+    "totalPages": 270,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 12,
+   "coverage": {
+    "pagesRead": 12,
+    "totalPages": 12,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY_26.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "Could not read PDF (Invalid PDF structure.)"
+  },
+  {
+   "id": "call-2025-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2025",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY_26.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "Could not read PDF (Invalid PDF structure.)"
+  },
+  {
+   "id": "call-2025-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2025",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY_26.pdf",
+   "period": "Q1 FY26",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "Could not read PDF (Invalid PDF structure.)"
+  },
+  {
+   "id": "ppt-2026-07",
+   "kind": "presentation",
+   "title": "Investor presentation, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b7f0db8-b33e-4a14-bb96-542978860d78.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 14,
+   "coverage": {
+    "pagesRead": 14,
+    "totalPages": 14,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1dc3fa06-d8da-447c-ad6d-8d2166fd134c.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "PDF: document too large (18 MB)"
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6b3feef-628a-443c-9e63-665a5e057547.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b14c577-1d8d-4eb0-a79e-f94640af8a67.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.marutisuzuki.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/MARUTI.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [
+  "Earnings-call transcript, Jan 2026: Could not read PDF (Invalid PDF structure.)",
+  "Earnings-call transcript, Oct 2025: Could not read PDF (Invalid PDF structure.)",
+  "Earnings-call transcript, Aug 2025: Could not read PDF (Invalid PDF structure.)",
+  "Results filing, Q2 FY27 (NSE): PDF: document too large (18 MB)"
+ ],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

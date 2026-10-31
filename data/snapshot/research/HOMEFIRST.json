@@ -1,0 +1,1123 @@
+{
+ "symbol": "HOMEFIRST",
+ "exchange": "NSE",
+ "name": "Home First Finance Company India",
+ "generatedAt": "2026-10-29T09:09:14.025Z",
+ "provenance": "snapshot",
+ "basis": "standalone",
+ "isLender": true,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/HOMEFIRST/",
+  "retrievedAt": "2026-10-29T09:00:41.717Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1014.4000244140625,
+  "changePct": -0.22622088771062218,
+  "date": "2026-10-28",
+  "spark": [
+   1217.5,
+   1200.300048828125,
+   1171.300048828125,
+   1108.199951171875,
+   1094.699951171875,
+   1088.199951171875,
+   1075.800048828125,
+   1066,
+   1076.4000244140625,
+   1079.0999755859375,
+   1072.4000244140625,
+   1063.4000244140625,
+   1080.0999755859375,
+   1086.9000244140625,
+   1117.9000244140625,
+   1065.199951171875,
+   1076.0999755859375,
+   1069.5999755859375,
+   1064.4000244140625,
+   1059.0999755859375,
+   1078.9000244140625,
+   1046.699951171875,
+   1080.0999755859375,
+   1049.0999755859375,
+   1029.699951171875,
+   1109.300048828125,
+   1115.5,
+   1136,
+   1145.699951171875,
+   1146.0999755859375,
+   1153.9000244140625,
+   1148.0999755859375,
+   1124.300048828125,
+   1163.5,
+   1191.699951171875,
+   1167.9000244140625,
+   1139.4000244140625,
+   1201.5999755859375,
+   1201.0999755859375,
+   1205.199951171875,
+   1191.0999755859375,
+   1209.699951171875,
+   1199.800048828125,
+   1202.300048828125,
+   1222.699951171875,
+   1261,
+   1223.0999755859375,
+   1247.0999755859375,
+   1224.9000244140625,
+   1241.800048828125,
+   1273.199951171875,
+   1280.0999755859375,
+   1224.0999755859375,
+   1202.300048828125,
+   1174,
+   1182.5,
+   1181,
+   1174.5,
+   1188.199951171875,
+   1189,
+   1170.199951171875,
+   1169.699951171875,
+   1186.9000244140625,
+   1191.0999755859375,
+   1193.800048828125,
+   1181.5999755859375,
+   1176,
+   1181.199951171875,
+   1175.300048828125,
+   1176.5,
+   1179.9000244140625,
+   1177.0999755859375,
+   1184.4000244140625,
+   1187.4000244140625,
+   1193.699951171875,
+   1192.9000244140625,
+   1191.300048828125,
+   1183.699951171875,
+   1200.199951171875,
+   1198.300048828125,
+   1164.699951171875,
+   1182.800048828125,
+   1196.699951171875,
+   1201.4000244140625,
+   1210.0999755859375,
+   1233.699951171875,
+   1237.0999755859375,
+   1202.300048828125,
+   1209.4000244140625,
+   1184.5,
+   1175.300048828125,
+   1175.9000244140625,
+   1173.300048828125,
+   1241.300048828125,
+   1257.699951171875,
+   1212.5,
+   1205.800048828125,
+   1157.5,
+   1123.0999755859375,
+   1094,
+   1094.4000244140625,
+   1104.800048828125,
+   1125.699951171875,
+   1096.199951171875,
+   1111.5,
+   1087.9000244140625,
+   1071.9000244140625,
+   1076.5999755859375,
+   1076.9000244140625,
+   1093.9000244140625,
+   1104.300048828125,
+   1112.699951171875,
+   1099.800048828125,
+   1055.199951171875,
+   1039.199951171875,
+   1021.2999877929688,
+   1002,
+   1012,
+   1016.7000122070312,
+   1014.4000244140625
+  ],
+  "high52": 1280.0999755859375,
+  "low52": 904.7999877929688,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/HOMEFIRST.NS",
+   "retrievedAt": "2026-10-29T09:00:42.461Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 11,194 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,070"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,318 / 894"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "18.1"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 446"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.50 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "11.1 %"
+  },
+  {
+   "name": "ROE",
+   "value": "15.7 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹567 cr (+18.9% YoY), PAT ₹170 cr (+28.8% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q2 FY27 not located on a page"
+    },
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 10,
+     "excerpt": "3. Net profit after tax (Rs. in million) 1,701.92 3,300.43",
+     "level": "page",
+     "unit": "₹ million"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 567
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 170
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹2,089 cr, NII ₹1,267 cr, PAT ₹620 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   489,
+   596,
+   796,
+   1157,
+   1539,
+   1921
+  ],
+  "ebitda": [
+   269,
+   377,
+   488,
+   654,
+   820,
+   1125
+  ],
+  "pat": [
+   100,
+   186,
+   228,
+   306,
+   382,
+   540
+  ],
+  "margin": [
+   55.010224948875255,
+   63.25503355704698,
+   61.30653266331658,
+   56.52549697493517,
+   53.28135152696556,
+   58.563248308172824
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 31.5% a year over FY21–FY26 (₹489 cr → ₹1,921 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 1921
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 489
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 24.8% was within its 5-year range (21.9% to 45.4%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 1921
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 1539
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 40.1% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 22,
+      "excerpt": "rising 24.9% y-o-y, while Profit After Tax reached ₹540.4",
+      "level": "page",
+      "section": "Corporate overview"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 540
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 100
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   406,
+   415,
+   454,
+   477,
+   482,
+   501,
+   538,
+   567
+  ],
+  "ebitda": [
+   213,
+   225,
+   254,
+   274,
+   288,
+   306,
+   330,
+   342
+  ],
+  "pat": [
+   97,
+   105,
+   119,
+   132,
+   140,
+   149,
+   160,
+   170
+  ],
+  "margin": [
+   52.463054187192114,
+   54.21686746987952,
+   55.947136563876654,
+   57.44234800838575,
+   59.75103734439834,
+   61.07784431137725,
+   61.33828996282528,
+   60.317460317460316
+  ],
+  "revenueYoY": [
+   37.16216216216216,
+   32.587859424920126,
+   35.11904761904761,
+   27.882037533512065,
+   18.7192118226601,
+   20.722891566265062,
+   18.502202643171806,
+   18.867924528301888
+  ],
+  "patYoY": [
+   22.78481012658228,
+   26.506024096385545,
+   35.22727272727273,
+   43.47826086956522,
+   44.329896907216494,
+   41.904761904761905,
+   34.45378151260504,
+   28.78787878787879
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   3467,
+   4813,
+   7302,
+   9551,
+   10590,
+   12246
+  ],
+  "equity": [
+   1574,
+   1818,
+   2122,
+   2521,
+   4357,
+   4665
+  ],
+  "debtToEquity": [
+   2.2026683608640405,
+   2.6474147414741473,
+   3.4410933081998114,
+   3.788575961919873,
+   2.4305714941473493,
+   2.62508038585209
+  ],
+  "claims": [
+   {
+    "id": "bs-lender",
+    "text": "Borrowings are a lender's raw material, so debt-to-equity is not a risk signal here; asset quality (NPAs) matters more.",
+    "tone": "neutral",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   -223,
+   -807,
+   -1469,
+   -1908,
+   -2196,
+   -1940
+  ],
+  "pat": [
+   100,
+   186,
+   228,
+   306,
+   382,
+   540
+  ],
+  "fcf": [
+   -225,
+   -810,
+   -1476,
+   -1916,
+   -2208,
+   -1949
+  ],
+  "capex": [
+   2,
+   3,
+   7,
+   8,
+   12,
+   9
+  ],
+  "claims": [
+   {
+    "id": "cash-lender",
+    "text": "For lenders, loan growth runs through operating cash flow, so CFO-to-profit conversion is not meaningful.",
+    "tone": "neutral",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "debtorDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": []
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 3,
+  "statements": [
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "Our aim remains to deliver a spread at a portfolio level in our guided range of 5% to 5.25%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "As we continue to invest for growth, we expect this ratio to remain broadly range-bound within 2.6% to 2.7%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "Jyoti Khatri",
+    "voice": "management",
+    "quote": "Do you foresee, although your incremental cost of borrowing has come down and your guidance sustains 5% to 5.25% margins.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 14,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "We are very confident of maintaining the spread above 5%, which is in our guidance range of 5% to 5.25%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 16,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "And even if you go back to that year, our guidance has always remained spread in 5% to 5.25% range.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "And that is what gives us the confidence that we should be able to do this 25% growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 20,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "So we have guided to a 25% growth, sir.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 5,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "We expect this ratio to remain range bound within 2.6%-2.7% as we focus on growth and expansion.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-2",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 7,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "The target is to end the year at 25% AUM growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-3",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 7,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "And again, for the next year, we have given the guidance of 25% growth on AUM.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-4",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 11,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "But like I said, we want to stick to the AUM guidance of 25%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-5",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 11,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "And hence, the whole spread guidance of FY25, the whole AUM growth guidance as well, we want to stick to that and then let the rest of the interplaying forces be with the internal teams and then deliver on the guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-6",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 12,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "The guidance we had given was Rs. 20,000 crores by March 2027.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-7",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 12,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "With 25% growth, next year, we will hit about Rs. 19,600-Rs. 19,700 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-8",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 25,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "Similarly, we are you can say guidance or our vision or projection for 2030 is Rs. 35,000 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-9",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 26,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "That will be in the region of around 20%-23% AUM growth Y-o-Y if we have to get to Rs. 35,000 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 5,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "We expect this ratio to remain range-bound within 2.6% to 2.7% as we focus on growth and expansion.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 9,
+    "speaker": "Nutan Gaba Patwari",
+    "voice": "management",
+    "quote": "However, the spread, we should be able to maintain in the 5% to 5.25% that we have always guided.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-3",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 13,
+    "speaker": "Shreepal Doshi",
+    "voice": "management",
+    "quote": "So, in that case, like for the full year we had guided for a Rs. 5,600 crores to Rs. 5,800 crore disbursement.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-4",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 13,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "But broadly, we are guiding to that 25% plus AUM growth, so this quarter it was 26%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-5",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 16,
+    "speaker": "Shweta",
+    "voice": "management",
+    "quote": "Of course, you have guided slightly higher net interest margins already.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-6",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 17,
+    "speaker": "Manoj Viswanathan",
+    "voice": "management",
+    "quote": "We are guiding to a 25% plus only.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 197,
+    "excerpt": "The loan processing applications of the company are built on Salesforce.com which is a globally recognized platform with low downtime and low security risk. • Further, we conduct an IT audit once every two years to determine issues and process level gaps, if any. • Training is provided to existing and new employees on IT policies, procedures and code of conduct",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 206,
+    "excerpt": "The Company remains focused on strengthening its market position with a clear ambition: “Fastest Provider of Home Finance for the Aspiring Middle Class, delivered with Ease and Transparency.” Cautionary Statement This document includes forward-looking statements regarding anticipated future events, as well as the Company’s financial and operational results. These statements inherently involve assumptions and are",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 265,
+    "excerpt": "Plant Locations Since the Company is engaged in housing finance business, it does not have any manufacturing plant.",
+    "section": "Board's report"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-05",
+    "page": 4,
+    "excerpt": "It is central to how we source, underwrite, service, and scale the business. Homefirst’s deep-rooted digital DNA built consistently since inception has created a strong foundation for accelerated AI adoption across the value chain.",
+    "speaker": "Manoj Viswanathan"
+   },
+   {
+    "sourceId": "call-2026-05",
+    "page": 4,
+    "excerpt": "The balance sheet is strong, and the investments we are making in distribution, people, and technology are intended to support durable growth, not just near-term growth. Based on where we are today, we are positioned to deliver around 25% year-on-year AUM growth.",
+    "speaker": "Manoj Viswanathan"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-05-check-1",
+   "sourceId": "call-2026-05",
+   "page": 6,
+   "speaker": "Nutan Gaba Patwari",
+   "quote": "Profit after tax for Q4 stood at INR149 crores, up by 42.7% y-o-y and 6.6% q-o-q.",
+   "metric": "pat_growth",
+   "quarter": "Q4 FY26",
+   "claimed": 42.7,
+   "reported": 41.904761904761905,
+   "status": "consistent",
+   "note": "Said +42.7%; reported +41.9% (standalone)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹567 cr (+18.9% YoY), PAT ₹170 cr (+28.8% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "level": "document",
+      "section": "Revenue Q2 FY27 not located on a page"
+     },
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 10,
+      "excerpt": "3. Net profit after tax (Rs. in million) 1,701.92 3,300.43",
+      "level": "page",
+      "unit": "₹ million"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "Numbers management stated on calls match the reported figures (1 checked, e.g. PAT growth (YoY) for Q4 FY26).",
+    "citations": [
+     {
+      "sourceId": "call-2026-05",
+      "page": 6,
+      "speaker": "Nutan Gaba Patwari",
+      "excerpt": "Profit after tax for Q4 stood at INR149 crores, up by 42.7% y-o-y and 6.6% q-o-q.",
+      "level": "page"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 470 pages), 3 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation; 1 document could not be read (see Sources).",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised standalone statements and document links (secondary)",
+   "url": "https://www.screener.in/company/HOMEFIRST/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/760e5dcb-6d4c-476e-8cb8-3731b87e0eed.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 470,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 470,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4712579-7ee0-4fe5-95cd-6a12ab813f7a.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "PDF unreachable (fetch failed)"
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=167391ad-18b9-4bf6-8abd-c3d571dc4c63.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 22,
+   "coverage": {
+    "pagesRead": 22,
+    "totalPages": 22,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50f06f63-3e63-4ad4-8af9-940a130646ed.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 27,
+   "coverage": {
+    "pagesRead": 27,
+    "totalPages": 27,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc7905d2-33f5-4d8b-8fe2-49b8835374fe.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 23,
+   "coverage": {
+    "pagesRead": 23,
+    "totalPages": 23,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c80dce47-aa17-4ab5-bccf-0ef6fb28f70d.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 50,
+   "coverage": {
+    "pagesRead": 50,
+    "totalPages": 50,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72142073-bebe-4cef-885f-c3b9fdc557f5.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 23,
+   "coverage": {
+    "pagesRead": 23,
+    "totalPages": 23,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/495601d9-3dfa-483c-a2a0-84a4c6a880b4.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7a3d63c6-00d6-48be-b4f4-d35eca44d13f.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.homefirstindia.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/HOMEFIRST.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [
+  "Earnings-call transcript, Aug 2026: PDF unreachable (fetch failed)"
+ ],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

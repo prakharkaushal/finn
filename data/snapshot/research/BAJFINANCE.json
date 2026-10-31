@@ -1,0 +1,1254 @@
+{
+ "symbol": "BAJFINANCE",
+ "exchange": "NSE",
+ "name": "Bajaj Finance",
+ "generatedAt": "2026-10-29T09:08:58.547Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": true,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/BAJFINANCE/consolidated/",
+  "retrievedAt": "2026-10-29T08:58:48.398Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 917.25,
+  "changePct": 0.575657894736842,
+  "date": "2026-10-28",
+  "spark": [
+   972.75,
+   955.3499755859375,
+   936.0499877929688,
+   904.2000122070312,
+   896.1500244140625,
+   912.1500244140625,
+   910.4500122070312,
+   921.0999755859375,
+   923.5499877929688,
+   923.0999755859375,
+   907.6500244140625,
+   916.5499877929688,
+   941.9000244140625,
+   930.2000122070312,
+   931.1500244140625,
+   908.25,
+   889.0499877929688,
+   882,
+   876.7999877929688,
+   874.4000244140625,
+   889.4000244140625,
+   871.0999755859375,
+   886.9000244140625,
+   884.0999755859375,
+   870.5499877929688,
+   918.2999877929688,
+   942.2999877929688,
+   959.6500244140625,
+   958.4000244140625,
+   958.8499755859375,
+   961.7999877929688,
+   968.2999877929688,
+   962.4000244140625,
+   990.9500122070312,
+   980.4000244140625,
+   982.0499877929688,
+   1004.75,
+   1014.9000244140625,
+   1018.4000244140625,
+   1031.4000244140625,
+   1029.0999755859375,
+   1042.5,
+   1010.4000244140625,
+   1003.7999877929688,
+   1020.5,
+   1022.5999755859375,
+   1006.5999755859375,
+   1021.2999877929688,
+   1037.5999755859375,
+   1056.300048828125,
+   1064,
+   1069.199951171875,
+   1060.300048828125,
+   1039.800048828125,
+   1012.7999877929688,
+   1048.300048828125,
+   1048.4000244140625,
+   1054.4000244140625,
+   1053.5,
+   1141.199951171875,
+   1153,
+   1149,
+   1158.800048828125,
+   1144.800048828125,
+   1078,
+   1102.199951171875,
+   1093.300048828125,
+   1094.199951171875,
+   1090.800048828125,
+   1087,
+   1089.300048828125,
+   1094.300048828125,
+   1080.199951171875,
+   1095,
+   1095,
+   1077,
+   1087.4000244140625,
+   1085,
+   1083,
+   1079.9000244140625,
+   1057,
+   1053.9000244140625,
+   1055.9000244140625,
+   1049,
+   1060.5,
+   1060,
+   1054.0999755859375,
+   1039.300048828125,
+   1043.5,
+   1034.5,
+   1009.2000122070312,
+   1006.2000122070312,
+   1015,
+   1040.300048828125,
+   1021.2999877929688,
+   1008.7999877929688,
+   1043.199951171875,
+   982,
+   996.9000244140625,
+   985,
+   973.7999877929688,
+   959.4000244140625,
+   948.2999877929688,
+   970,
+   963.0999755859375,
+   963.8499755859375,
+   955.9500122070312,
+   960,
+   957.25,
+   982.75,
+   957,
+   965.25,
+   982.0999755859375,
+   957.3499755859375,
+   926,
+   942.0999755859375,
+   928.9500122070312,
+   918.7000122070312,
+   912,
+   917.25
+  ],
+  "high52": 1158.800048828125,
+  "low52": 801.5499877929688,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/BAJFINANCE.NS",
+   "retrievedAt": "2026-10-29T09:08:56.999Z",
+   "mode": "live",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 5,83,465 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 937"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,178 / 788"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "26.7"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 198"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.58 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "10.9 %"
+  },
+  {
+   "name": "ROE",
+   "value": "18.2 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹24,546 cr (+22.8% YoY), PAT ₹6,367 cr (+28.7% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 24546
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 6367
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹90,331 cr, NII ₹59,050 cr, PAT ₹22,066 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   26673,
+   31633,
+   41411,
+   54972,
+   68832,
+   81985
+  ],
+  "ebitda": [
+   17154,
+   21785,
+   28710,
+   36086,
+   43841,
+   53086
+  ],
+  "pat": [
+   4420,
+   7028,
+   11508,
+   14451,
+   16779,
+   19332
+  ],
+  "margin": [
+   64.31222584636149,
+   68.86795435146841,
+   69.32940523049432,
+   65.64432802153823,
+   63.69275918177591,
+   64.75086906141368
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 25.2% a year over FY21–FY26 (₹26,673 cr → ₹81,985 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 81985
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 26673
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 19.1% was within its 5-year range (18.6% to 32.7%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 81985
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 68832
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 34.3% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 70,
+      "excerpt": "• Profit after tax (PAT) increased by 15% to C 19,332 crore.",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 19332
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 4420
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   18035,
+   18294,
+   19524,
+   19990,
+   21013,
+   21606,
+   23165,
+   24546
+  ],
+  "ebitda": [
+   11649,
+   11743,
+   12606,
+   12979,
+   13674,
+   14208,
+   15223,
+   15944
+  ],
+  "pat": [
+   4308,
+   4546,
+   4765,
+   4948,
+   4066,
+   5553,
+   6081,
+   6367
+  ],
+  "margin": [
+   64.59107291377877,
+   64.19044495462994,
+   64.56668715427166,
+   64.92746373186593,
+   65.07400180840432,
+   65.75951124687587,
+   65.71551910209368,
+   64.95559357940193
+  ],
+  "revenueYoY": [
+   27.329850324767012,
+   22.564652284604048,
+   21.267080745341616,
+   16.962143818383947,
+   16.51233712226227,
+   18.104296490652676,
+   18.648842450317556,
+   22.791395697848923
+  ],
+  "patYoY": [
+   18.38417147568013,
+   18.84967320261438,
+   21.80470347648262,
+   23.26856003986049,
+   -5.617455896007428,
+   22.15134183897932,
+   27.618048268625394,
+   28.678253839935326
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   165232,
+   216690,
+   293346,
+   361249,
+   435112,
+   501982
+  ],
+  "equity": [
+   43713,
+   54372,
+   76696,
+   96693,
+   113999,
+   123179
+  ],
+  "debtToEquity": [
+   3.779928167821929,
+   3.985323328183624,
+   3.824788776468134,
+   3.7360408716246263,
+   3.8168054105737768,
+   4.075223861210109
+  ],
+  "claims": [
+   {
+    "id": "bs-lender",
+    "text": "Borrowings are a lender's raw material, so debt-to-equity is not a risk signal here; asset quality (NPAs) matters more.",
+    "tone": "neutral",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   -807,
+   -37029,
+   -42112,
+   -72760,
+   -67792,
+   -65790
+  ],
+  "pat": [
+   4420,
+   7028,
+   11508,
+   14451,
+   16779,
+   19332
+  ],
+  "fcf": [
+   -1105,
+   -37644,
+   -42970,
+   -73759,
+   -68837,
+   -66686
+  ],
+  "capex": [
+   298,
+   615,
+   858,
+   999,
+   1045,
+   896
+  ],
+  "claims": [
+   {
+    "id": "cash-lender",
+    "text": "For lenders, loan growth runs through operating cash flow, so CFO-to-profit conversion is not meaningful.",
+    "tone": "neutral",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "debtorDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": []
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-10-1",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 6,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "Overall, I would just say that the first half principally demonstrates the strength and scalability of our business model at this scale to grow 26% is I would say, good growth to be in while maintaining credit costs that, as I've said, that probably it's likely that in the 4 years, this is likely to be one of the lowest years on credit costs.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-2",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 12,
+    "speaker": "Kunal Shah",
+    "voice": "management",
+    "quote": "Hi, so the first question is on growth guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-3",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 12,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "I would say probably between 26%, 27% growth we should deliver now on a full year basis.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-4",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 12,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "I think that's just medium term, we maintain a guidance of 20% to 25% on a year lower here and a year higher there.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-5",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 13,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "In general, our guidance of 16% to 18%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-6",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 13,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "So, we remain comfortable in the longer term, we should be able to sustain a 15% to 18% fee income growth is what I would just say to you, Viral.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-7",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 15,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "We are clear about the medium-term guidance on fees and margins.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-8",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 15,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "I'm not changing, I must say to you, the longer-term growth guidance of 23% to 25%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-9",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 19,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "We've been pruning back, as I said earlier, that we've taken a proactive call that CPL will drop from where it is today at 7% in terms of origination to half business in some business, zero where I have no margin will be zero is the decision management has made and we are going about it.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-1",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 6,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "I am targeting that next year we should be delivering INR100,000 crores volume between customer centricity, AI and tech transformation and digital transformation, all these three as they come together, that's really what we are aiming to do so that from a push business, we rapidly transition towards being a full business.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-2",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 7,
+    "speaker": "Abhijit Tibrewal",
+    "voice": "management",
+    "quote": "So don't you think this 22% to 24% corridor that we have given for AUM growth can maybe see some upside.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-3",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 8,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "If you look at quarter 1, logically, but I would wait for second quarter, whether it's top line, which is AUM or PBT growth or ROA or ROE, it does seem we are much better than the guidance that we gave in March.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-4",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 13,
+    "speaker": "Kunal Shah",
+    "voice": "management",
+    "quote": "We guided for margin moderation in FY '27, but are we more comfortable with where the margins stay because you mentioned like cost of borrowing should be range bound.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-5",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 14,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "Whatever Sandeep has guided for or what we've said, I think that moderation 10 - 15 basis points is what we foresee at this juncture, give us a quarter.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 4,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "We expect that it should come back to double-digit growth or the company growth momentum between Q2 and Q3 of FY'27.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 7,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "In terms of AUM, we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched in the last few years as they begin to scale.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "We continue to guide for 4.4% to 4.6%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Abhishek Murarka",
+    "voice": "management",
+    "quote": "And against that, you're guiding for 145 to 160 bps next year, full year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Shreya Shivani",
+    "voice": "management",
+    "quote": "My question is on the long-term guidance of ROA probably inching towards 4.3 - 4.7 percentage.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 10,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "ROE guidance of 20 to 22 last 6 years, adjusted for COVID speaks for themselves and during this period, as you can see from a balance sheet standpoint, the balance sheet moved from INR115,000 crores to now INR510,000 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 10,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "And just to help you with the math on 4.6%, the guidance metric for the next year on ROA.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-9",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 10,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "And the guidance that we are giving for next year is 4.4% to 4.6%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-10",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 10,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "We have to ensure that we grow nicely, which is where the 22% to 24% guidance has been given.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-11",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "Kunal Shah",
+    "voice": "management",
+    "quote": "So on the growth guidance, 22% to 24% apart from SME, which is almost bottomed out, we have started to see the sequential growth and we will get into double digits.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-12",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 15,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "As regard the profit growth for the next year, 22% to 24% growth in AUM should lead to a little better growth in profitability because if we are supposed to deliver operating efficiency growth of 25% to 40% that Rajeev has talked about, if we see improvement in -- basis points.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 3,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "We expect that it should come back to double-digit growth or the company growth momentum between Q2 and Q3 of FY'27.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-2",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 6,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "In terms of AUM, we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched in the last few years as they begin to scale.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-3",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 7,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "We continue to guide for 4.4% to 4.6%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-4",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 7,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-5",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 8,
+    "speaker": "Abhishek Murarka",
+    "voice": "management",
+    "quote": "And against that, you're guiding for 145 to 160 bps next year, full year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-6",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 8,
+    "speaker": "Shreya Shivani",
+    "voice": "management",
+    "quote": "My question is on the long-term guidance of ROA probably inching towards 4.3 - 4.7 percentage.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-7",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 9,
+    "speaker": "Rajeev Jain",
+    "voice": "management",
+    "quote": "ROE guidance of 20 to 22 last 6 years, adjusted for COVID speaks for themselves and during this period, as you can see from a balance sheet standpoint, the balance sheet moved from INR115,000 crores to now INR510,000 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-8",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 9,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "And just to help you with the math on 4.6%, the guidance metric for the next year on ROA.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-9",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 9,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "And the guidance that we are giving for next year is 4.4% to 4.6%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-10",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 9,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "We have to ensure that we grow nicely, which is where the 22% to 24% guidance has been given.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-11",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 10,
+    "speaker": "Kunal Shah",
+    "voice": "management",
+    "quote": "So on the growth guidance, 22% to 24% apart from SME, which is almost bottomed out, we have started to see the sequential growth and we will get into double digits.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-12",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 14,
+    "speaker": "Sandeep Jain",
+    "voice": "management",
+    "quote": "As regard the profit growth for the next year, 22% to 24% growth in AUM should lead to a little better growth in profitability because if we are supposed to deliver operating efficiency growth of 25% to 40% that Rajeev has talked about, if we see improvement in -- basis points.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 114,
+    "excerpt": "Bajaj Finance is one of India’s leading and most diversified financial services companies, serving 119 million customers, digitally via our app and web and at 4,098 locations and 242,000 active distribution points across the country. At the heart of our business lies innovation and financial inclusion. For over 38 years, the Company",
+    "section": "Board's report"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 74,
+    "excerpt": "Receipts through AI Voice BOTs # in MM 0.3 10 Technology Business Requirement Document (BRD) generated by AI % 71% Test cases generated by AI % 39% Software developer efficiency % 24% AI Agents # as of 27 Update on omnichannel strategy Bajaj Finance Limited’s strategy continues to remain anchored in being an ‘omnipresent’ financial services company, dominant across all vectors of consumer presence spanning physical,…",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 69,
+    "excerpt": "36 39th Annual Report 2025-2636 39th Annual Report 2025-26 The Company Bajaj Finance Limited ranks among the largest and most diversified NBFCs in India offering payments and lending solutions to customers. It has established a diversified business model which enables optimal balance of risk and profitability to deliver a sustainable business.",
+    "section": "Management discussion and analysis"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-10",
+    "page": 5,
+    "excerpt": "So, I won’t cover Panel 13 and 14, just the only point I'll cover on Panel 13 - 14 is that we’ve launched our first customer risk model from a risk management standpoint, we'll book 500,000 accounts in our B2B business, look at its 3MOB performance. and based on that, start to evaluate that for other lines of businesses.",
+    "speaker": "Rajeev Jain"
+   },
+   {
+    "sourceId": "call-2026-10",
+    "page": 4,
+    "excerpt": "So, overall pretty secular growth across all lines of business, in a way, if I look at the gross loan growth because capital book is dialing down, you should add another INR1,000-odd crores that's virtually INR39,000 crores of book growth that we are principally talking about. These are fascinating numbers even for me, I would say.",
+    "speaker": "Rajeev Jain"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "PAT compounded at 34.3% a year over FY21–FY26, ahead of revenue.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 70,
+      "excerpt": "• Profit after tax (PAT) increased by 15% to C 19,332 crore.",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 515 pages), 4 call transcripts and the Oct 2026 investor presentation; 1 document could not be read (see Sources).",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/BAJFINANCE/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 515,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 515,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 23,
+   "coverage": {
+    "pagesRead": 23,
+    "totalPages": 23,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 19,
+   "coverage": {
+    "pagesRead": 19,
+    "totalPages": 19,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7c0f169-e396-4a7d-a57d-b1f7c47f6290.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 69,
+   "coverage": {
+    "pagesRead": 60,
+    "totalPages": 69,
+    "truncated": true
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "failed",
+   "coverage": {
+    "pagesRead": 0,
+    "totalPages": 0,
+    "truncated": false
+   },
+   "note": "PDF: document too large (19 MB)"
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0670e08f-bc55-4155-9cbe-89e4637b3b05.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/23ae9a75-9bfa-49c2-89e4-5e1ee7a20f8c.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.bajajfinserv.in/finance",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/BAJFINANCE.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [
+  "Results filing, Q2 FY27 (NSE): PDF: document too large (19 MB)"
+ ],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

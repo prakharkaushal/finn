@@ -1,0 +1,1536 @@
+{
+ "symbol": "COFORGE",
+ "exchange": "NSE",
+ "name": "Coforge",
+ "generatedAt": "2026-10-29T09:08:35.649Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/COFORGE/consolidated/",
+  "retrievedAt": "2026-10-29T09:05:11.640Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1961.9000244140625,
+  "changePct": -1.7576352321450925,
+  "date": "2026-10-28",
+  "spark": [
+   1285.300048828125,
+   1368.0999755859375,
+   1375.199951171875,
+   1320.4000244140625,
+   1297.0999755859375,
+   1274.5999755859375,
+   1282.0999755859375,
+   1348.0999755859375,
+   1412,
+   1402.300048828125,
+   1377,
+   1387.0999755859375,
+   1398,
+   1422.800048828125,
+   1388.4000244140625,
+   1421.800048828125,
+   1461.199951171875,
+   1519.5,
+   1420.9000244140625,
+   1436.5,
+   1435.5,
+   1421.0999755859375,
+   1412,
+   1402.699951171875,
+   1393.800048828125,
+   1367.199951171875,
+   1402.5,
+   1464.800048828125,
+   1465.699951171875,
+   1483,
+   1463.300048828125,
+   1483.9000244140625,
+   1481.199951171875,
+   1497.9000244140625,
+   1492.9000244140625,
+   1491.4000244140625,
+   1465.699951171875,
+   1370.699951171875,
+   1441.9000244140625,
+   1464,
+   1481.9000244140625,
+   1516.199951171875,
+   1445.9000244140625,
+   1468.5999755859375,
+   1503.800048828125,
+   1540.9000244140625,
+   1534.5,
+   1533.199951171875,
+   1530.699951171875,
+   1508.4000244140625,
+   1507.4000244140625,
+   1494,
+   1471.4000244140625,
+   1439.9000244140625,
+   1484.699951171875,
+   1528.4000244140625,
+   1686,
+   1714.9000244140625,
+   1746.9000244140625,
+   1721,
+   1768,
+   1749.9000244140625,
+   1777,
+   1772.800048828125,
+   1776,
+   1810,
+   1819,
+   1801.5,
+   1829,
+   1812,
+   1806,
+   1773,
+   1813.0999755859375,
+   1882,
+   1891.699951171875,
+   1873,
+   1892.800048828125,
+   1880,
+   1901.800048828125,
+   2014.5999755859375,
+   1985.300048828125,
+   1988.9000244140625,
+   1965.699951171875,
+   1971.800048828125,
+   1972.800048828125,
+   1935,
+   1950,
+   1845,
+   1833.0999755859375,
+   1846.5,
+   1775.5,
+   1766.699951171875,
+   1793,
+   1841,
+   1814,
+   1803,
+   1782.4000244140625,
+   1785.9000244140625,
+   1784,
+   1773,
+   1722,
+   1749.0999755859375,
+   1826,
+   1852,
+   1849.699951171875,
+   1822.199951171875,
+   1814.300048828125,
+   1867.9000244140625,
+   1846.5999755859375,
+   1929,
+   1928,
+   1934.300048828125,
+   1951.9000244140625,
+   1925,
+   1951,
+   1908.800048828125,
+   1900.5,
+   1993,
+   1997,
+   1961.9000244140625
+  ],
+  "high52": 2014.5999755859375,
+  "low52": 1073.9000244140625,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/COFORGE.NS",
+   "retrievedAt": "2026-10-29T09:05:12.309Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 86,506 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,953"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 2,022 / 1,008"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "39.7"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 505"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.61 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "23.5 %"
+  },
+  {
+   "name": "ROE",
+   "value": "21.4 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹6,171 cr (+53.7% YoY), PAT ₹605 cr (+42.4% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q2 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 6171
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 605
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹20,380 cr, EBITDA ₹3,881 cr (19.0% margin), PAT ₹2,100 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   4663,
+   6432,
+   8015,
+   9009,
+   12073,
+   16403
+  ],
+  "ebitda": [
+   781,
+   1102,
+   1282,
+   1447,
+   1694,
+   2936
+  ],
+  "pat": [
+   466,
+   715,
+   745,
+   836,
+   936,
+   1745
+  ],
+  "margin": [
+   16.748874115376367,
+   17.133084577114428,
+   15.995009357454773,
+   16.061716061716062,
+   14.031309533670171,
+   17.89916478692922
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 28.6% a year over FY21–FY26 (₹4,663 cr → ₹16,403 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 14,
+      "excerpt": "Income from operations 164,027 120,733 95,725 63,705",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 16403
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 4663
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 35.9% was within its 5-year range (12.4% to 37.9%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 14,
+      "excerpt": "Income from operations 164,027 120,733 95,725 63,705",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 16403
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 12073
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 190 bps over FY23–FY26 (16.0% → 17.9%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 30.2% a year over FY21–FY26, in line with revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 14,
+      "excerpt": "Profit for the year 17,447 9,361 13,931 6,069",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 1745
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 466
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   3258,
+   3422,
+   3704,
+   4016,
+   4232,
+   4450,
+   5528,
+   6171
+  ],
+  "ebitda": [
+   435,
+   527,
+   577,
+   759,
+   723,
+   876,
+   1058,
+   1223
+  ],
+  "pat": [
+   256,
+   307,
+   356,
+   425,
+   297,
+   666,
+   532,
+   605
+  ],
+  "margin": [
+   13.351749539594843,
+   15.400350672121565,
+   15.577753779697623,
+   18.899402390438247,
+   17.084120982986768,
+   19.685393258426966,
+   19.13892908827786,
+   19.8185059147626
+  ],
+  "revenueYoY": [
+   40.2496771416272,
+   47.627264883520276,
+   57.14891811624947,
+   32.71645736946464,
+   29.895641497851443,
+   30.040911747516073,
+   49.24406047516199,
+   53.660358565737056
+  ],
+  "patYoY": [
+   5.349794238683128,
+   34.06113537117904,
+   156.11510791366908,
+   81.62393162393163,
+   16.015625,
+   116.93811074918568,
+   49.43820224719101,
+   42.35294117647059
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   490,
+   562,
+   726,
+   1070,
+   728,
+   6026
+  ],
+  "equity": [
+   2733,
+   3082,
+   3627,
+   6379,
+   9537,
+   22362
+  ],
+  "debtToEquity": [
+   0.17929015733626052,
+   0.18234912394548994,
+   0.2001654259718776,
+   0.16773788995140304,
+   0.07633427702631855,
+   0.26947500223593596
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.27 at FY27 end (0.20 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 8.3× from ₹726 cr to ₹6,026 cr over FY24–FY27.",
+    "tone": "negative",
+    "period": "FY24–FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   762,
+   766,
+   950,
+   903,
+   1237,
+   1792
+  ],
+  "pat": [
+   466,
+   715,
+   745,
+   836,
+   936,
+   1745
+  ],
+  "fcf": [
+   687,
+   618,
+   797,
+   644,
+   680,
+   1197
+  ],
+  "capex": [
+   75,
+   148,
+   153,
+   259,
+   557,
+   595
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.13× reported profit (₹5,648 cr vs ₹4,977 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 1792
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 1237
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹3,936 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹1,712 cr, 30% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   84,
+   79,
+   73,
+   73,
+   78,
+   88
+  ],
+  "debtorDays": [
+   84,
+   79,
+   73,
+   73,
+   78,
+   88
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from 73 to 88 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 24% in FY26 (31% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-10-1",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 2,
+    "speaker": "Sudhir Singh",
+    "voice": "management",
+    "quote": "We are pleased to raise our consolidated EBIT margin guidance for fiscal year 2027 to 16%, from the 15.5% we had shared at the beginning of the year.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 16,
+    "high": 16,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 15.00128216086845,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-10-2",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 6,
+    "speaker": "Sudhir Singh",
+    "voice": "management",
+    "quote": "Equally importantly, we delivered a consolidated EBIT margin of 16%, above our current guidance of 15.5%, while the standalone business delivered an EBIT margin of 17%.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 15.5,
+    "high": 15.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 15.00128216086845,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-10-7",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "H1 consolidated EBIT is already at 16%, and with levers I described, we are confident of reaching 17% in Q4 of FY2027 and expect EBIT margins to be more than 17% going forward.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 17,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "Q",
+     "fy": 2027,
+     "inferred": false,
+     "quarter": 4,
+     "label": "Q4 FY27"
+    },
+    "verdict": {
+     "status": "pending",
+     "basis": "No reported numbers for Q4 FY27 yet"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "No reported numbers for Q4 FY27 yet"
+   },
+   {
+    "id": "call-2026-10-9",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "EPS with no exceptional expenses in Q3 going forward lower hedge losses in Q3 and almost negligible in Q4, improvement in EBIT margin in Q4 to 17%.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 17,
+    "high": 17,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "Q",
+     "fy": 2027,
+     "inferred": true,
+     "quarter": 4,
+     "label": "Q4 FY27"
+    },
+    "verdict": {
+     "status": "pending",
+     "basis": "No reported numbers for Q4 FY27 yet"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "No reported numbers for Q4 FY27 yet"
+   },
+   {
+    "id": "call-2026-10-4",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "We remain confident of delivering FCF to PAT guidance of 100% for FY2027.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-5",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "We remain confident of the guidance of 20.5% to 21% range.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-8",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "Free cash flow, as I mentioned, guidance of 100% FCF to PAT for FY2027.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-11",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 16,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "Number two, we are guided for FCF to PAT of 100%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 9,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "Based on the progress achieved to date, we remain confident of not only delivering but surpassing the 15.5% consolidated EBIT margin guidance shared in the last earnings call for FY27.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 15.5,
+    "high": 15.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 15.00128216086845,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 9,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "We remain confident of meeting our FY27 free cash flow-to-PAT guidance of 100%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "We are confident of achieving an EBITDA margin of 20.5 to 21% on a consolidated basis.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 20.5,
+    "high": 21,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 19.497392939567483,
+     "actualLabel": "EBITDA margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBITDA margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-07-5",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 10,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "FCF to PAT for the year will be 100%+.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-6",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 21,
+    "speaker": "Sudhir Singh",
+    "voice": "management",
+    "quote": "No, we have not provided any hard Q-o-Q revenue guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 7,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "• Steady state effective tax rate guidance for FY27 is between 23% and 24%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3a",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "With Q4 FY26 EBITDA margins at 20.5% and EBIT margins at 16.6%, we are confident of achieving: • EBITDA margins of 20.5% to 21% in FY27 on a consolidated basis, which is including Encora and, • EBIT margins of 16.5% to 17% on a standalone basis, that is, excluding Encora, and 15.5% on a consolidated basis, which includes Encora.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 20.5,
+    "high": 21,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 19.497392939567483,
+     "actualLabel": "EBITDA margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBITDA margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-05-3b",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "With Q4 FY26 EBITDA margins at 20.5% and EBIT margins at 16.6%, we are confident of achieving: • EBITDA margins of 20.5% to 21% in FY27 on a consolidated basis, which is including Encora and, • EBIT margins of 16.5% to 17% on a standalone basis, that is, excluding Encora, and 15.5% on a consolidated basis, which includes Encora.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 15.5,
+    "high": 15.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "behind",
+     "actual": 15.00128216086845,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far behind (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "• Looking ahead, we anticipate free cash flow to PAT to be maintained at 100% from FY27 onwards in contrast to our earlier guidance of 70 to 80%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 15,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "We believe the FCF to PAT metrics going forward will be 100% plus.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 16,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "Just to mention, if you add back the hedge losses against revenue in the current quarter, the EBIT margin was 15.2% against our guidance of 15%.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 15,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "Q",
+     "fy": 2026,
+     "inferred": true,
+     "quarter": 4,
+     "label": "Q4 FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 15.640449438202248,
+     "actualLabel": "EBIT margin, Q4 FY26",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "met",
+    "assessmentNote": "15.6% reported, above the 15% promised"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "We had earlier mentioned that we would maintain 70% to 80% FCF to PAT.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-9",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "But the rigor that we have brought into the organization, in terms of the way collections are being followed, the way payables are being managed, and the way contracts are being structured, gives us confidence that 100% is the bare minimum FCF to PAT we will deliver in FY27, along with the significant step-up in profitability that we mentioned in our prepared remarks.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-10",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 22,
+    "speaker": "Saurabh Goel",
+    "voice": "management",
+    "quote": "It is a gradual move from not focusing on FCF to PAT, to giving guidance of 70% to 80%, delivering on that, moving to 100%, and then looking at how next year goes before probably upping it further.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-11",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 25,
+    "speaker": "Kawaljeet Saluja",
+    "voice": "management",
+    "quote": "Great to see the margin focus and free cash flow guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 2,
+    "speaker": "Sudhir Singh",
+    "voice": "management",
+    "quote": "Equally importantly, on the margin front, it is pertinent to note that our reported 13.4 % EBIT for the quarter and our plan to register a 15% EBIT in Q4 will lead us to the 14% EBIT guidance for FY2026.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-2",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 2,
+    "speaker": "Sudhir Singh",
+    "voice": "management",
+    "quote": "Finally, free cash flow for the quarter came in at 110%, significantly ahead of our guidance of around 70% to 80% FCF on a sustained basis.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [
+   {
+    "metric": "ebit_margin",
+    "period": "FY27",
+    "from": "15.5%",
+    "to": "15.5%",
+    "direction": "maintained",
+    "fromCall": "May 2026 call · Q4 FY26",
+    "toCall": "Jul 2026 call · Q1 FY27"
+   },
+   {
+    "metric": "ebit_margin",
+    "period": "FY27",
+    "from": "15.5%",
+    "to": "16%",
+    "direction": "raised",
+    "fromCall": "Jul 2026 call · Q1 FY27",
+    "toCall": "Oct 2026 call · Q2 FY27"
+   },
+   {
+    "metric": "ebitda_margin",
+    "period": "FY27",
+    "from": "20.5–21%",
+    "to": "20.5–21%",
+    "direction": "maintained",
+    "fromCall": "May 2026 call · Q4 FY26",
+    "toCall": "Jul 2026 call · Q1 FY27"
+   }
+  ],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 1,
+   "on_track": 0,
+   "behind": 6,
+   "pending": 2,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 5,
+    "excerpt": "Corporate Profile WHO WE ARE We are a global AI-native engineering services leader, where AI is the very foundation of how we design, build, and deliver intelligent solutions for our clients. We use AI and hyperspecialized industry expertise to engineer autonomous enterprises.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 12,
+    "excerpt": "ISG positioned Coforge as a Product Challenger in ISG’s 2025 study for ISG Digital Engineering Services 2025 ISG Provider Lens™ Study 8. Everest Group positioned Coforge as a Leader in Digital Transformation Services for Mid-market Enterprises PEAK Matrix® 2025 9. ISG positioned Coforge as a Rising Star and Product Challenger in the Mainframes - Services and Solutions 2026 ISG Provider Lens® Study 10.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 8,
+    "excerpt": "and financial services, insurance, travel, healthcare & life sciences, public sector, and hi-tech, where demand is increasingly driven by AI-led transformation, modernization of legacy platforms, and the need for resilient, outcome-oriented managed services.",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": {
+   "names": [
+    "Americas",
+    "Europe",
+    "Middle East",
+    "Africa (EMEA)"
+   ],
+   "single": false,
+   "evidence": {
+    "sourceId": "ar-2026",
+    "page": 165,
+    "excerpt": "…Europe, Middle East and Africa (EMEA), India, and Asia Pacific (APAC)—to three reportable segments comprising Americas, Europe, Middle East and Africa (EMEA), and Rest of the World (ROW) in compliance with Ind AS 108.",
+    "section": "Consolidated financial statements"
+   }
+  },
+  "management": [
+   {
+    "sourceId": "call-2026-10",
+    "page": 6,
+    "excerpt": "Order intake, backed by a fresh order intake of over US$1 billion during the quarter. Our next 12-month executable order book grows to an all-time high of $2.4 billion, increasing 45% year-on-year from US$1.64 billion, and significantly strengthening growth visibility for the rest of FY2027.",
+    "speaker": "Sudhir Singh"
+   },
+   {
+    "sourceId": "call-2026-10",
+    "page": 10,
+    "excerpt": "Thank you, Saurabh. As Saurabh stated, ladies and gentlemen, we are upgrading our FY2027 consolidated EBIT margin guidance from 15.5% to 16%. Our revenue outlook remains very robust. Signed next 12-month order book of $2.4 billion, an in-quarter order intake of more than $1 billion. The highest ever number of large deals signed in Q2, which incidentally is a record that is likely to get eclipsed in Q3.",
+    "speaker": "Sudhir Singh"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-05-check-1",
+   "sourceId": "call-2026-05",
+   "page": 8,
+   "speaker": "Saurabh Goel",
+   "quote": "With Q4 FY26 EBITDA margins at 20.5% and EBIT margins at 16.6%, we are confident of achieving: • EBITDA margins of 20.5% to 21% in FY27 on a consolidated basis, which is including Encora and, • EBIT margins of 16.5% to 17% on a standalone basis, that is, excluding Encora, and 15.5% on a consolidated basis, which includes Encora.",
+   "metric": "ebitda_margin",
+   "quarter": "Q4 FY26",
+   "claimed": 20.5,
+   "reported": 19.685393258426966,
+   "status": "consistent",
+   "note": "Said 20.5%; reported 19.7% (consolidated)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 28.6% a year over FY21–FY26 (₹4,663 cr → ₹16,403 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 14,
+      "excerpt": "Income from operations 164,027 120,733 95,725 63,705",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 190 bps over FY23–FY26 (16.0% → 17.9%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.13× reported profit (₹5,648 cr vs ₹4,977 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.27 at FY27 end (0.20 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 8.3× from ₹726 cr to ₹6,026 cr over FY24–FY27.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 8.3× from ₹726 cr to ₹6,026 cr over FY24–FY27.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.27 at FY27 end (0.20 at FY24).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (182 pages), 4 call transcripts, the Q2 FY27 results filing and the Sept 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/COFORGE/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6778798-69aa-4fea-b818-8182497957b3.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 182,
+   "coverage": {
+    "pagesRead": 182,
+    "totalPages": 182,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2026",
+   "url": "https://investors.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q2FY27-October-23-2026.pdf?hsLang=en",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 23,
+   "coverage": {
+    "pagesRead": 23,
+    "totalPages": 23,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://investors.coforge.com/hubfs/Coforge_Q1FY27%20Earnings%20Conference%20Call%20Transcript.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 25,
+   "coverage": {
+    "pagesRead": 25,
+    "totalPages": 25,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://investors.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q4FY26%20_AJ.pdf?hsLang=en",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 27,
+   "coverage": {
+    "pagesRead": 27,
+    "totalPages": 27,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q3-FY26.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-09",
+   "kind": "presentation",
+   "title": "Investor presentation, Sep 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86403cba-158f-4d53-9016-01cac46ddef7.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 38,
+   "coverage": {
+    "pagesRead": 38,
+    "totalPages": 38,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/COFORGE_23102026161820_BMOutcome23102026F.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 15,
+   "coverage": {
+    "pagesRead": 15,
+    "totalPages": 15,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/092cb657-c836-432f-8802-1fa337f1806e.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4a9f4e43-9ca2-4956-8d5f-053e45e7a0ef.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "https://www.coforge.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/COFORGE.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

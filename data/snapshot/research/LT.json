@@ -1,0 +1,1952 @@
+{
+ "symbol": "LT",
+ "exchange": "NSE",
+ "name": "Larsen & Toubro",
+ "generatedAt": "2026-10-29T09:08:42.582Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/LT/consolidated/",
+  "retrievedAt": "2026-10-29T08:57:29.958Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 3801.300048828125,
+  "changePct": 3.7161318256756983,
+  "date": "2026-10-28",
+  "spark": [
+   4023,
+   3974.5,
+   3940.199951171875,
+   3856.5,
+   3915.800048828125,
+   3940.39990234375,
+   3909,
+   3917.800048828125,
+   3921,
+   3910.699951171875,
+   3928.5,
+   3926.60009765625,
+   4033.39990234375,
+   4037.800048828125,
+   4047.5,
+   4076.5,
+   4010.800048828125,
+   4000.89990234375,
+   3953.199951171875,
+   3942.10009765625,
+   3953.199951171875,
+   3875.5,
+   3900.60009765625,
+   3917.5,
+   3862,
+   4049.300048828125,
+   4169.7998046875,
+   4186.39990234375,
+   4207.7001953125,
+   4190,
+   4209.39990234375,
+   4201.2998046875,
+   4179.39990234375,
+   4181.7001953125,
+   4216.39990234375,
+   4165.2001953125,
+   4143.39990234375,
+   4092.60009765625,
+   4059.39990234375,
+   4026.60009765625,
+   4041,
+   3991.89990234375,
+   3892.10009765625,
+   3886,
+   3945.800048828125,
+   3928.5,
+   3848.699951171875,
+   3783.89990234375,
+   3775.60009765625,
+   3814.5,
+   3838.800048828125,
+   3846.60009765625,
+   3817.39990234375,
+   3792.39990234375,
+   3785.60009765625,
+   3806,
+   3832,
+   3931.39990234375,
+   3937.699951171875,
+   3938.89990234375,
+   4025,
+   3990,
+   4057,
+   4061.800048828125,
+   4056,
+   4080,
+   4037.39990234375,
+   4020,
+   4070.699951171875,
+   4057,
+   4086.699951171875,
+   4064.300048828125,
+   4041.300048828125,
+   4081,
+   4093,
+   4090,
+   4119,
+   4038.10009765625,
+   4027,
+   4045.800048828125,
+   4044.89990234375,
+   3980.10009765625,
+   3981,
+   3975,
+   3964.10009765625,
+   3999,
+   3946.10009765625,
+   3922.60009765625,
+   3955,
+   3930.699951171875,
+   3850.699951171875,
+   3807.699951171875,
+   3836.199951171875,
+   3885,
+   3904.800048828125,
+   3866.39990234375,
+   3929.89990234375,
+   3858.39990234375,
+   3876.199951171875,
+   3766.39990234375,
+   3749.10009765625,
+   3760,
+   3693.39990234375,
+   3750,
+   3770,
+   3701.5,
+   3625.10009765625,
+   3703.300048828125,
+   3627.5,
+   3675,
+   3642,
+   3632,
+   3627.10009765625,
+   3661.89990234375,
+   3636,
+   3638.300048828125,
+   3647,
+   3680,
+   3665.10009765625,
+   3801.300048828125
+  ],
+  "high52": 4418.10009765625,
+  "low52": 3342.39990234375,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/LT.NS",
+   "retrievedAt": "2026-10-29T09:05:18.945Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 5,26,838 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 3,829"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 4,440 / 3,288"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "27.9"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 821"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.00 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "14.6 %"
+  },
+  {
+   "name": "ROE",
+   "value": "15.9 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹78,750 cr (+15.8% YoY), PAT ₹5,949 cr (+27.2% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 9,
+     "excerpt": "67,984 78,750 16% Revenue from operations 1,31,662 1,46,692 11%",
+     "level": "page"
+    },
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 11,
+     "excerpt": "7 Net profit after tax (5-6) 5915.15 4982.85 4687.09 10898.00 9012.66 19159.40 … 9 Net profit after tax including share in profit/{loss) of joint ventures/associates (7+8) 5949.15 4988.03 4678.01 10937.18 8996.18 18953.8",
+     "level": "page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 78750
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 5949
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹3,00,904 cr, EBITDA ₹36,572 cr (12.2% margin), PAT ₹20,895 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   135979,
+   156521,
+   183341,
+   221113,
+   255734,
+   285874
+  ],
+  "ebitda": [
+   23460,
+   24314,
+   27166,
+   28758,
+   34551,
+   36345
+  ],
+  "pat": [
+   12921,
+   10419,
+   12531,
+   15547,
+   17673,
+   18954
+  ],
+  "margin": [
+   17.252664014296325,
+   15.534017799528499,
+   14.817198553515034,
+   13.006019546566689,
+   13.510522652443555,
+   12.713643073521903
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 16.0% a year over FY21–FY26 (₹1,35,979 cr → ₹2,85,874 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Gross revenue from operations [1] 285874 255734 221113 183341 156521 135979 145452 135220 119862 110011",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 285874
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 135979
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 11.8% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Gross revenue from operations [1] 285874 255734 221113 183341 156521 135979 145452 135220 119862 110011",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 285874
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 255734
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 210 bps over FY23–FY26 (14.8% → 12.7%).",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 8.0% a year over FY21–FY26, lagging revenue.",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Profit for the year [PAT] 18954 17673 15547 12531 10419 12921 10894 10217 8004 6486",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 18954
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 12921
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   64668,
+   74392,
+   63679,
+   67984,
+   71450,
+   82762,
+   67942,
+   78750
+  ],
+  "ebitda": [
+   7898,
+   9876,
+   8024,
+   8513,
+   9190,
+   10419,
+   8149,
+   8814
+  ],
+  "pat": [
+   3974,
+   6156,
+   4318,
+   4678,
+   3825,
+   6133,
+   4988,
+   5949
+  ],
+  "margin": [
+   12.21315024432486,
+   13.27562103451984,
+   12.600700387882977,
+   12.522064015062368,
+   12.862141357592721,
+   12.589110944636428,
+   11.994053751729417,
+   11.192380952380953
+  ],
+  "revenueYoY": [
+   17.305180670439704,
+   10.902070692765246,
+   15.527939042089987,
+   10.444318089513443,
+   10.487412630667409,
+   11.251209807506184,
+   6.694514675167637,
+   15.836079077429984
+  ],
+  "patYoY": [
+   10.603952129139994,
+   22.800718132854577,
+   25.341074020319304,
+   14.125396438155649,
+   -3.7493709109209865,
+   -0.37361923326835605,
+   15.516442797591479,
+   27.169730654125697
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   125508,
+   120650,
+   116322,
+   132409,
+   125497,
+   140300
+  ],
+  "equity": [
+   82408,
+   89326,
+   86359,
+   97656,
+   109290,
+   113029
+  ],
+  "debtToEquity": [
+   1.523007475002427,
+   1.350670577435461,
+   1.346958626199933,
+   1.3558716310313754,
+   1.1482935309726416,
+   1.2412743632165197
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 1.24 at FY27 end (1.35 at FY24).",
+    "tone": "neutral",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   23074,
+   19164,
+   22777,
+   18266,
+   9151,
+   16741
+  ],
+  "pat": [
+   12921,
+   10419,
+   12531,
+   15547,
+   17673,
+   18954
+  ],
+  "fcf": [
+   22151,
+   16124,
+   18984,
+   14056,
+   5611,
+   12272
+  ],
+  "capex": [
+   923,
+   3040,
+   3793,
+   4210,
+   3540,
+   4469
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.15× reported profit (₹86,099 cr vs ₹75,124 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 16741
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 9151
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹67,047 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹19,052 cr, 22% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   -236,
+   -227,
+   -172,
+   -143,
+   -101,
+   -151
+  ],
+  "debtorDays": [
+   113,
+   108,
+   89,
+   81,
+   77,
+   77
+  ],
+  "inventoryDays": [
+   51,
+   44,
+   41,
+   32,
+   30,
+   36
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from -172 to -151 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 15% in FY26 (12% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 10,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Against this backdrop and supported by the strength of our order book and healthy prospects pipeline and the continued focus on execution, I will now turn on to our guidance for FY '27.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 10,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Given the strength of our opportunity pipeline and the underlying market dynamics, we remain confident of achieving our order inflow growth guidance of 10% to 12% band for the current year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 11,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "For now, we remain committed to our FY '27 growth guidance of 10% to 12% revenue growth guidance.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 10,
+    "high": 12,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "on_track",
+     "actual": 11.41474825881227,
+     "actualLabel": "YoY growth, 2 of 4 quarters of FY27",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far on track (YoY growth, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-07-4",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 11,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Coming on to margin: In line with our Revenue growth guidance, we continue to target the margin of around 7.8% for FY '27 with respect to the PPM portfolio.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 7.8,
+    "high": 7.8,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-07-5",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 11,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Factoring in the expected utilization of customer advances and increased vendor payments as the execution accelerates in H2, we are maintaining our FY '27 working capital guidance of around 10%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-6",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 13,
+    "speaker": "Mohit Pandey",
+    "voice": "management",
+    "quote": "While we have highlighted robust collections and cash flow improvement and working capital guidance is being maintained, we have also mentioned the margin impact due to ECL provisions.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-7",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 18,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "The balance 10 to 15% will be possibly the treasury income that is featuring in the PPM margins.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-8",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 24,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "We started the year with having a guidance on order inflows at 10% to 12% rate.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-9",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 24,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "And basis the conversion rate, it is fair for us to assume that we are on track to possibly do 10% to 12% order inflow guidance to meet.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-10",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 25,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "What we gave the order prospects is to give a comfort that there are prospects, despite all the geopolitical issues that we see around us, the order prospect gives us the comfort that the guidance that we gave at the start of the year for order inflow looks to be still doable.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 2,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "The economic growth in India for FY '27 is expected to be around 6.9%, supported by resilient household demand, sustained public capital expenditure, and continued strength in the services sector.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On order inflows, we had guided for a growth of 10% for FY26 at the start of the year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On the revenue front, growth for FY26 stood at 12% compared to our guidance of 15%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On Margin, we had guided for an improvement of 20 basis points in FY26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Through the first nine months of the year, we were tracking ahead of this guidance with P&M margins improving by 30 basis points.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-9",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Concluding with the Lakshya guidance, over the next five years, we are targeting order inflow growth at a CAGR return of 10% to 12%, revenue growth of 12% to 15%, and a Return on Equity in the range of 16% to 17%.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 10,
+    "high": 12,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On Revenue, we expect growth to be in the range of 10% to 12% for FY27.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On this reclassified basis, the FY26 margins for Projects, Products and Manufacturing was 7.8%, and we expect the same to be stable as well in FY27 as well.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Accordingly, we are guiding the working capital to be around 10% in FY27, which remains well within our targeted range.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-10",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 13,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Yes, so as I said, we have given the revenue guidance of 10% to 12% for FY27, basis the fact that the first six months will be subdued, given the fact of the situation that is happening in the Middle East.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-11",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 21,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "So when I'm giving the guidance of 16% to 17%, if you just add up the numbers of the investment that we are talking about, be it Electronics, be it Green Energy, be it Data Center, , the 12% to 15% revenue growth is all coming from what you call largely PPM and the ITTS portfolio.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 12,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-05-12",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 22,
+    "speaker": "Priyankar Biswas",
+    "voice": "management",
+    "quote": "My first question is for the 10% to 12% growth that you have guided in the Lakshya plan, that is till FY31.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 3,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "The global economy is entering calendar 2026 with growth expected to remain modest at roughly the 3% range.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-2",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 7,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "This is already factored into our PM margin guidance for FY '26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-6",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "We expect the customary ramp-up in project execution during Q4 and are reasonably confident of achieving our full year revenue growth guidance of 15%.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 15,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "Q",
+     "fy": 2026,
+     "inferred": true,
+     "quarter": 4,
+     "label": "Q4 FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 11.251209807506184,
+     "actualLabel": "YoY growth, Q4 FY26",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "missed",
+    "assessmentNote": "11.3% reported — 3.7 percentage points short of 15%"
+   },
+   {
+    "id": "call-2026-01-3",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "The Return on Assets remained healthy at 2.31% for Q3 FY '26 and adequate capital is available in the balance sheet to pursue growth in the medium term.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-4",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Before we conclude, let me cover the guidance on the various parameters for FY '26: On order inflows - Our nine months order inflow has seen a strong growth of 30% Y-on-Y based on a strong capex momentum.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-5",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Basis the 9-month performance and the healthy prospects pipeline for the near term, we will be exceeding the 10% order inflow guidance for FY '26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-7",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On Margins - Our Projects & Manufacturing EBITDA at 7.9% for 9 months of the current year is in line with the target that we have set ourselves at 8.5% for the full year FY '26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-8",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Lastly, on Working Capital - We had earlier guided the Net Working Capital to Revenue of 12% by March '26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-9",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 9,
+    "speaker": "Mohit Kumar",
+    "voice": "management",
+    "quote": "I think at the beginning of the year, we had given 15% revenue growth guidance.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 15,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 11.78568356182596,
+     "actualLabel": "FY26 growth",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "missed",
+    "assessmentNote": "11.8% reported — 3.2 percentage points short of 15%"
+   },
+   {
+    "id": "call-2026-01-10",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 9,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "So we continue to retain our guidance of 15% for the full year, and we are reasonably confident that Q4, the way we have planned, the execution momentum will be at a fast forward pace, both for the Infrastructure -- for all the segments in the Projects & Manufacturing space.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-11",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 10,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "So Sumit, just to add, I did emphasize that the margin guidance of 8.5% remains the effort for taking into account that we have had a good 9 months despite the fact of Hydrocarbon margins having moved southwards this year.",
+    "structuredBy": "rules",
+    "metric": "other",
+    "low": 8.5,
+    "high": 8.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-01-12",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 12,
+    "speaker": "Amit Anwani",
+    "voice": "analyst",
+    "quote": "Sir, on P&M margin, which you guided for 8.5% and you did highlight it that we have already factored in the cost pressure for a few legacy orders.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-1",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 8,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "As already communicated during our Q1 FY '26 Earnings Call, this is factored into our FY '26 P&L margin guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-2",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 9,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "The ROAs remain healthy at 2.4% for Q2 FY '26 and adequate capital is available on the balance sheet to pursue growth in the medium term.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-3",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 9,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "We are confident of exceeding our full year FY '26 guidance of 10% growth in group order inflows for the current year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-4",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 10,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "Accordingly, we maintain our full year revenue growth guidance at 15%.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 15,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 11.78568356182596,
+     "actualLabel": "FY26 growth",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "missed",
+    "assessmentNote": "11.8% reported — 3.2 percentage points short of 15%"
+   },
+   {
+    "id": "call-2025-10-5",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 10,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "With the execution momentum expected to pick up in H2, we are reasonably confident to achieve our full year EBITDA margin target of 8.5%.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 8.5,
+    "high": 8.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "H2",
+     "fy": 2026,
+     "inferred": true,
+     "label": "H2 FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 12.715612274012397,
+     "actualLabel": "EBITDA margin, H2 FY26",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "met",
+    "assessmentNote": "12.7% reported, above the 8.5% promised"
+   },
+   {
+    "id": "call-2025-10-6",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 10,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "On Working Capital, our guidance for working capital for FY '26 remains unchanged at around 12% by March 2026.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-9",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 12,
+    "speaker": "P Ramakrishnan",
+    "voice": "management",
+    "quote": "But since we don't give margin guidance for the individual P&M segment, this is also baked into our overall FY '26 target of 8.5%.",
+    "structuredBy": "rules",
+    "metric": "other",
+    "low": 8.5,
+    "high": 8.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": false,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2025-10-7",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 12,
+    "speaker": "P Ramakrishnan",
+    "voice": "management",
+    "quote": "Having said this, the overall revenue guidance that the company has provided for 15% of full year is on track and this we can confirm.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-8",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 12,
+    "speaker": "P Ramakrishnan",
+    "voice": "management",
+    "quote": "This is baked into our 15% overall guidance on revenues.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-10",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 13,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "7% of the total order book, and there are projects which are related to the Jal Jeevan Mission project and once the allocations of the government start coming in, we do expect the execution momentum to smoothen out in the subsequent quarters.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-11",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 17,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "The current southward movement in Energy margins is baked, I reiterate, is baked when we have given the guidance of 8.5%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-12",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 21,
+    "speaker": "P. Ramakrishnan",
+    "voice": "management",
+    "quote": "As you know that we have a way of taking the margin guidance restricted to the year under question or under review.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [
+   {
+    "metric": "revenue_growth",
+    "period": "FY26",
+    "from": "15%",
+    "to": "15%",
+    "direction": "maintained",
+    "fromCall": "Oct 2025 call · Q2 FY26",
+    "toCall": "Jan 2026 call · Q3 FY26"
+   }
+  ],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 3,
+   "beat": 1,
+   "on_track": 1,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 5
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 93,
+    "excerpt": "The company is engaged in design, manufacture, erection and commissioning of ultra-supercritical / supercritical turbines and generators L&T Howden Private Limited, a JV with Howden Group (part of Chart Industries Company, USA), is in the business of regenerative air preheaters and variable pitch axial fans for power plants L&T-Sargent & Lundy Limited, a JV with Sargent & Lundy LLC, USA, is engaged in the business of…",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 254,
+    "excerpt": "The Company partnered in IIT Bombay Techfest, one of Asia’s largest technology festivals which saw a footfall of around 2.2 lakh participants. L&T also partnered in IIT Madras Shaastra 2026 and engaged",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 35,
+    "excerpt": "services (Larsen & Toubro Vyoma), and semiconductor chip design (L&T Semiconductor Technologies Limited). These platforms strengthen L&T’s digital ecosystem, enable technology led value creation and support long-term growth across industries. 6 Financial Services L&T Finance Limited (LTF) represents the Group’s financial services arm, offering a diversified portfolio of retail lending products.",
+    "section": "Management discussion and analysis"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-07",
+    "page": 4,
+    "excerpt": "I now move on to the group performance: The order inflows momentum remained positive during the quarter, driven by strong international ordering activity, including large Offshore Wind awards in Europe and sustained private sector investment-led demand in the domestic market, particularly in the Metals and Minerals and the Buildings and Factories businesses. Reflecting this momentum, the group order inflows at Rs.",
+    "speaker": "P. Ramakrishnan"
+   },
+   {
+    "sourceId": "call-2026-07",
+    "page": 9,
+    "excerpt": "The segment order inflow during the quarter was aided by receipt of multiple refinery equipment packages in the Heavy Engineering business. The order book of this segment at Rs. 424 billion as of June ‘26 with the PES order book at Rs. 207 billion, Heavy Engineering order book at Rs. 87 billion, Electronic Products and Systems order book, which currently includes the defense-related electronic product system at Rs.",
+    "speaker": "P. Ramakrishnan"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-07-check-1",
+   "sourceId": "call-2026-07",
+   "page": 6,
+   "speaker": "P. Ramakrishnan",
+   "quote": "Moving on to EBITDA margin: Our group level EBITDA margin excluding other income for Q1 FY '27 is 9.0% as compared to 9.9% in the Q1 of last year.",
+   "metric": "ebitda_margin",
+   "quarter": "Q1 FY27",
+   "claimed": 9,
+   "reported": 11.994053751729417,
+   "status": "conflict",
+   "note": "Said 9.0%; the reported consolidated figure is 12.0% — a 3.0-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-05-check-2",
+   "sourceId": "call-2026-05",
+   "page": 6,
+   "speaker": "P. Ramakrishnan",
+   "quote": "Coming to Revenues, our group revenues for Q4 FY26 was Rs 828 billion and registered a YoY growth of 11%, with international revenues constituting 53% of the total group revenues during the quarter.",
+   "metric": "revenue_growth",
+   "quarter": "Q4 FY26",
+   "claimed": 11,
+   "reported": 11.251209807506184,
+   "status": "consistent",
+   "note": "Said +11.0%; reported +11.3% (consolidated)."
+  },
+  {
+   "id": "call-2026-05-check-3",
+   "sourceId": "call-2026-05",
+   "page": 7,
+   "speaker": "P. Ramakrishnan",
+   "quote": "Moving on to operating margin, our group-level EBITDA margin, excluding other income, for Q4 FY '26 is 10.4% as compared to 11% in Q4 of the previous year.",
+   "metric": "ebitda_margin",
+   "quarter": "Q4 FY26",
+   "claimed": 10.4,
+   "reported": 12.589110944636428,
+   "status": "conflict",
+   "note": "Said 10.4%; the reported consolidated figure is 12.6% — a 2.2-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-05-check-4",
+   "sourceId": "call-2026-05",
+   "page": 7,
+   "speaker": "P. Ramakrishnan",
+   "quote": "Our Recurring PAT for Q4 FY '26 is at Rs 53 billion, up by 5% on a year-on-year basis.",
+   "metric": "pat_growth",
+   "quarter": "Q4 FY26",
+   "claimed": 5,
+   "reported": -0.37361923326835605,
+   "status": "conflict",
+   "note": "Said +5.0%; the reported consolidated figure is −0.4% — a 5.4-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-05-check-5",
+   "sourceId": "call-2026-05",
+   "page": 7,
+   "speaker": "P. Ramakrishnan",
+   "quote": "The Revenue for the quarter was at Rs 397 billion, registering a growth of 2% on a year-on-year basis.",
+   "metric": "revenue_growth",
+   "quarter": "Q4 FY26",
+   "claimed": 2,
+   "reported": 11.251209807506184,
+   "status": "conflict",
+   "note": "Said +2.0%; the reported consolidated figure is +11.3% — a 9.3-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-01-check-6",
+   "sourceId": "call-2026-01",
+   "page": 5,
+   "speaker": "P. Ramakrishnan",
+   "quote": "Our group level EBITDA margin, excluding other income for Q3 FY'26 is 10.4% as compared to 9.7% in Q3 of the previous year.",
+   "metric": "ebitda_margin",
+   "quarter": "Q3 FY26",
+   "claimed": 10.4,
+   "reported": 12.862141357592721,
+   "status": "conflict",
+   "note": "Said 10.4%; the reported consolidated figure is 12.9% — a 2.5-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2025-10-check-7",
+   "sourceId": "call-2025-10",
+   "page": 4,
+   "speaker": "P. Ramakrishnan",
+   "quote": "Our group revenues grew 10% Y-o-Y in Q2 FY '26.",
+   "metric": "revenue_growth",
+   "quarter": "Q2 FY26",
+   "claimed": 10,
+   "reported": 10.444318089513443,
+   "status": "consistent",
+   "note": "Said +10.0%; reported +10.4% (consolidated)."
+  },
+  {
+   "id": "call-2025-10-check-8",
+   "sourceId": "call-2025-10",
+   "page": 6,
+   "speaker": "P. Ramakrishnan",
+   "quote": "The Group level EBITDA margin without other income for Q2 FY '26 is 10.0% as compared to 10.3% in Q2 of the previous year.",
+   "metric": "ebitda_margin",
+   "quarter": "Q2 FY26",
+   "claimed": 10,
+   "reported": 12.522064015062368,
+   "status": "conflict",
+   "note": "Said 10.0%; the reported consolidated figure is 12.5% — a 2.5-point gap. Definitions or basis may differ; check the filing."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹78,750 cr (+15.8% YoY), PAT ₹5,949 cr (+27.2% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 9,
+      "excerpt": "67,984 78,750 16% Revenue from operations 1,31,662 1,46,692 11%",
+      "level": "page"
+     },
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 11,
+      "excerpt": "7 Net profit after tax (5-6) 5915.15 4982.85 4687.09 10898.00 9012.66 19159.40 … 9 Net profit after tax including share in profit/{loss) of joint ventures/associates (7+8) 5949.15 4988.03 4678.01 10937.18 8996.18 18953.8",
+      "level": "page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of 11.8% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 26,
+       "excerpt": "Gross revenue from operations [1] 285874 255734 221113 183341 156521 135979 145452 135220 119862 110011",
+       "level": "page",
+       "section": "Management discussion and analysis"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.15× reported profit (₹86,099 cr vs ₹75,124 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "Numbers management stated on calls match the reported figures (2 checked, e.g. Revenue growth (YoY) for Q4 FY26).",
+    "citations": [
+     {
+      "sourceId": "call-2026-05",
+      "page": 6,
+      "speaker": "P. Ramakrishnan",
+      "excerpt": "Coming to Revenues, our group revenues for Q4 FY26 was Rs 828 billion and registered a YoY growth of 11%, with international revenues constituting 53% of the total group revenues during the quarter.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2025-10",
+      "page": 4,
+      "speaker": "P. Ramakrishnan",
+      "excerpt": "Our group revenues grew 10% Y-o-Y in Q2 FY '26.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "A number management stated does not match the reported one: EBITDA margin for Q1 FY27 — Said 9.0%; the reported consolidated figure is 12.0% — a 3.0-point gap. Definitions or basis may differ; check the filing.",
+     "citations": [
+      {
+       "sourceId": "call-2026-07",
+       "page": 6,
+       "speaker": "P. Ramakrishnan",
+       "excerpt": "Moving on to EBITDA margin: Our group level EBITDA margin excluding other income for Q1 FY '27 is 9.0% as compared to 9.9% in the Q1 of last year.",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2026-05",
+       "page": 7,
+       "speaker": "P. Ramakrishnan",
+       "excerpt": "Moving on to operating margin, our group-level EBITDA margin, excluding other income, for Q4 FY '26 is 10.4% as compared to 11% in Q4 of the previous year.",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2026-05",
+       "page": 7,
+       "speaker": "P. Ramakrishnan",
+       "excerpt": "Our Recurring PAT for Q4 FY '26 is at Rs 53 billion, up by 5% on a year-on-year basis.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of 11.8% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 26,
+      "excerpt": "Gross revenue from operations [1] 285874 255734 221113 183341 156521 135979 145452 135220 119862 110011",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Q2 FY27: revenue ₹78,750 cr (+15.8% YoY), PAT ₹5,949 cr (+27.2% YoY).",
+     "citations": [
+      {
+       "sourceId": "results-2026-09-30",
+       "page": 9,
+       "excerpt": "67,984 78,750 16% Revenue from operations 1,31,662 1,46,692 11%",
+       "level": "page"
+      },
+      {
+       "sourceId": "results-2026-09-30",
+       "page": 11,
+       "excerpt": "7 Net profit after tax (5-6) 5915.15 4982.85 4687.09 10898.00 9012.66 19159.40 … 9 Net profit after tax including share in profit/{loss) of joint ventures/associates (7+8) 5949.15 4988.03 4678.01 10937.18 8996.18 18953.8",
+       "level": "page"
+      },
+      {
+       "sourceId": "screener",
+       "section": "quarters",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin compressed by 210 bps over FY23–FY26 (14.8% → 12.7%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from -172 to -151 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "A number management stated does not match the reported one: EBITDA margin for Q1 FY27 — Said 9.0%; the reported consolidated figure is 12.0% — a 3.0-point gap. Definitions or basis may differ; check the filing.",
+    "citations": [
+     {
+      "sourceId": "call-2026-07",
+      "page": 6,
+      "speaker": "P. Ramakrishnan",
+      "excerpt": "Moving on to EBITDA margin: Our group level EBITDA margin excluding other income for Q1 FY '27 is 9.0% as compared to 9.9% in the Q1 of last year.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-05",
+      "page": 7,
+      "speaker": "P. Ramakrishnan",
+      "excerpt": "Moving on to operating margin, our group-level EBITDA margin, excluding other income, for Q4 FY '26 is 10.4% as compared to 11% in Q4 of the previous year.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-05",
+      "page": 7,
+      "speaker": "P. Ramakrishnan",
+      "excerpt": "Our Recurring PAT for Q4 FY '26 is at Rs 53 billion, up by 5% on a year-on-year basis.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Numbers management stated on calls match the reported figures (2 checked, e.g. Revenue growth (YoY) for Q4 FY26).",
+     "citations": [
+      {
+       "sourceId": "call-2026-05",
+       "page": 6,
+       "speaker": "P. Ramakrishnan",
+       "excerpt": "Coming to Revenues, our group revenues for Q4 FY26 was Rs 828 billion and registered a YoY growth of 11%, with international revenues constituting 53% of the total group revenues during the quarter.",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2025-10",
+       "page": 4,
+       "speaker": "P. Ramakrishnan",
+       "excerpt": "Our group revenues grew 10% Y-o-Y in Q2 FY '26.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 756 pages), 4 call transcripts, the Q2 FY27 results filing and the Jul 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/LT/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 756,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 756,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 26,
+   "coverage": {
+    "pagesRead": 26,
+    "totalPages": 26,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 28,
+   "coverage": {
+    "pagesRead": 28,
+    "totalPages": 28,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 19,
+   "coverage": {
+    "pagesRead": 19,
+    "totalPages": 19,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 25,
+   "coverage": {
+    "pagesRead": 25,
+    "totalPages": 25,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-07",
+   "kind": "presentation",
+   "title": "Investor presentation, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a4d1bc4e-1492-4448-b203-5d6041b48a0e.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 32,
+   "coverage": {
+    "pagesRead": 32,
+    "totalPages": 32,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 33,
+   "coverage": {
+    "pagesRead": 33,
+    "totalPages": 33,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/63959ce8-b641-4bd4-9a62-43ab52301856.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b59765b4-ed42-48bd-afad-7caa4417d85d.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.larsentoubro.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/LT.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

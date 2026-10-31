@@ -1,0 +1,1474 @@
+{
+ "symbol": "SYNGENE",
+ "exchange": "NSE",
+ "name": "Syngene International",
+ "generatedAt": "2026-10-29T09:09:09.152Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/SYNGENE/consolidated/",
+  "retrievedAt": "2026-10-29T09:00:16.417Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 410.8500061035156,
+  "changePct": 12.192788751531088,
+  "date": "2026-10-28",
+  "spark": [
+   467.3500061035156,
+   458.1000061035156,
+   482.5,
+   478.75,
+   463.25,
+   467.95001220703125,
+   454.04998779296875,
+   466.29998779296875,
+   471.3500061035156,
+   466.04998779296875,
+   470.20001220703125,
+   461.8500061035156,
+   462.3999938964844,
+   465.25,
+   460.3999938964844,
+   442,
+   448,
+   440.8500061035156,
+   438.1000061035156,
+   435.54998779296875,
+   434.25,
+   449.5,
+   444.29998779296875,
+   454.6499938964844,
+   447.95001220703125,
+   458.54998779296875,
+   453.5,
+   453.1000061035156,
+   448.29998779296875,
+   440.29998779296875,
+   440.75,
+   443.3999938964844,
+   436,
+   442.95001220703125,
+   436.5,
+   434.1499938964844,
+   439.5,
+   431.54998779296875,
+   439.8999938964844,
+   440,
+   430.25,
+   422.70001220703125,
+   411.6000061035156,
+   415.3999938964844,
+   420.3500061035156,
+   420.3500061035156,
+   419.45001220703125,
+   420.5,
+   419.3999938964844,
+   417.45001220703125,
+   417.6000061035156,
+   413.25,
+   406.3999938964844,
+   403.25,
+   406.6499938964844,
+   413.8500061035156,
+   409.1499938964844,
+   414.25,
+   399.20001220703125,
+   385.8999938964844,
+   402.20001220703125,
+   410.20001220703125,
+   406.95001220703125,
+   399.75,
+   403.70001220703125,
+   402.6000061035156,
+   407.25,
+   408.6499938964844,
+   401.29998779296875,
+   401.45001220703125,
+   403,
+   404.1000061035156,
+   396.8500061035156,
+   395.5,
+   407.25,
+   398.54998779296875,
+   406.3999938964844,
+   411.1499938964844,
+   413.79998779296875,
+   403.3999938964844,
+   400.75,
+   402.04998779296875,
+   398.6000061035156,
+   400.79998779296875,
+   395.6000061035156,
+   389.29998779296875,
+   387.54998779296875,
+   386.79998779296875,
+   384,
+   382.6499938964844,
+   378.8500061035156,
+   380.1000061035156,
+   380.20001220703125,
+   369.04998779296875,
+   385.1499938964844,
+   377.5,
+   381.8500061035156,
+   380.3500061035156,
+   378.70001220703125,
+   376,
+   367.20001220703125,
+   365.29998779296875,
+   361.29998779296875,
+   357.3999938964844,
+   363.20001220703125,
+   360.29998779296875,
+   346,
+   347.3999938964844,
+   371.95001220703125,
+   379.54998779296875,
+   390.5,
+   384.20001220703125,
+   386.1000061035156,
+   397.5,
+   376.45001220703125,
+   372.5,
+   366.8500061035156,
+   359.8500061035156,
+   366.20001220703125,
+   410.8500061035156
+  ],
+  "high52": 663.8499755859375,
+  "low52": 346,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/SYNGENE.NS",
+   "retrievedAt": "2026-10-29T09:00:17.142Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 16,127 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 400"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 679 / 344"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "60.6"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 120"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.30 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "9.99 %"
+  },
+  {
+   "name": "ROE",
+   "value": "7.78 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 10.0"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹833 cr (−8.6% YoY), PAT ₹32 cr (−52.2% YoY).",
+   "tone": "negative",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 2,
+     "excerpt": "a) Revenue from operations 8,327 7,360 9,106 15,687 17,851 37,387",
+     "level": "page",
+     "unit": "₹ million"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 833
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 32
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹3,522 cr, EBITDA ₹751 cr (21.3% margin), PAT ₹186 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   2184,
+   2604,
+   3193,
+   3489,
+   3642,
+   3739
+  ],
+  "ebitda": [
+   678,
+   743,
+   942,
+   1017,
+   1045,
+   921
+  ],
+  "pat": [
+   405,
+   396,
+   464,
+   510,
+   496,
+   317
+  ],
+  "margin": [
+   31.043956043956044,
+   28.533026113671273,
+   29.502035703100532,
+   29.148753224419604,
+   28.69302580999451,
+   24.632254613533032
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 11.4% a year over FY21–FY26 (₹2,184 cr → ₹3,739 cr).",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 197,
+      "excerpt": "Revenue from operations 36,424 37,387 3%",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 3739
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 2184
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 2.7% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 197,
+      "excerpt": "Revenue from operations 36,424 37,387 3%",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 3739
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 3642
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 487 bps over FY23–FY26 (29.5% → 24.6%).",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at −4.8% a year over FY21–FY26, lagging revenue.",
+    "tone": "negative",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 68,
+      "excerpt": "Profit for the year 3,049 4,680 3,167 4,962",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 317
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 405
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   944,
+   1018,
+   874,
+   911,
+   917,
+   1036,
+   736,
+   833
+  ],
+  "ebitda": [
+   284,
+   344,
+   206,
+   200,
+   209,
+   303,
+   91,
+   147
+  ],
+  "pat": [
+   131,
+   183,
+   87,
+   67,
+   15,
+   148,
+   -9,
+   32
+  ],
+  "margin": [
+   30.08474576271186,
+   33.79174852652259,
+   23.569794050343248,
+   21.953896816684964,
+   22.791712104689203,
+   29.24710424710425,
+   12.364130434782608,
+   17.647058823529413
+  ],
+  "revenueYoY": [
+   10.53864168618267,
+   11.014176663031625,
+   10.632911392405063,
+   2.244668911335578,
+   -2.860169491525424,
+   1.768172888015717,
+   -15.789473684210526,
+   -8.562019758507136
+  ],
+  "patYoY": [
+   16.964285714285715,
+   -3.1746031746031744,
+   14.473684210526317,
+   -36.79245283018868,
+   -88.54961832061069,
+   -19.12568306010929,
+   null,
+   -52.23880597014925
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   1022,
+   815,
+   555,
+   578,
+   458,
+   507
+  ],
+  "equity": [
+   3298,
+   3618,
+   4258,
+   4726,
+   4839,
+   4859
+  ],
+  "debtToEquity": [
+   0.30988477865372954,
+   0.22526257600884467,
+   0.13034288398309066,
+   0.1223021582733813,
+   0.0946476544740649,
+   0.10434245729573986
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.10 at FY27 end (0.13 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   701,
+   581,
+   824,
+   1042,
+   1168,
+   915
+  ],
+  "pat": [
+   405,
+   396,
+   464,
+   510,
+   496,
+   317
+  ],
+  "fcf": [
+   255,
+   105,
+   305,
+   553,
+   398,
+   547
+  ],
+  "capex": [
+   446,
+   476,
+   519,
+   489,
+   770,
+   368
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 2.08× reported profit (₹4,530 cr vs ₹2,183 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 915
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 1168
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹1,908 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹2,622 cr, 58% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   -47,
+   45,
+   92,
+   40,
+   -23,
+   -32
+  ],
+  "debtorDays": [
+   79,
+   71,
+   61,
+   46,
+   53,
+   50
+  ],
+  "inventoryDays": [
+   41,
+   87,
+   141,
+   94,
+   60,
+   56
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle shortened from 92 to -32 days over FY23–FY26.",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 10% in FY26 (15% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 3,
+    "speaker": "Kiran Mazumdar-Shaw",
+    "voice": "management",
+    "quote": "For the full financial year, we do expect a single-digit decline in revenue in rupee terms and EBITDA margins in the mid-20s.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 5,
+    "speaker": "Kunal Dhamesha",
+    "voice": "management",
+    "quote": "First question on our guidance revision, which I think earlier we had mentioned it would be more or less flat revenue, and now we have revised down to degrowth of low single digits.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 5,
+    "speaker": "Kiran Mazumdar-Shaw",
+    "voice": "management",
+    "quote": "But by the time we start filling this gap with other customers, we believe it will be the end of this fiscal, and therefore, we are projecting or guiding for a slight decline in revenue.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-4",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 9,
+    "speaker": "Kiran Mazumdar-Shaw",
+    "voice": "management",
+    "quote": "And what we are basically now doing is really rebuilding the business, rejigging the business and making sure that we get back to this very robust growth because our aim is to really get back to a double-digit sustainable growth, which we think we will be able to do starting next fiscal.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-5",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 10,
+    "speaker": "Bino Pathiparampil",
+    "voice": "management",
+    "quote": "So, first quarter you have done 12% or 19% whatever depending on the way you look at it, including the hedging losses, etc. Your guidance of mid- 20s EBITDA margin assumes a very strong second half, which should be in the line of 27% to 30% to achieve that annual guidance.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 27,
+    "high": 30,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "H2",
+     "fy": 2027,
+     "inferred": true,
+     "label": "H2 FY27"
+    },
+    "verdict": {
+     "status": "pending",
+     "basis": "No reported numbers for H2 FY27 yet"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "No reported numbers for H2 FY27 yet"
+   },
+   {
+    "id": "call-2026-07-6",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 13,
+    "speaker": "Neelam Punjabi",
+    "voice": "management",
+    "quote": "My first question is that since we are guiding for a single-digit INR terms revenue decline and we are also having the Bayview facility operationalization in the later part of the year, guiding for a mid-20s EBITDA margin, which would mean that we are doing a very strict cost control.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 2,
+    "speaker": "Peter Bains",
+    "voice": "management",
+    "quote": "We are very pleased to have Kiran's leadership and guidance at the executive level as the company transitions into its next phase of growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-2",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 3,
+    "speaker": "Peter Bains",
+    "voice": "management",
+    "quote": "Syngene's full year revenue from operations grew 3% and overall performance was in line with our revised guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-3",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 7,
+    "speaker": "Surya Patra",
+    "voice": "analyst",
+    "quote": "Sir, just wanted to understand compared to the guidance what we had given in the third quarter where we have been saying that there will be kind of underperformance both in terms of revenue as well as on the margin front.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-4",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 7,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "That's what's led to an improved margin versus what we guided it to be.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-5",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 7,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "And therefore, margins have shown an improvement, and we'll continue to hold the margins as we've guided.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-6",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 10,
+    "speaker": "Shyam Srinivasan",
+    "voice": "management",
+    "quote": "And now when we look at our guidance for next year, it seems to suggest flat margins.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-7",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 10,
+    "speaker": "Shyam Srinivasan",
+    "voice": "management",
+    "quote": "So, I'm just a little confused with respect to the EBITDA margin guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-8",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 10,
+    "speaker": "Shyam Srinivasan",
+    "voice": "management",
+    "quote": "I think on revenue, we have probably met full year guidance for fiscal '25, '26.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-9",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 11,
+    "speaker": "Shyam Srinivasan",
+    "voice": "management",
+    "quote": "Now we are $419 million in '26, and we are guiding for flat growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-10",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 14,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "But the margin structure is what we've commented upon, and we're going to probably hold on to the margin guidance that we've given.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 6,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "We expect to close the full year with a decline in revenue in the range of 3% to 5% with operating EBITDA margin in the range of 22% to 23%.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 3,
+    "high": 5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 24.632254613533032,
+     "actualLabel": "FY26 EBITDA margin",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "met",
+    "assessmentNote": "24.6% reported, above the 3–5% promised"
+   },
+   {
+    "id": "call-2026-01-2",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 9,
+    "speaker": "Alankar Garude",
+    "voice": "management",
+    "quote": "The first question, when we had our second quarter call in November, you had mentioned mid-single-digit top-line growth guidance and constant currency terms, and now you are talking about a 3% to 5% decline.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 4,
+    "high": 6,
+    "unit": "%",
+    "interpreted": true,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 2.663371773750687,
+     "actualLabel": "FY26 growth",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "partially met",
+    "assessmentNote": "2.7% reported — 1.3 percentage points short of 4–6%"
+   },
+   {
+    "id": "call-2026-01-3",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 12,
+    "speaker": "Peter Bains",
+    "voice": "management",
+    "quote": "And, of course, that is the focus now is to accelerate that growth across all fronts and pick up on these encouraging signs of growth that we have and accelerate that and then we will be giving formal guidance for ‘27 in our fourth quarter results.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-4",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 14,
+    "speaker": "Peter Bains",
+    "voice": "management",
+    "quote": "Again, our focus will be on leveraging the diverse capabilities that we have in chemistry, and we spoke about those investments in biology, and in translational clinical sciences and look to accelerate the growth that we have, which, Deepak has advised underlying, is in that high single digit, low double digit, and of course, that is for us to build that, and accelerate that further.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 4,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "With FY '26 being a transient year, our full year margins are expected to be in the mid-20s as guided earlier.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 5,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "We advised in April about FY 26 being a transient year on a reported basis and, in constant currency, we guided to a mid-single-digit growth on revenue.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-3",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 5,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "We also guided towards a mid-20s EBITDA margin and a declining path.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-4",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 12,
+    "speaker": "Chirag Dagli",
+    "voice": "management",
+    "quote": "And the second one was on the -- while I understand you won't give an FY '27 outlook, but when I look at history, typically you've never had more than 2 years of single-digit growth, and FY '26 will be the third year of single-digit growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-5",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 12,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "When we came at the beginning of the year, we said we have a single digit -- mid-single-digit growth that we are guiding towards.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-6",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 13,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "And we'd said underlying growth still continues to remain robust and is strong, which is what we hold because we are holding our guidance.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-7",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 15,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "In terms of the impact on margin that you just mentioned, I think, as I said, we continue to hold the guidance for this year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-8",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 15,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "We continue to rationale the fact that the guidance of this year of the mid- 20s on EBITDA and a declining PAT for this year was also transient in the nature and, more importantly, it was also driven by the one-offs that we are seeing in the business.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-9",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 15,
+    "speaker": "Deepak Jain",
+    "voice": "management",
+    "quote": "For '26, we've guided to a $45 million of capex investments with an incremental $10 million of capex investment going into our Bayview facility as well.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 1,
+   "beat": 1,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 1,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 185,
+    "excerpt": "high performance manufacturing plants for large and small molecules, combined with our expertise in managing products from the early stages of development through to commercial- scale manufacturing, make us an attractive partner for clients seeking a single, reliable provider of services to progress their product to market.",
+    "section": "Board's report"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 23,
+    "excerpt": "Note: This is a representative selection of the customers Syngene works with. All product names, logos, brands, trademarks and registered trademarks are the property of their respective owners.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 190,
+    "excerpt": "as they continue to offer innovator pharmaceutical companies commercially feasible solutions for a range of drug development and manufacturing services, such as pharmaceutical formulation, analytical development, process optimization, and scale-up manufacturing.",
+    "section": "Board's report"
+   }
+  ],
+  "segments": {
+   "names": [],
+   "single": true,
+   "evidence": {
+    "sourceId": "ar-2026",
+    "page": 282,
+    "excerpt": "Segmental Information Operating segments The Company is engaged in a single operating segment of providing contract research and manufacturing services.",
+    "section": "Notes to the financial statements"
+   }
+  },
+  "management": [
+   {
+    "sourceId": "call-2026-07",
+    "page": 3,
+    "excerpt": "We are strengthening our commercial organization under the leadership of Abhijit Zutshi, a former Chief Commercial Officer of Biocon's Generics business, who has delivered very significant performance during this role. Abhijit will make sure that we have a sharper market segmentation, greater customer engagement and a more focused business development approach.",
+    "speaker": "Kiran Mazumdar-Shaw"
+   },
+   {
+    "sourceId": "call-2026-07",
+    "page": 2,
+    "excerpt": "Over the past few years, I believe we have drifted towards the larger share of commoditized research services where differentiation is limited, and pricing pressure is inevitable. At the same time, our biologics manufacturing business became disproportionately dependent on a single large customer.",
+    "speaker": "Kiran Mazumdar-Shaw"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-07-check-1",
+   "sourceId": "call-2026-07",
+   "page": 5,
+   "speaker": "Siddharth Mittal",
+   "quote": "Operating EBITDA for the quarter stood at INR 91 crores with an EBITDA margin of 12%.",
+   "metric": "ebitda_margin",
+   "quarter": "Q1 FY27",
+   "claimed": 12,
+   "reported": 12.364130434782608,
+   "status": "consistent",
+   "note": "Said 12.0%; reported 12.4% (consolidated)."
+  },
+  {
+   "id": "call-2025-11-check-2",
+   "sourceId": "call-2025-11",
+   "page": 2,
+   "speaker": "Peter Bains",
+   "quote": "Revenue from operations for the quarter stood at or INR911 crores, up 2% year-on-year and up 4% sequentially.",
+   "metric": "revenue_growth",
+   "quarter": "Q2 FY26",
+   "claimed": 2,
+   "reported": 2.244668911335578,
+   "status": "consistent",
+   "note": "Said +2.0%; reported +2.2% (consolidated)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 2.08× reported profit (₹4,530 cr vs ₹2,183 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.10 at FY27 end (0.13 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle shortened from 92 to -32 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "Numbers management stated on calls match the reported figures (2 checked, e.g. EBITDA margin for Q1 FY27).",
+    "citations": [
+     {
+      "sourceId": "call-2026-07",
+      "page": 5,
+      "speaker": "Siddharth Mittal",
+      "excerpt": "Operating EBITDA for the quarter stood at INR 91 crores with an EBITDA margin of 12%.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2025-11",
+      "page": 2,
+      "speaker": "Peter Bains",
+      "excerpt": "Revenue from operations for the quarter stood at or INR911 crores, up 2% year-on-year and up 4% sequentially.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Management fell short on 1 of 2 checkable promises, e.g. Revenue growth 4–6% for FY26 (2.7% reported — 1.3 percentage points short of 4–6%).",
+     "citations": [
+      {
+       "sourceId": "call-2026-01",
+       "page": 9,
+       "speaker": "Alankar Garude",
+       "excerpt": "The first question, when we had our second quarter call in November, you had mentioned mid-single-digit top-line growth guidance and constant currency terms, and now you are talking about a 3% to 5% decline.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹833 cr (−8.6% YoY), PAT ₹32 cr (−52.2% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 2,
+      "excerpt": "a) Revenue from operations 8,327 7,360 9,106 15,687 17,851 37,387",
+      "level": "page",
+      "unit": "₹ million"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin compressed by 487 bps over FY23–FY26 (29.5% → 24.6%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "Management fell short on 1 of 2 checkable promises, e.g. Revenue growth 4–6% for FY26 (2.7% reported — 1.3 percentage points short of 4–6%).",
+    "citations": [
+     {
+      "sourceId": "call-2026-01",
+      "page": 9,
+      "speaker": "Alankar Garude",
+      "excerpt": "The first question, when we had our second quarter call in November, you had mentioned mid-single-digit top-line growth guidance and constant currency terms, and now you are talking about a 3% to 5% decline.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Numbers management stated on calls match the reported figures (2 checked, e.g. EBITDA margin for Q1 FY27).",
+     "citations": [
+      {
+       "sourceId": "call-2026-07",
+       "page": 5,
+       "speaker": "Siddharth Mittal",
+       "excerpt": "Operating EBITDA for the quarter stood at INR 91 crores with an EBITDA margin of 12%.",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2025-11",
+       "page": 2,
+       "speaker": "Peter Bains",
+       "excerpt": "Revenue from operations for the quarter stood at or INR911 crores, up 2% year-on-year and up 4% sequentially.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 404 pages), 4 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/SYNGENE/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9aef0fb3-a57b-4b56-9f45-9fb073779304.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 404,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 404,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.syngeneintl.com/wp-content/uploads/2026/08/Q1-FY27-Earnings-Call-Transcript.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 14,
+   "coverage": {
+    "pagesRead": 14,
+    "totalPages": 14,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://www.syngeneintl.com/wp-content/uploads/2026/05/IR-Call-Transcript-Q4FY26.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 14,
+   "coverage": {
+    "pagesRead": 14,
+    "totalPages": 14,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://cdn.syngeneintl.com/2026/01/29214627/Earnings-call-transcript_Jan23-2026.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://cdn.syngeneintl.com/2025/11/12234652/Syngene-Earnings-Nov06-2025.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 16,
+   "coverage": {
+    "pagesRead": 16,
+    "totalPages": 16,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7cbfce30-eefd-4576-930e-7da45d58b28c.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 32,
+   "coverage": {
+    "pagesRead": 32,
+    "totalPages": 32,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c26fad00-235a-4e7c-b4db-2fb28e8193e0.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 11,
+   "coverage": {
+    "pagesRead": 11,
+    "totalPages": 11,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/63157496-e12d-4ab3-8fe4-b3723913d728.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cab37f9-ca40-4a4a-9f8e-fc34766aa674.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.syngeneintl.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/SYNGENE.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

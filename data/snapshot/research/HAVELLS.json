@@ -1,0 +1,1127 @@
+{
+ "symbol": "HAVELLS",
+ "exchange": "NSE",
+ "name": "Havells India",
+ "generatedAt": "2026-10-29T09:09:02.947Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/HAVELLS/consolidated/",
+  "retrievedAt": "2026-10-29T08:59:31.490Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1025.4000244140625,
+  "changePct": 1.6757584942055033,
+  "date": "2026-10-28",
+  "spark": [
+   1268.9000244140625,
+   1255.199951171875,
+   1230,
+   1190.9000244140625,
+   1199.199951171875,
+   1210.800048828125,
+   1209.5999755859375,
+   1194.800048828125,
+   1207.199951171875,
+   1207.800048828125,
+   1209.699951171875,
+   1200.9000244140625,
+   1203.800048828125,
+   1201,
+   1211,
+   1176.800048828125,
+   1143.199951171875,
+   1174.5999755859375,
+   1156.4000244140625,
+   1166.4000244140625,
+   1150.5,
+   1140.300048828125,
+   1150.5,
+   1155.5,
+   1129,
+   1154.0999755859375,
+   1171.0999755859375,
+   1180.199951171875,
+   1196.800048828125,
+   1194.4000244140625,
+   1176.300048828125,
+   1181.300048828125,
+   1174.800048828125,
+   1186.199951171875,
+   1178.300048828125,
+   1156.0999755859375,
+   1159.300048828125,
+   1188.800048828125,
+   1186.699951171875,
+   1181.0999755859375,
+   1181.5,
+   1225,
+   1207.800048828125,
+   1190.800048828125,
+   1188.4000244140625,
+   1178.800048828125,
+   1187.300048828125,
+   1177.4000244140625,
+   1170.5999755859375,
+   1187.300048828125,
+   1200.300048828125,
+   1217.5999755859375,
+   1207.0999755859375,
+   1209.9000244140625,
+   1226.9000244140625,
+   1237.4000244140625,
+   1227.0999755859375,
+   1237,
+   1261.699951171875,
+   1260.699951171875,
+   1285,
+   1295,
+   1290,
+   1285.5,
+   1288,
+   1285,
+   1274.4000244140625,
+   1265,
+   1270,
+   1298,
+   1299,
+   1299.699951171875,
+   1287,
+   1278,
+   1268,
+   1268.5,
+   1269.0999755859375,
+   1258.699951171875,
+   1241,
+   1222.9000244140625,
+   1244.0999755859375,
+   1222.800048828125,
+   1193,
+   1200,
+   1154,
+   1150,
+   1140,
+   1120.4000244140625,
+   1116,
+   1111,
+   1087,
+   1089.9000244140625,
+   1092,
+   1132.4000244140625,
+   1103.0999755859375,
+   1088.9000244140625,
+   1096.5,
+   1090,
+   1096.5,
+   1085,
+   1043.300048828125,
+   1016,
+   1040,
+   1046.699951171875,
+   1057,
+   1060.5,
+   1023.7000122070312,
+   1041.5,
+   1052,
+   1082,
+   1119.9000244140625,
+   1116.0999755859375,
+   1121,
+   1102.699951171875,
+   1071.5999755859375,
+   1073,
+   1031,
+   1009.9000244140625,
+   1008.5,
+   1025.4000244140625
+  ],
+  "high52": 1509.4000244140625,
+  "low52": 1008.5,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/HAVELLS.NS",
+   "retrievedAt": "2026-10-29T08:59:32.196Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 63,694 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,015"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,517 / 999"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "37.6"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 156"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.98 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "24.9 %"
+  },
+  {
+   "name": "ROE",
+   "value": "19.0 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹6,432 cr (+34.6% YoY), PAT ₹349 cr (+9.7% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 9,
+     "excerpt": "a) Revenue from operations 6,431.99 6,518.19 4,779.33 12,950.18 10,234.68 22,527.77",
+     "level": "page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 6432
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 349
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹25,243 cr, EBITDA ₹2,285 cr (9.1% margin), PAT ₹1,662 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   10457,
+   13938,
+   16911,
+   18590,
+   21778,
+   22528
+  ],
+  "ebitda": [
+   1589,
+   1775,
+   1621,
+   1881,
+   2175,
+   2241
+  ],
+  "pat": [
+   1044,
+   1196,
+   1072,
+   1271,
+   1470,
+   1689
+  ],
+  "margin": [
+   15.195562780912308,
+   12.73496914908882,
+   9.58547690852108,
+   10.118343195266272,
+   9.987142988336855,
+   9.947620738636363
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 16.6% a year over FY21–FY26 (₹10,457 cr → ₹22,528 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 145,
+      "excerpt": "Revenue from Operations 22,466 21,746 22,528 21,778",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 22528
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 10457
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 3.4% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 145,
+      "excerpt": "Revenue from Operations 22,466 21,746 22,528 21,778",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 22528
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 21778
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 36 bps over FY23–FY26 (9.6% → 9.9%).",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 10.1% a year over FY21–FY26, lagging revenue.",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 145,
+      "excerpt": "Profit for the Year 1,705 1,489 1,689 1,470",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 1689
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 1044
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   4889,
+   6544,
+   5455,
+   4779,
+   5588,
+   6705,
+   6518,
+   6432
+  ],
+  "ebitda": [
+   426,
+   757,
+   516,
+   438,
+   516,
+   729,
+   466,
+   573
+  ],
+  "pat": [
+   278,
+   517,
+   348,
+   318,
+   300,
+   723,
+   290,
+   349
+  ],
+  "margin": [
+   8.713438330947024,
+   11.567848410757946,
+   9.459211732355637,
+   9.16509730069052,
+   9.234073013600574,
+   10.87248322147651,
+   7.14943234120896,
+   8.908582089552239
+  ],
+  "revenueYoY": [
+   10.76121431807884,
+   20.249908122013967,
+   -6.04547020323803,
+   5.287508261731659,
+   14.297402331765188,
+   2.4602689486552567,
+   19.486709440879928,
+   34.58882611424984
+  ],
+  "patYoY": [
+   -3.4722222222222223,
+   15.659955257270694,
+   -14.705882352941178,
+   18.65671641791045,
+   7.913669064748201,
+   39.845261121856865,
+   -16.666666666666664,
+   9.748427672955975
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   616,
+   223,
+   303,
+   319,
+   265,
+   239
+  ],
+  "equity": [
+   6003,
+   6626,
+   7447,
+   8324,
+   9456,
+   9773
+  ],
+  "debtToEquity": [
+   0.10261535898717308,
+   0.03365529731361304,
+   0.040687525177924,
+   0.03832292167227295,
+   0.028024534686971234,
+   0.02445513148470275
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.02 at FY27 end (0.04 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   660,
+   1728,
+   565,
+   1953,
+   1523,
+   1572
+  ],
+  "pat": [
+   1044,
+   1196,
+   1072,
+   1271,
+   1470,
+   1689
+  ],
+  "fcf": [
+   507,
+   1475,
+   -21,
+   1191,
+   769,
+   156
+  ],
+  "capex": [
+   153,
+   253,
+   586,
+   762,
+   754,
+   1416
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.10× reported profit (₹7,341 cr vs ₹6,698 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 1572
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 1523
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹3,570 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹3,771 cr, 51% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   79,
+   44,
+   55,
+   44,
+   47,
+   51
+  ],
+  "debtorDays": [
+   20,
+   20,
+   21,
+   23,
+   21,
+   13
+  ],
+  "inventoryDays": [
+   153,
+   119,
+   119,
+   102,
+   104,
+   110
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle held steady from 55 to 51 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 25% in FY26 (22% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-10-1",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 7,
+    "speaker": "Aditya Bhartia",
+    "voice": "management",
+    "quote": "We should be consistently clocking double-digit kind of revenue growth in this segment.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 10,
+    "unit": "%",
+    "interpreted": true,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-10-2",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 10,
+    "speaker": "Anil Rai Gupta",
+    "voice": "management",
+    "quote": "So, we do not give any revenue guidance for the year, and I've not understood your second question, sorry, but your voice was not audible at all.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 6,
+    "speaker": "Rehan",
+    "voice": "management",
+    "quote": "In the last, management declined to give specific FY27 growth guidance due to market volatility.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 14,
+    "speaker": "Rajiv Goel",
+    "voice": "management",
+    "quote": "I don't think we have given any guidance for INR800 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 14,
+    "speaker": "Rajiv Goel",
+    "voice": "management",
+    "quote": "As we said, this should be normally around 2.7%, 2.8% of the net sales, which has been the trend for the last few years.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 14,
+    "speaker": "Achal Lohade",
+    "voice": "management",
+    "quote": "And just a clarification, Anil, sir, in the past calls, you did highlight there is a possibility of over 2 percentage point improvement in margins over the medium term.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 1
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 37,
+    "excerpt": "Havells India Limited is a leading Fast Moving Electrical & Electronic Durables (FMED) Company with a presence in over 70 countries. It offers a diversified range of products spanning across 24 product verticals and 6 brands - Havells, Lloyd, Havells Crabtree, Standard, REO and Havells Studio. The product portfolio covers a gamut of household, commercial and industrial electrical needs.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 170,
+    "excerpt": "Introduction & Background 1.1 About Havells India Limited Havells India Limited is a leading Indian multinational diversified Fast Moving Electrical Goods (FMEG) and consumer durables Company having presence in more than 70 countries worldwide, manufacturing a wide range of electrical products for residential, commercial and industrial use.",
+    "section": "Board's report"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 44,
+    "excerpt": "During the year, to further strengthen our position in this space, we made a strategic investment in Goldi Solar, one of India’s leading solar panel manufacturers. This partnership ensures stable and quality supply of solar panels,",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-10",
+    "page": 11,
+    "excerpt": "If you look at to the underground cable business, few things. One, we've maintained that we were a bit delayed in terms of capex, which we have caught up in the last couple of years. And this is a business where there is huge opportunity for growth as well, with newer customer segments opening up.",
+    "speaker": "Anil Rai Gupta"
+   },
+   {
+    "sourceId": "call-2026-10",
+    "page": 4,
+    "excerpt": "So, you know, there is not much of quarter one, I would say, spillover because, as you would realize, that our major business comes from residential switchgear, which is not really order input-based in terms of long-term orders. This is primarily a lot of B2C sales through the channel network. We do believe that, overall, there is a very good, positive growth over the first 6 months.",
+    "speaker": "Anil Rai Gupta"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-01-check-1",
+   "sourceId": "call-2026-01",
+   "page": 3,
+   "speaker": "Anil Rai Gupta",
+   "quote": "Overall, revenue growth in Q3 backed with disciplined spends translated into operating leverage as the revenue grew by 14% and EBITDA was up 21% Y-o-Y.",
+   "metric": "revenue_growth",
+   "quarter": "Q3 FY26",
+   "claimed": 14,
+   "reported": 14.297402331765188,
+   "status": "consistent",
+   "note": "Said +14.0%; reported +14.3% (consolidated)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹6,432 cr (+34.6% YoY), PAT ₹349 cr (+9.7% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 9,
+      "excerpt": "a) Revenue from operations 6,431.99 6,518.19 4,779.33 12,950.18 10,234.68 22,527.77",
+      "level": "page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of 3.4% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 145,
+       "excerpt": "Revenue from Operations 22,466 21,746 22,528 21,778",
+       "level": "page",
+       "section": "Board's report"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.10× reported profit (₹7,341 cr vs ₹6,698 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.02 at FY27 end (0.04 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 25% in FY26 (22% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of 3.4% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 145,
+      "excerpt": "Revenue from Operations 22,466 21,746 22,528 21,778",
+      "level": "page",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Q2 FY27: revenue ₹6,432 cr (+34.6% YoY), PAT ₹349 cr (+9.7% YoY).",
+     "citations": [
+      {
+       "sourceId": "results-2026-09-30",
+       "page": 9,
+       "excerpt": "a) Revenue from operations 6,431.99 6,518.19 4,779.33 12,950.18 10,234.68 22,527.77",
+       "level": "page"
+      },
+      {
+       "sourceId": "screener",
+       "section": "quarters",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 442 pages), 4 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/HAVELLS/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/91649597-75d8-410c-b359-b79e40e6bd6b.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 442,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 442,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=160d9e40-34d9-4f66-8c1f-e1c50f663569.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e39e029-d034-49cf-b1b7-14523890ac2a.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6d676cf-d73c-4a15-a3dd-8c2bf8213110.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 15,
+   "coverage": {
+    "pagesRead": 15,
+    "totalPages": 15,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2292e7c9-0098-4067-a7a1-b5c2a5b755b6.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 14,
+   "coverage": {
+    "pagesRead": 14,
+    "totalPages": 14,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a7054b4-252f-4ce9-9f58-8882f0ea5801.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 10,
+   "coverage": {
+    "pagesRead": 10,
+    "totalPages": 10,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/HAVELLS1_22102026135828_QuickResults_Q2_22102026.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 12,
+   "coverage": {
+    "pagesRead": 12,
+    "totalPages": 12,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5aef9310-5c2e-4d99-8fd5-e4f147519cf8.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9f8beb6b-df57-498e-afac-5d6a497b16d1.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.havells.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/HAVELLS.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

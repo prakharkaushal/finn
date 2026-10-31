@@ -1,0 +1,1569 @@
+{
+ "symbol": "DIXON",
+ "exchange": "NSE",
+ "name": "Dixon Technologies (India)",
+ "generatedAt": "2026-10-29T09:09:03.749Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/DIXON/consolidated/",
+  "retrievedAt": "2026-10-29T08:59:44.707Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 11400,
+  "changePct": 1.4866909997329298,
+  "date": "2026-10-28",
+  "spark": [
+   11048,
+   10803,
+   10772,
+   10138,
+   11124,
+   11103,
+   10979,
+   10780,
+   11048,
+   10997,
+   11258,
+   11722,
+   11824,
+   11673,
+   11756,
+   11524,
+   11463,
+   11604,
+   11227,
+   11488,
+   11432,
+   11392,
+   11611,
+   11487,
+   11371,
+   11546,
+   11957,
+   12235,
+   12833,
+   12666,
+   12517,
+   12336,
+   11932,
+   12086,
+   12013,
+   11805,
+   11920,
+   11956,
+   12373,
+   12456,
+   13304,
+   13242,
+   12934,
+   13477,
+   13421,
+   13490,
+   13365,
+   13651,
+   14507,
+   14329,
+   14589,
+   14118,
+   13882,
+   13829,
+   13846,
+   13810,
+   13903,
+   14275,
+   14338,
+   14049,
+   13892,
+   13988,
+   14310,
+   14200,
+   14200,
+   14115,
+   14023,
+   13800,
+   14035,
+   14130,
+   14025,
+   14150,
+   14462,
+   14850,
+   14850,
+   14570,
+   14990,
+   14735,
+   14711,
+   14650,
+   14850,
+   14461,
+   14590,
+   14445,
+   14240,
+   14180,
+   14100,
+   13845,
+   13500,
+   13425,
+   13180,
+   13181,
+   13290,
+   13005,
+   13350,
+   13084,
+   13200,
+   13299,
+   13390,
+   13640,
+   13250,
+   13100,
+   12700,
+   12748,
+   13015,
+   13024,
+   12650,
+   12774,
+   12660,
+   12740,
+   12820,
+   12666,
+   12340,
+   12100,
+   11689,
+   11594,
+   11191,
+   11161,
+   11233,
+   11400
+  ],
+  "high52": 15697,
+  "low52": 9673,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/DIXON.NS",
+   "retrievedAt": "2026-10-29T08:59:45.361Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 69,973 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 11,439"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 15,775 / 9,600"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "37.3"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 769"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.09 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "29.2 %"
+  },
+  {
+   "name": "ROE",
+   "value": "18.9 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹15,548 cr (+21.1% YoY), PAT ₹718 cr (+156.4% YoY).",
+   "tone": "positive",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q1 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 15548
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 718
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹51,585 cr, EBITDA ₹1,847 cr (3.6% margin), PAT ₹2,082 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   6448,
+   10697,
+   12192,
+   17691,
+   38860,
+   48873
+  ],
+  "ebitda": [
+   292,
+   384,
+   519,
+   705,
+   1515,
+   1873
+  ],
+  "pat": [
+   160,
+   190,
+   255,
+   375,
+   1233,
+   1644
+  ],
+  "margin": [
+   4.528535980148883,
+   3.589791530335608,
+   4.256889763779528,
+   3.9850771578768867,
+   3.89861039629439,
+   3.8323818877498828
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 49.9% a year over FY21–FY26 (₹6,448 cr → ₹48,873 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 140,
+      "excerpt": "Revenue from Operations 3,93,048 5,40,090 48,87,280 38,86,010",
+      "level": "page",
+      "unit": "₹ lakh",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 48873
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 6448
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 25.8% was within its 5-year range (14.0% to 119.7%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 140,
+      "excerpt": "Revenue from Operations 3,93,048 5,40,090 48,87,280 38,86,010",
+      "level": "page",
+      "unit": "₹ lakh",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 48873
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 38860
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 42 bps over FY23–FY26 (4.3% → 3.8%).",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 59.4% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 140,
+      "excerpt": "Profit/ (Loss) for the year 75,944 56,590 1,64,425 1,23,258",
+      "level": "page",
+      "unit": "₹ lakh",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 1644
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 160
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   11534,
+   10454,
+   10293,
+   12836,
+   14855,
+   10672,
+   10511,
+   15548
+  ],
+  "ebitda": [
+   426,
+   391,
+   443,
+   482,
+   561,
+   414,
+   408,
+   463
+  ],
+  "pat": [
+   412,
+   216,
+   465,
+   280,
+   746,
+   321,
+   298,
+   718
+  ],
+  "margin": [
+   3.6934281255418764,
+   3.7401951406160325,
+   4.303895851549597,
+   3.755063882829542,
+   3.776506226859643,
+   3.8793103448275863,
+   3.881647797545429,
+   2.977874967841523
+  ],
+  "revenueYoY": [
+   133.34007687639084,
+   116.97799916978,
+   120.97466723915844,
+   95.07598784194529,
+   28.793133344893356,
+   2.085326190931701,
+   2.1179442339454,
+   21.12807728264257
+  ],
+  "patYoY": [
+   264.6017699115044,
+   122.68041237113403,
+   379.38144329896903,
+   100,
+   81.06796116504854,
+   48.61111111111111,
+   -35.913978494623656,
+   156.42857142857142
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   295,
+   667,
+   453,
+   489,
+   671,
+   994
+  ],
+  "equity": [
+   738,
+   997,
+   1285,
+   1695,
+   3010,
+   4677
+  ],
+  "debtToEquity": [
+   0.3997289972899729,
+   0.6690070210631895,
+   0.35252918287937746,
+   0.2884955752212389,
+   0.22292358803986712,
+   0.21252939918751337
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.21 at FY26 end (0.35 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 2.2× from ₹453 cr to ₹994 cr over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   170,
+   273,
+   726,
+   584,
+   1150,
+   1782
+  ],
+  "pat": [
+   160,
+   190,
+   255,
+   375,
+   1233,
+   1644
+  ],
+  "fcf": [
+   2,
+   -145,
+   276,
+   16,
+   254,
+   724
+  ],
+  "capex": [
+   168,
+   418,
+   450,
+   568,
+   896,
+   1058
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.22× reported profit (₹4,515 cr vs ₹3,697 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 1782
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 1150
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 4 of the last 5 years, ₹1,125 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹3,390 cr, 75% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   1,
+   3,
+   2,
+   -6,
+   -5,
+   -7
+  ],
+  "debtorDays": [
+   62,
+   46,
+   51,
+   48,
+   65,
+   49
+  ],
+  "inventoryDays": [
+   47,
+   43,
+   32,
+   39,
+   41,
+   31
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle shortened from 2 to -7 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 29% in FY26 (24% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-08-1",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 4,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "Our market position, customer engagement and manufacturing capabilities remain intact, and we expect 20% to 25% volume growth quarter- on-quarter growth as consumer demand strengthens and we have a strong order book.",
+    "structuredBy": "rules",
+    "metric": "volume_growth",
+    "low": 20,
+    "high": 25,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-08-2",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 9,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "So quarter 2 against quarter 1, we are expecting a 20%, 25% kind of a growth.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-08-3",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 12,
+    "speaker": "Santhosh Seshadri",
+    "voice": "management",
+    "quote": "And it looks like the volumes were better than what we have guided for as of last quarter.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 4,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "Over the past few weeks, supply-demand dynamics are becoming more balanced, and we are beginning to see an improvement in customer ordering pattern, and we expect a high-double- digit growth quarter-on-quarter in the smartphones volume along with growth in selling prices by 12% to 15%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 5,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "We expect this vertical to deliver high double-digit revenue growth in the current fiscal.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 10,
+    "unit": "%",
+    "interpreted": true,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "We are targeting a revenue of almost INR2,500 crores in that business.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 2500,
+    "high": 2500,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 10,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "So we expect Pankaj to -- that the revenue growth should be at least 12% to 15% higher, if not more.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 12,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "on_track",
+     "actual": 21.12807728264257,
+     "actualLabel": "YoY growth, 1 of 4 quarters of FY27",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far on track (YoY growth, 1 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 12,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "So we are confident of touching this revenue figure of INR4,000 crores in the current fiscal.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 4000,
+    "high": 4000,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "on_track",
+     "actual": 15548,
+     "actualLabel": "revenue in 1 of 4 quarters of FY27 (pro-rata target ₹1,000 cr)",
+     "basis": "screener.in quarterly results; run-rate check"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far on track (revenue in 1 of 4 quarters of FY27 (pro-rata target ₹1,000 cr))"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 15,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "Next year, we are targeting almost INR56,000 crores without the Vivo numbers, and mobile volume being flat.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 15,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "But finally, when the component play is completely deployed, there will be a margin expansion from last year's number by almost 40 bps, 50 bps.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-9",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Santhosh Seshadri",
+    "voice": "management",
+    "quote": "And if we factor in the guided volume growth of 12 to 15 percentage sequentially and extrapolate that to second quarter of FY27 as well, we are arriving at roughly 12 million units to 13 million units for first half and 20 million units for second half.",
+    "structuredBy": "rules",
+    "metric": "volume_growth",
+    "low": 12,
+    "high": 15,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "Santhosh Seshadri",
+    "voice": "management",
+    "quote": "My first question is on the volume guidance for the full year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-11",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 18,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "In the final picture of this business, the revenue target, once we start achieving 80% to 90% of the capacity utilization, the revenue generation is going to be almost INR5,500 crores to INR6,000 crores with a double-digit margin.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 5500,
+    "high": 6000,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-05-10",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 18,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "And then we are saying on this, we expect a higher double-digit teen growth in terms of volumes.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-12",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 19,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "We feel that it should be double-digit margin.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 10,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "We still feel that we should be able to have a margin of somewhere between 2.8% to 3.1%, 3.2% in our mobile phone business.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-2",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 19,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "We will be putting capex of closer to INR1,100 crores, INR1,200-odd crores.",
+    "structuredBy": "rules",
+    "metric": "capex",
+    "low": 1100,
+    "high": 1100,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-02-3",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 19,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "In Q Tech, the camera modules capex intensity should be closer to INR250 crores, INR300-odd crores.",
+    "structuredBy": "rules",
+    "metric": "capex",
+    "low": 250,
+    "high": 250,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2025-10-2a",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 4,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "And we feel confident that the volume of smartphone camera modules can increase from 40 million units and revenues by INR 2,000 crores in large financial years to 190 to 200 million units per annum with the revenue closer to INR 6,000 crores to INR 7,000 crores and sub-10% EBITDA margins in the next two to three years.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 2000,
+    "high": 2000,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 48873,
+     "actualLabel": "FY26 revenue",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "met",
+    "assessmentNote": "₹48,873 cr reported, above the ₹2,000 cr promised"
+   },
+   {
+    "id": "call-2025-10-2b",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 4,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "And we feel confident that the volume of smartphone camera modules can increase from 40 million units and revenues by INR 2,000 crores in large financial years to 190 to 200 million units per annum with the revenue closer to INR 6,000 crores to INR 7,000 crores and sub-10% EBITDA margins in the next two to three years.",
+    "structuredBy": "rules",
+    "metric": "ebitda_margin",
+    "low": 10,
+    "high": 10,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 3.8323818877498828,
+     "actualLabel": "FY26 EBITDA margin",
+     "basis": "screener.in standardised P&L: operating profit ÷ sales. Company-defined EBITDA can differ by a few tenths."
+    },
+    "assessment": "missed",
+    "assessmentNote": "3.8% reported — 6.2 percentage points short of 10%"
+   },
+   {
+    "id": "call-2025-10-1",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 4,
+    "speaker": "Atul Lall",
+    "voice": "management",
+    "quote": "The margins in this segment will be in higher double digits.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-3",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 10,
+    "speaker": "Vipraw Srivastava",
+    "voice": "management",
+    "quote": "And sir, at the beginning of the year, the firm had given a guidance of 40%-45% revenue growth.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 40,
+    "high": 45,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 25.766855378281008,
+     "actualLabel": "FY26 growth",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "missed",
+    "assessmentNote": "25.8% reported — 14.2 percentage points short of 40–45%"
+   },
+   {
+    "id": "call-2025-10-4",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 17,
+    "speaker": "Omkar",
+    "voice": "management",
+    "quote": "So, I mean, you haven't given any formal guidance, but to an interview to CNBC, you had mentioned that you will be targeting around 1 lakh crore of sales in next three to four years.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-5",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 19,
+    "speaker": "Vaishnavi Gurung",
+    "voice": "management",
+    "quote": "If we see the last three, four quarters, we have averaged out to a growth of 100% year-on-year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-6",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 20,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "But my sense is it should be a double-digit kind of growth this year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-10-7",
+    "sourceId": "call-2025-10",
+    "callLabel": "Oct 2025 call · Q2 FY26",
+    "callMonth": "2025-10",
+    "page": 21,
+    "speaker": "Saurabh Gupta",
+    "voice": "management",
+    "quote": "And we have already gave you guidance that this 14 million units and the kind of order book that we have on mobile phones, we can take it to 190 million, 200 million in the next 2.5, 3 years.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 2,
+   "beat": 1,
+   "on_track": 2,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 7
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 76,
+    "excerpt": "Dixon Technologies (India) Limited (‘Dixon’, ‘The Company’ or ‘We’) is one of India’s leading Electronic Manufacturing Services (EMS) providers, delivering end-to- end manufacturing solutions to global and domestic brands.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 155,
+    "excerpt": "We are an equal opportunity employer providing equal remuneration for women and men. These initiatives collectively reinforce a high-performance culture where employees feel valued, supported and motivated to contribute meaningfully to sustainable business growth. PARTICULARS OF EMPLOYEES AND REMUNERATION",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 54,
+    "excerpt": "Dixon Technologies (India) Limited_33rd AGM Notice 2025-26 52 cultivation in the industry, the company has grown into a world-leading provider of smart products and services, and has formed a full-category product layout covering smartphones, AI PCs, automotive electronics, tablets, smart watches/bands, smart glasses and more."
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-08",
+    "page": 4,
+    "excerpt": "Our market position, customer engagement and manufacturing capabilities remain intact, and we expect 20% to 25% volume growth quarter- on-quarter growth as consumer demand strengthens and we have a strong order book. We received the PN3 approval for our JV with Vivo in July '26, and we are now working towards the consummation of the transaction.",
+    "speaker": "Atul Lall"
+   },
+   {
+    "sourceId": "call-2026-08",
+    "page": 5,
+    "excerpt": "IT hardware products, the segment delivered a healthy performance for the quarter under review, and we are track on track for multiple growth this year. Our IT hardware product manufacturing unit in Chennai is rapidly evolving into India's largest IT hardware manufacturing campus, where we currently manufacture notebooks, desktops and AIOs and I have healthy order book.",
+    "speaker": "Atul Lall"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 49.9% a year over FY21–FY26 (₹6,448 cr → ₹48,873 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 140,
+      "excerpt": "Revenue from Operations 3,93,048 5,40,090 48,87,280 38,86,010",
+      "level": "page",
+      "unit": "₹ lakh",
+      "section": "Board's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.22× reported profit (₹4,515 cr vs ₹3,697 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Operating cash flow FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.21 at FY26 end (0.35 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 2.2× from ₹453 cr to ₹994 cr over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 29% in FY26 (24% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 2.2× from ₹453 cr to ₹994 cr over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.21 at FY26 end (0.35 at FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "credibility",
+    "text": "Management fell short on 2 of 3 checkable promises, e.g. EBITDA margin 10% for FY26 (3.8% reported — 6.2 percentage points short of 10%).",
+    "citations": [
+     {
+      "sourceId": "call-2025-10",
+      "page": 4,
+      "speaker": "Atul Lall",
+      "excerpt": "And we feel confident that the volume of smartphone camera modules can increase from 40 million units and revenues by INR 2,000 crores in large financial years to 190 to 200 million units per annum with the revenue cl…",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2025-10",
+      "page": 10,
+      "speaker": "Vipraw Srivastava",
+      "excerpt": "And sir, at the beginning of the year, the firm had given a guidance of 40%-45% revenue growth.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Management met 1 of 3 checkable promises, e.g. Revenue target ₹2,000 cr for FY26 (₹48,873 cr reported, above the ₹2,000 cr promised).",
+     "citations": [
+      {
+       "sourceId": "call-2025-10",
+       "page": 4,
+       "speaker": "Atul Lall",
+       "excerpt": "And we feel confident that the volume of smartphone camera modules can increase from 40 million units and revenues by INR 2,000 crores in large financial years to 190 to 200 million units per annum with the revenue cl…",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 520 pages), 4 call transcripts, the Q2 FY27 results filing and the Aug 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/DIXON/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 520,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 520,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 21,
+   "coverage": {
+    "pagesRead": 21,
+    "totalPages": 21,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-08",
+   "kind": "presentation",
+   "title": "Investor presentation, Aug 2026",
+   "url": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/07150914-1f3b-43ce-82f2-f8543b60027d-EarningPresentation-Q1FY26-27.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 15,
+   "coverage": {
+    "pagesRead": 15,
+    "totalPages": 15,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ac4537e-4a64-4682-a4c5-5255ba8895cf.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 1,
+   "coverage": {
+    "pagesRead": 1,
+    "totalPages": 1,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7eabc370-b827-435c-9dd2-8a70553a8062.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/44312065-295c-4d01-ac79-338efd2f98f7.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.dixoninfo.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/DIXON.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

@@ -1,0 +1,917 @@
+{
+ "symbol": "HDFCBANK",
+ "exchange": "NSE",
+ "name": "HDFC Bank",
+ "generatedAt": "2026-10-29T09:08:38.939Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": true,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/HDFCBANK/consolidated/",
+  "retrievedAt": "2026-10-29T08:57:11.050Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 685.2999877929688,
+  "changePct": 0.7497758739212179,
+  "date": "2026-10-28",
+  "spark": [
+   796.0499877929688,
+   780.8499755859375,
+   763.6500244140625,
+   750.4500122070312,
+   749.5999755859375,
+   769.5499877929688,
+   767.5,
+   768.6500244140625,
+   762.4500122070312,
+   759.5,
+   759.1500244140625,
+   766.7999877929688,
+   786.8499755859375,
+   778.9000244140625,
+   758.6500244140625,
+   744.5499877929688,
+   742.7000122070312,
+   748.25,
+   753.6500244140625,
+   754.2000122070312,
+   747.0499877929688,
+   738.6500244140625,
+   738.3499755859375,
+   746.8499755859375,
+   744.5999755859375,
+   772.4500122070312,
+   777.3499755859375,
+   784.9000244140625,
+   787.0999755859375,
+   799,
+   779.7999877929688,
+   786.4000244140625,
+   774.6500244140625,
+   793.2000122070312,
+   796.2999877929688,
+   798.9000244140625,
+   797.9500122070312,
+   796.1500244140625,
+   795.9000244140625,
+   801.0499877929688,
+   829.8499755859375,
+   829.2999877929688,
+   810.2999877929688,
+   817.5499877929688,
+   824.9500122070312,
+   817.9500122070312,
+   809.4000244140625,
+   815.4500122070312,
+   808.2999877929688,
+   819.5999755859375,
+   777.5999755859375,
+   761.4500122070312,
+   753.1500244140625,
+   747.25,
+   742.7999877929688,
+   739.5499877929688,
+   735.4000244140625,
+   748.2000122070312,
+   753.9500122070312,
+   748.1500244140625,
+   753,
+   742,
+   735,
+   734.2999877929688,
+   731,
+   731,
+   729,
+   729,
+   725,
+   727,
+   729,
+   723,
+   720,
+   725.0499877929688,
+   726.9500122070312,
+   729,
+   727.5,
+   727.2000122070312,
+   711,
+   720.2999877929688,
+   709,
+   711.9000244140625,
+   700.7999877929688,
+   706.6500244140625,
+   712.0999755859375,
+   710.5,
+   703,
+   687.0999755859375,
+   693.7999877929688,
+   708.25,
+   716.5499877929688,
+   721.5,
+   713,
+   731,
+   739.5,
+   738.5999755859375,
+   737.25,
+   728.9000244140625,
+   735.5999755859375,
+   719.0499877929688,
+   722.7000122070312,
+   708.7000122070312,
+   721.2000122070312,
+   704.7999877929688,
+   711.4500122070312,
+   702.75,
+   692.25,
+   707.25,
+   704.9000244140625,
+   714,
+   710.7000122070312,
+   726.8499755859375,
+   728.8499755859375,
+   712,
+   706.9500122070312,
+   694.0499877929688,
+   692.7999877929688,
+   688.0499877929688,
+   680.2000122070312,
+   685.2999877929688
+  ],
+  "high52": 1009.5,
+  "low52": 680.2000122070312,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/HDFCBANK.NS",
+   "retrievedAt": "2026-10-29T09:05:16.137Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 10,56,183 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 685"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,018 / 669"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "13.2"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 391"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.91 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "7.02 %"
+  },
+  {
+   "name": "ROE",
+   "value": "13.6 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹95,132 cr (+9.4% YoY), PAT ₹21,537 cr (+5.8% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "page": 9,
+     "excerpt": "1 Interest earned (a)+(b)+(c)+(d) 95131.63 9O575.33 86993.84 1857O6.96 174365.71 348615.15",
+     "level": "page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 95132
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 21537
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹3,59,956 cr, NII ₹1,70,621 cr, PAT ₹83,685 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   128552,
+   135936,
+   170754,
+   283649,
+   336367,
+   348615
+  ],
+  "ebitda": [
+   69304,
+   77352,
+   92974,
+   129510,
+   152473,
+   163124
+  ],
+  "pat": [
+   31857,
+   38151,
+   46149,
+   65446,
+   73440,
+   79219
+  ],
+  "margin": [
+   53.91125770116373,
+   56.90324858757062,
+   54.44909050446841,
+   45.65854277645964,
+   45.32935751723564,
+   46.79201984997777
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 22.1% a year over FY21–FY26 (₹1,28,552 cr → ₹3,48,615 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 348615
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 128552
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 3.6% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 348615
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 336367
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 20.0% a year over FY21–FY26, lagging revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "PAT FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 79219
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 31857
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   85040,
+   86779,
+   87372,
+   86994,
+   87067,
+   87182,
+   90575,
+   95132
+  ],
+  "ebitda": [
+   38126,
+   39793,
+   39663,
+   40253,
+   41246,
+   41962,
+   42949,
+   44465
+  ],
+  "pat": [
+   18340,
+   19285,
+   17090,
+   20364,
+   20691,
+   21074,
+   20383,
+   21537
+  ],
+  "margin": [
+   44.83301975540922,
+   45.85556413417993,
+   45.3955500618047,
+   46.27100719589857,
+   47.372712968173936,
+   48.13149503337845,
+   47.41816174441071,
+   46.74031871504856
+  ],
+  "revenueYoY": [
+   9.014460055378935,
+   9.24667019160561,
+   7.144433816496211,
+   4.809522662104528,
+   2.3835841956726247,
+   0.4643980686571636,
+   3.6659341665522134,
+   9.354668138032508
+  ],
+  "patYoY": [
+   3.5105542386273845,
+   7.061566646310998,
+   -0.5701652315569001,
+   9.325173135770655,
+   12.818974918211559,
+   9.276639875550947,
+   19.268578115857228,
+   5.760164997053624
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   226966,
+   256549,
+   730615,
+   634606,
+   588485,
+   594144
+  ],
+  "equity": [
+   247327,
+   289438,
+   456396,
+   521789,
+   586059,
+   603469
+  ],
+  "debtToEquity": [
+   0.9176757895417808,
+   0.8863694469972844,
+   1.600835677788587,
+   1.2162119170775927,
+   1.0041395149635104,
+   0.9845476735341832
+  ],
+  "claims": [
+   {
+    "id": "bs-lender",
+    "text": "Borrowings are a lender's raw material, so debt-to-equity is not a risk signal here; asset quality (NPAs) matters more.",
+    "tone": "neutral",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   42476,
+   -11960,
+   20814,
+   19069,
+   127242,
+   113506
+  ],
+  "pat": [
+   31857,
+   38151,
+   46149,
+   65446,
+   73440,
+   79219
+  ],
+  "fcf": [
+   40796,
+   -14176,
+   17390,
+   14882,
+   123267,
+   110144
+  ],
+  "capex": [
+   1680,
+   2216,
+   3424,
+   4187,
+   3975,
+   3362
+  ],
+  "claims": [
+   {
+    "id": "cash-lender",
+    "text": "For lenders, loan growth runs through operating cash flow, so CFO-to-profit conversion is not meaningful.",
+    "tone": "neutral",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "debtorDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": []
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 5,
+    "speaker": "Sashidhar Jagdishan",
+    "voice": "management",
+    "quote": "The guiding principle is return on assets, loan growth and deposit growth, and quality of the balance sheet from a risk standpoint.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-2",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 8,
+    "speaker": "Sashidhar Jagdishan",
+    "voice": "management",
+    "quote": "At least if you see through large part of FY26, the nominal GDP growth expected was somewhere around the 9%, 9.5%, so one consensus until the large part of the year was a system credit growth of around 10.5% to 11.5%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-3",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 8,
+    "speaker": "Sashidhar Jagdishan",
+    "voice": "management",
+    "quote": "This is what we had expected, and we calibrated our strategies and our growth in line with that, and that is why we grew at 12%.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 202,
+    "excerpt": "We Are HDFC Bank’s cultural transformation journey continued to gain momentum, driven by the belief that culture is the invisible force shaping performance, collaboration, customer experience and innovation. During the year, the Bank focussed on nurturing a culture that is adaptive, inclusive, empathetic and customer centric.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 253,
+    "excerpt": "HDFC Bank Parivartan, is one of the Bank's most longstanding community initiatives. The campaign is in response to India's continuing need for blood, which is critical for accident victims, cancer patients, children with medical conditions and people requiring regular transfusions. It aims to strengthen the national blood supply while encouraging a culture of voluntary donation.",
+    "section": "Corporate overview"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 121,
+    "excerpt": "HDFC Bank is one of the largest players in Real Estate Finance. The team consists of experts across various aspects of Real Estate and related products. The business is geographically",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-10",
+    "page": 3,
+    "excerpt": "The pace of retail disbursements is accelerating and has crossed Rs 90,000 crores during Q2 FY27 as against Rs 76,000 crores in Q1 of this year. Growth has been balanced across all lines, whether it's personal loans, the wheels business, gold and agri and other MSME business as well.",
+    "speaker": "Sashidhar Jagdishan"
+   },
+   {
+    "sourceId": "call-2026-10",
+    "page": 4,
+    "excerpt": "Daily disbursal run rate of key retail and MSME products are up by 10% to 20% versus the prior quarter. Our asset quality remains pristine, with GNPA at 1.11%, 13 basis points lower than year- on-year. Credit costs remain low at 44 basis points, the risk weights to total assets at 69%. Our industry-leading asset quality metrics reflect the top-quartile credit quality choices we have consistently made.",
+    "speaker": "Sashidhar Jagdishan"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹95,132 cr (+9.4% YoY), PAT ₹21,537 cr (+5.8% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "page": 9,
+      "excerpt": "1 Interest earned (a)+(b)+(c)+(d) 95131.63 9O575.33 86993.84 1857O6.96 174365.71 348615.15",
+      "level": "page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of 3.6% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "level": "document",
+       "section": "Revenue FY26 not located on a page"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of 3.6% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Q2 FY27: revenue ₹95,132 cr (+9.4% YoY), PAT ₹21,537 cr (+5.8% YoY).",
+     "citations": [
+      {
+       "sourceId": "results-2026-09-30",
+       "page": 9,
+       "excerpt": "1 Interest earned (a)+(b)+(c)+(d) 95131.63 9O575.33 86993.84 1857O6.96 174365.71 348615.15",
+       "level": "page"
+      },
+      {
+       "sourceId": "screener",
+       "section": "quarters",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 678 pages), 4 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/HDFCBANK/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 678,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 678,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 16,
+   "coverage": {
+    "pagesRead": 16,
+    "totalPages": 16,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-03",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Mar 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 14,
+   "coverage": {
+    "pagesRead": 14,
+    "totalPages": 14,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-2/q2fy27-earnings-presentation.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 45,
+   "coverage": {
+    "pagesRead": 45,
+    "totalPages": 45,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 24,
+   "coverage": {
+    "pagesRead": 24,
+    "totalPages": 24,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/411e22d2-0720-4cec-b659-9ccd639f0f1a.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2160dea5-d49e-4409-83a4-c2b111a3bd12.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.hdfcbank.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/HDFCBANK.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

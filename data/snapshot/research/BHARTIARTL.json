@@ -1,0 +1,1141 @@
+{
+ "symbol": "BHARTIARTL",
+ "exchange": "NSE",
+ "name": "Bharti Airtel",
+ "generatedAt": "2026-10-29T09:08:40.886Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/BHARTIARTL/consolidated/",
+  "retrievedAt": "2026-10-29T08:57:12.798Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1948.0999755859375,
+  "changePct": -1.5514489834568452,
+  "date": "2026-10-28",
+  "spark": [
+   1826.5999755859375,
+   1834.5,
+   1759.800048828125,
+   1756.800048828125,
+   1789.199951171875,
+   1883.5,
+   1905.4000244140625,
+   1938.0999755859375,
+   1913.5,
+   1904.9000244140625,
+   1885.300048828125,
+   1871.4000244140625,
+   1874.800048828125,
+   1846.9000244140625,
+   1852.199951171875,
+   1829,
+   1810.5999755859375,
+   1814.199951171875,
+   1824.0999755859375,
+   1818.9000244140625,
+   1798.199951171875,
+   1813.300048828125,
+   1799,
+   1775.199951171875,
+   1782.5999755859375,
+   1822.5,
+   1841.199951171875,
+   1853,
+   1875.699951171875,
+   1874.800048828125,
+   1910.800048828125,
+   1916.5999755859375,
+   1901.5999755859375,
+   1877.300048828125,
+   1850.699951171875,
+   1841.0999755859375,
+   1852,
+   1871,
+   1875,
+   1910.4000244140625,
+   1925.699951171875,
+   1925.800048828125,
+   1888.0999755859375,
+   1931.0999755859375,
+   1920.4000244140625,
+   1901.800048828125,
+   1936.5,
+   1918.300048828125,
+   1921.800048828125,
+   1908.800048828125,
+   1940.0999755859375,
+   1948.4000244140625,
+   1949,
+   1931,
+   1898.199951171875,
+   1905.300048828125,
+   1901.800048828125,
+   1950.199951171875,
+   1956.800048828125,
+   1972,
+   1970.5,
+   1970.0999755859375,
+   1978,
+   1948,
+   1959.9000244140625,
+   1943,
+   1915.199951171875,
+   1945,
+   1939.0999755859375,
+   1992.0999755859375,
+   1969.300048828125,
+   1934.199951171875,
+   1922,
+   1941.699951171875,
+   1946,
+   1935,
+   1947,
+   1902.0999755859375,
+   1878.300048828125,
+   1882.4000244140625,
+   1811.9000244140625,
+   1877.199951171875,
+   1862.800048828125,
+   1869,
+   1840,
+   1854,
+   1844,
+   1814.699951171875,
+   1839,
+   1831.0999755859375,
+   1830.4000244140625,
+   1835,
+   1836,
+   1893.300048828125,
+   1830.199951171875,
+   1817.199951171875,
+   1833.199951171875,
+   1795.800048828125,
+   1785.4000244140625,
+   1771.4000244140625,
+   1771.199951171875,
+   1757,
+   1741.0999755859375,
+   1779.9000244140625,
+   1810.5,
+   1833.9000244140625,
+   1804.5999755859375,
+   1805.0999755859375,
+   1778.699951171875,
+   1806.5,
+   1794.5999755859375,
+   1854,
+   1905,
+   1875.199951171875,
+   1891.699951171875,
+   1895,
+   1892.0999755859375,
+   1917.5,
+   1978.800048828125,
+   1948.0999755859375
+  ],
+  "high52": 2162.699951171875,
+  "low52": 1741.0999755859375,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/BHARTIARTL.NS",
+   "retrievedAt": "2026-10-29T09:05:17.129Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 12,23,825 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,961"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 2,175 / 1,726"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "39.3"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 245"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "1.21 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "17.6 %"
+  },
+  {
+   "name": "ROE",
+   "value": "20.3 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 5.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹58,539 cr (+18.3% YoY), PAT ₹10,012 cr (+34.9% YoY).",
+   "tone": "positive",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q1 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 58539
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 10012
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹2,20,049 cr, EBITDA ₹1,25,139 cr (56.9% margin), PAT ₹36,413 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   100616,
+   116547,
+   139145,
+   149982,
+   172985,
+   210973
+  ],
+  "ebitda": [
+   45279,
+   57534,
+   71274,
+   77893,
+   85060,
+   116514
+  ],
+  "pat": [
+   -12364,
+   8305,
+   12287,
+   8558,
+   37481,
+   33823
+  ],
+  "margin": [
+   45.00178897988392,
+   49.36549203325697,
+   51.22282511049624,
+   51.93489885452921,
+   49.171893516778916,
+   55.2269721717945
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 16.0% a year over FY21–FY26 (₹1,00,616 cr → ₹2,10,973 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 216,
+      "excerpt": "Revenue from operations 24 2,109,728 1,729,852",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 210973
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 100616
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 22.0% was the fastest in 5 years.",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 216,
+      "excerpt": "Revenue from operations 24 2,109,728 1,729,852",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 210973
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 172985
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 400 bps over FY23–FY26 (51.2% → 55.2%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   41473,
+   45129,
+   47876,
+   49463,
+   52145,
+   53982,
+   55383,
+   58539
+  ],
+  "ebitda": [
+   21846,
+   24597,
+   27009,
+   27839,
+   29561,
+   30783,
+   31492,
+   33303
+  ],
+  "pat": [
+   4153,
+   16135,
+   12476,
+   7422,
+   8651,
+   8503,
+   9247,
+   10012
+  ],
+  "margin": [
+   52.675234489909094,
+   54.50375589975403,
+   56.41448742585011,
+   56.28247376827124,
+   56.689999041135295,
+   57.02456374347005,
+   56.8622140367983,
+   56.890278276021114
+  ],
+  "revenueYoY": [
+   11.956052262174712,
+   19.073878627968337,
+   27.333173754621132,
+   28.455305666649355,
+   25.732404214790343,
+   19.617097653393607,
+   15.680090233102181,
+   18.34906900107151
+  ],
+  "patYoY": [
+   98.42331581462017,
+   461.02225312934627,
+   503.2882011605416,
+   57.31242051716829,
+   108.30724777269445,
+   -47.30089866749303,
+   -25.881692850272525,
+   34.89625437887362
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   162785,
+   169678,
+   226020,
+   215592,
+   213642,
+   195412
+  ],
+  "equity": [
+   58953,
+   66554,
+   77563,
+   82019,
+   113672,
+   149057
+  ],
+  "debtToEquity": [
+   2.7612674503417978,
+   2.5494786188658836,
+   2.914018281912768,
+   2.6285616747339033,
+   1.8794602012808783,
+   1.310988413828267
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 1.31 at FY26 end (2.91 at FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   48205,
+   55017,
+   65325,
+   78898,
+   98332,
+   122230
+  ],
+  "pat": [
+   -12364,
+   8305,
+   12287,
+   8558,
+   37481,
+   33823
+  ],
+  "fcf": [
+   21091,
+   28996,
+   38875,
+   38970,
+   58990,
+   76683
+  ],
+  "capex": [
+   27114,
+   26021,
+   26450,
+   39928,
+   39342,
+   45547
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 4.18× reported profit (₹4,19,802 cr vs ₹1,00,454 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 218,
+      "excerpt": "Net cash generated from operations before tax 1,285,135 1,027,702 … Net cash generated from operating activities (a) 1,222,296 983,322",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 122230
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 98332
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹2,42,514 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹1,77,288 cr, 42% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   13,
+   13,
+   10,
+   12,
+   16,
+   14
+  ],
+  "debtorDays": [
+   13,
+   13,
+   10,
+   12,
+   16,
+   14
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle held steady from 10 to 14 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 18% in FY26 (12% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-08-1",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 11,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "That to me, is not a healthy way to operate because if you look at, and we have talked about this before, any market that you look at, you have an architecture which goes from small, medium large to extra-large and so, if you just operate with a more sensible price architecture, my view is, in the next five to seven years you will see sustained growth, just on account of ARPU as India gets more affluent, etc., of 4% or 5%, maybe slightly higher.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 4,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "We continue to remain confident about the long-term growth opportunity in Africa led by the low tele-density at about 45% on unique SIMs, smartphone penetrations of only about 52%, very low data consumption per customer and overall young demographic profile of the market.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "So the net result of all of that, if you look at the capex, while we do not give guidance typically, our sense is that we will be in the ballpark of this year, give or take a little bit.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "How should we look at this, in absence of tariff hikes, should we further expect some acceleration here and then, on the wireless capex, we have hit a decade low at around 16% of sales.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "First, on the enterprise business, you said the order book has grown 17%, which is quite heartening to hear, how should we see growth rate, now that the commodity business, which we discontinued is behind and the growth rate for FY2027 should be significantly better than FY2026 and will this also mean that the new business will come with a better ROCE in the enterprise part of the business, that is number one.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 6,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "I think, at this point in time, I cannot give you a capex guidance, but clearly you will see us investing more and more behind Data Centers; I think, there is no question about that in my mind.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-2",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 10,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "Remember, there was a low margin business in the same quarter last year, if I shed that, the underlying business is growing at 10%, which should show up in coming quarters if we do well.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-3",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 13,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "We are on track to most generate Rs.50,000 crores of free cash flow from India business, this after considering our normal capex across wireless, wireline and enterprise, and even if we consider the Data Center scaling up from current 150 megawatt to 1 gigawatt hour, it is still, one equivalent to one year of our free cash flow.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-4",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 15,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "Soumen Ray – Group Chief Financial Officer, Bharti Airtel Limited and Director, Bharti Hexacom Limited So Vivekanand, of course, I cannot share with you what is my capex guidance, because as a rule, we do not give guidance, but let me put it in this way.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-5",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 15,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "Home penetration, as I said, we have got very good result; I think sequentially 10% growth, the base is small, I admit, but sequential quarter- on-quarter 10% growth, our ambition will be to grow.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-6",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 16,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "Inroamers is something which is beyond our control; it is based on whether people want to go to deserts or to mountains, but I can tell you underlying growth, give or take 20-30 basis points here or there, BHL is trending with the national average and you will see results coming in; one quarter aberration, and primarily because of this interference is what is coloring the picture.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-1",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 9,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "On homes capex, it is all built into our overall guidance of moderating on capex, so, nothing changes there.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-2",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 15,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "First on the revenue growth, sequentially mobile revenue growth for us was around 2.1% while Airtel did mobility of 2.6%, we thought, considering the under penetration in Rajasthan and the North East Circle, the anticipation was that we will grow slightly faster than Airtel.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 2.6,
+    "high": 2.6,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 21.96028557389369,
+     "actualLabel": "FY26 growth",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "met",
+    "assessmentNote": "22.0% reported, above the 2.6% promised"
+   },
+   {
+    "id": "call-2025-11-3",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 16,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "If you can update us on the guidance for the capex for FY2026 and FY2027 using FY2025 as a reference point, that would be great, that is question one, and the second question is on the homes business.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-11-4",
+    "sourceId": "call-2025-11",
+    "callLabel": "Nov 2025 call · Q2 FY26",
+    "callMonth": "2025-11",
+    "page": 16,
+    "speaker": "Event",
+    "voice": "management",
+    "quote": "At an annualized basis, like we have guided, directionally, there is a holding/decline in capex.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 1,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 96,
+    "excerpt": "Bharti Airtel Limited is listed as ‘India’s Leading ESG Entity’ basis merit, in Dun & Bradstreet’s “ESG Horizons: Now and Next” report lists leading ESG companies for FY25 Bharti Airtel Limited is in the prestigious BW India’s Top 40 Most Sustainable Companies (IMSC) 2024–25 and ranked among the Top 3 Most Sustainable Companies in the Telecom & Connectivity sector Network",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 123,
+    "excerpt": "Company Overview Bharti Airtel is a global communications solutions provider with nearly 666 million customers in 15 countries across India and Africa. The Company also has its presence in Bangladesh and Sri Lanka through its associate entities. The Company is ranked second amongst mobile operators globally and its networks cover over two billion people. Bharti Airtel is India’s largest integrated communications",
+    "section": "Board's report"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 126,
+    "excerpt": "Bharti Airtel is one of the early adopter of GSMA’s ESG Metrics framework. The Company is benchmarked annually against global peers in a study conducted by GSMA Intelligence, which assesses performance of telecom companies across four key areas: environment, digital inclusion, digital integrity and responsible procurement.",
+    "section": "Board's report"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-08",
+    "page": 5,
+    "excerpt": "In the home segment, we still see a market opportunity, which remains very significant. Demand for high-speed connectivity continues to be supported by rising smart TV penetration, higher concurrent usage within households and rapidly evolving data consumption needs. Majority of this demand is concentrated across the top 1000 towns, and this is shaping where we invest and how we serve this market.",
+    "speaker": "Event"
+   },
+   {
+    "sourceId": "call-2026-08",
+    "page": 5,
+    "excerpt": "Network slicing is a key enabler of this strategy, which is helping us improve our 5G network efficiency, expand effective capacity and deliver differentiated experience for our customers. Our converged data engine, which powers the digital experience layer, enabling faster execution and customer engagement with greater precision, is at the core of our growth.",
+    "speaker": "Event"
+   }
+  ]
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 16.0% a year over FY21–FY26 (₹1,00,616 cr → ₹2,10,973 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 216,
+      "excerpt": "Revenue from operations 24 2,109,728 1,729,852",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 400 bps over FY23–FY26 (51.2% → 55.2%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 4.18× reported profit (₹4,19,802 cr vs ₹1,00,454 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 218,
+      "excerpt": "Net cash generated from operations before tax 1,285,135 1,027,702 … Net cash generated from operating activities (a) 1,222,296 983,322",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 18% in FY26 (12% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 303 pages), 4 call transcripts, the Q2 FY27 results filing and the Nov 2025 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/BHARTIARTL/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 303,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 303,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca87613b-39c3-4571-8ea9-8f77df1b6428.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 16,
+   "coverage": {
+    "pagesRead": 16,
+    "totalPages": 16,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 18,
+   "coverage": {
+    "pagesRead": 18,
+    "totalPages": 18,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-11",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8f70dc5-c46b-481a-961c-ecbd39a6f45d.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 17,
+   "coverage": {
+    "pagesRead": 17,
+    "totalPages": 17,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2025-11",
+   "kind": "presentation",
+   "title": "Investor presentation, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584560c2-e9d6-4895-b6a9-3ba4beb21dfb.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 60,
+   "coverage": {
+    "pagesRead": 60,
+    "totalPages": 60,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a5ea611-ba91-4312-95aa-59a8cc634910.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 1,
+   "coverage": {
+    "pagesRead": 1,
+    "totalPages": 1,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c2194c0b-bec7-42ba-9675-afdf7a9e7e9c.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f345c17e-4d3c-4347-ad15-54a33f8aab05.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.airtel.in",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/BHARTIARTL.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

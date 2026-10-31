@@ -1,0 +1,168 @@
+@import "tailwindcss";
+
+/*
+ * FINN design tokens. Every text colour clears WCAG AA (4.5:1) on every surface it is used on,
+ * in both themes. Colour carries meaning only (signal, up/down, provenance); hierarchy comes from
+ * type, weight and space.
+ */
+:root {
+  --bg: #f6f5f1;
+  --surface: #ffffff;
+  --surface-2: #efede7;
+  --ink: #131518;
+  --muted: #555b62;
+  --faint: #62676e;
+  --line: #e2dfd8;
+  --line-strong: #cbc7be;
+  --accent: #2347c8;
+  --signal: #b3401a;
+  --signal-soft: #f7e6de;
+  --up: #137a46;
+  --up-soft: #e2f1e9;
+  --down: #b42a24;
+  --down-soft: #f8e3e1;
+  --warn: #7d5200;
+  --warn-soft: #f7edd2;
+  --sample: #6a3d9e;
+  --sample-soft: #eee6f7;
+  /* Chart series (validated with the dataviz palette checker on these surfaces). */
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1012;
+    --surface: #17191c;
+    --surface-2: #1f2226;
+    --ink: #eceae5;
+    --muted: #aab0b7;
+    --faint: #8d939a;
+    --line: #2a2d32;
+    --line-strong: #3a3e44;
+    --accent: #93abff;
+    --signal: #ff9269;
+    --signal-soft: #3a2119;
+    --up: #55d08e;
+    --up-soft: #12301f;
+    --down: #ff8079;
+    --down-soft: #3b1b19;
+    --warn: #f2c65c;
+    --warn-soft: #33290f;
+    --sample: #c9aef2;
+    --sample-soft: #2a2138;
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-signal: var(--signal);
+  --color-signal-soft: var(--signal-soft);
+  --color-up: var(--up);
+  --color-up-soft: var(--up-soft);
+  --color-down: var(--down);
+  --color-down-soft: var(--down-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-sample: var(--sample);
+  --color-sample-soft: var(--sample-soft);
+  --color-series-1: var(--series-1);
+  --color-series-2: var(--series-2);
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+  --font-serif: var(--font-newsreader), Georgia, "Times New Roman", serif;
+}
+
+/* ---- Type scale ---------------------------------------------------------------------- */
+
+/* Page titles: editorial serif. */
+@utility t-display {
+  font-family: var(--font-serif);
+  font-size: 30px;
+  line-height: 1.1;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+/* Company names, section titles in research. */
+@utility t-title {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+/* Small uppercase labels: section kickers, field names. */
+@utility t-kicker {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+/* Secondary metadata: timestamps, sources. */
+@utility t-meta {
+  font-size: 12.5px;
+  line-height: 18px;
+  color: var(--faint);
+}
+/* Numbers line up in columns. */
+@utility num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+/* ---- Base ------------------------------------------------------------------------------ */
+
+html {
+  -webkit-text-size-adjust: 100%;
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@keyframes shimmer {
+  0% { background-position: -240px 0; }
+  100% { background-position: 240px 0; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--surface-2) 0, var(--line) 50%, var(--surface-2) 100%);
+  background-size: 480px 100%;
+  animation: shimmer 1.3s infinite linear;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton { animation: none; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}

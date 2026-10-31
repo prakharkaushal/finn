@@ -1,0 +1,978 @@
+{
+ "symbol": "ITC",
+ "exchange": "NSE",
+ "name": "ITC",
+ "generatedAt": "2026-10-29T09:08:43.903Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/ITC/consolidated/",
+  "retrievedAt": "2026-10-29T08:57:48.394Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 259.5,
+  "changePct": -0.19230769230769232,
+  "date": "2026-10-28",
+  "spark": [
+   307.3999938964844,
+   307.45001220703125,
+   305.8500061035156,
+   300.70001220703125,
+   304.45001220703125,
+   307.20001220703125,
+   309.45001220703125,
+   310.1499938964844,
+   310.29998779296875,
+   307.54998779296875,
+   308.04998779296875,
+   301.70001220703125,
+   303.95001220703125,
+   301.6499938964844,
+   291.95001220703125,
+   286.8999938964844,
+   279.6499938964844,
+   283.25,
+   277,
+   280.29998779296875,
+   280.70001220703125,
+   279.45001220703125,
+   280,
+   283.6499938964844,
+   282.3999938964844,
+   285.1000061035156,
+   287.8999938964844,
+   291.6499938964844,
+   290.75,
+   291.1499938964844,
+   292.5,
+   291.25,
+   290,
+   290.3500061035156,
+   290,
+   290.70001220703125,
+   286.95001220703125,
+   290.29998779296875,
+   289.8999938964844,
+   289.95001220703125,
+   288.25,
+   288.75,
+   280.6499938964844,
+   282.04998779296875,
+   281.75,
+   279.6499938964844,
+   275.54998779296875,
+   276.6499938964844,
+   279.3500061035156,
+   280.70001220703125,
+   282.70001220703125,
+   281,
+   280.79998779296875,
+   281.29998779296875,
+   283.45001220703125,
+   285.8500061035156,
+   284.6499938964844,
+   286.25,
+   285.04998779296875,
+   281,
+   287,
+   289,
+   286.95001220703125,
+   285.8999938964844,
+   286.1000061035156,
+   282.6499938964844,
+   279,
+   276.1499938964844,
+   278.5,
+   278.20001220703125,
+   273.04998779296875,
+   270,
+   267.04998779296875,
+   271.6499938964844,
+   269.3999938964844,
+   269.70001220703125,
+   271.3999938964844,
+   270.25,
+   269,
+   266,
+   255.5,
+   266.6000061035156,
+   266.29998779296875,
+   263,
+   264.1000061035156,
+   263.5,
+   263.5,
+   260.79998779296875,
+   259.29998779296875,
+   259.8500061035156,
+   258,
+   264.1499938964844,
+   266.20001220703125,
+   262.29998779296875,
+   267,
+   265.79998779296875,
+   270.1499938964844,
+   268,
+   269,
+   265.20001220703125,
+   265.1000061035156,
+   262.75,
+   255.89999389648438,
+   268.8999938964844,
+   266.70001220703125,
+   265.70001220703125,
+   255,
+   266,
+   257.8999938964844,
+   261,
+   261.5,
+   263.8999938964844,
+   263.5,
+   260.79998779296875,
+   262,
+   258.8999938964844,
+   257.8999938964844,
+   260.5,
+   260,
+   259.5
+  ],
+  "high52": 421.6000061035156,
+  "low52": 255,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/ITC.NS",
+   "retrievedAt": "2026-10-29T09:05:19.899Z",
+   "mode": "cache",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 3,32,848 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 266"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 426 / 253"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "16.8"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 57.9"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "5.51 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "38.9 %"
+  },
+  {
+   "name": "ROE",
+   "value": "29.3 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 1.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹19,114 cr (−11.1% YoY), PAT ₹4,509 cr (−15.6% YoY).",
+   "tone": "negative",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q1 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 19114
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 4509
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹76,488 cr, EBITDA ₹25,682 cr (33.6% margin), PAT ₹20,184 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   49257,
+   60645,
+   70919,
+   67932,
+   75323,
+   78868
+  ],
+  "ebitda": [
+   17065,
+   20623,
+   25704,
+   25188,
+   25832,
+   27306
+  ],
+  "pat": [
+   13383,
+   15503,
+   19477,
+   20751,
+   35052,
+   21018
+  ],
+  "margin": [
+   34.64482205574842,
+   34.00610108005606,
+   36.24416587938352,
+   37.07825472531355,
+   34.29496966398046,
+   34.622407059897554
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 9.9% a year over FY21–FY26 (₹49,257 cr → ₹78,868 cr).",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 78868
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 49257
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 4.7% was within its 5-year range (−4.2% to 23.1%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "level": "document",
+      "section": "Revenue FY26 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 78868
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 75323
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 162 bps over FY23–FY26 (36.2% → 34.6%).",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 9.4% a year over FY21–FY26, in line with revenue.",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 255,
+      "excerpt": "X Profit for the year from continuing operations (VIII-IX) 21018.15 20036.47",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 21018
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 13383
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   19990,
+   18790,
+   18765,
+   21495,
+   19502,
+   20047,
+   17825,
+   19114
+  ],
+  "ebitda": [
+   6552,
+   6362,
+   6519,
+   6816,
+   6695,
+   6883,
+   6924,
+   5181
+  ],
+  "pat": [
+   5054,
+   5013,
+   19808,
+   5343,
+   5187,
+   5018,
+   5470,
+   4509
+  ],
+  "margin": [
+   32.77638819409705,
+   33.858435337945714,
+   34.74020783373301,
+   31.709699930216328,
+   34.329812326940825,
+   34.33431436125106,
+   38.84431977559608,
+   27.105786334623836
+  ],
+  "revenueYoY": [
+   12.467649375492291,
+   9.275952311718523,
+   10.1361662166921,
+   20.907863651704353,
+   -2.4412206103051526,
+   6.689728579031399,
+   -5.009325872635225,
+   -11.076994649918586
+  ],
+  "patYoY": [
+   1.7925478348439075,
+   -7.286850379138155,
+   281.58350992101714,
+   3.2064902453158197,
+   2.631578947368421,
+   0.0997406742469579,
+   -72.38489499192245,
+   -15.609208309938236
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   271,
+   249,
+   306,
+   303,
+   285,
+   2399
+  ],
+  "equity": [
+   60347,
+   62455,
+   69155,
+   74507,
+   70030,
+   72507
+  ],
+  "debtToEquity": [
+   0.004490695477819941,
+   0.003986870546793691,
+   0.004424842744559323,
+   0.004066731984914169,
+   0.004069684420962445,
+   0.03308646061759554
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.03 at FY26 end (0.00 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 7.8× from ₹306 cr to ₹2,399 cr over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   12527,
+   15776,
+   18878,
+   17179,
+   17627,
+   18464
+  ],
+  "pat": [
+   13383,
+   15503,
+   19477,
+   20751,
+   35052,
+   21018
+  ],
+  "fcf": [
+   10693,
+   13767,
+   16184,
+   13724,
+   15524,
+   16332
+  ],
+  "capex": [
+   1834,
+   2009,
+   2694,
+   3455,
+   2103,
+   2132
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 0.79× reported profit (₹87,924 cr vs ₹1,11,801 cr) — conversion is partial.",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 258,
+      "excerpt": "CASH GENERATED FROM OPERATIONS 24837.92 23977.24 … NET CASH FROM OPERATING ACTIVITIES 18464.31 17627.04",
+      "level": "page",
+      "section": "Consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 18464
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 17627
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹75,531 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹12,393 cr, 14% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   129,
+   104,
+   105,
+   148,
+   146,
+   164
+  ],
+  "debtorDays": [
+   19,
+   15,
+   15,
+   22,
+   23,
+   18
+  ],
+  "inventoryDays": [
+   189,
+   150,
+   148,
+   191,
+   178,
+   209
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from 105 to 164 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 39% in FY26 (39% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "no_transcripts",
+  "transcriptsRead": 0,
+  "statements": [],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 0,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 0
+  },
+  "note": "No earnings-call transcripts were found for this company. Add one under Sources to check guidance."
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 21,
+    "excerpt": "ITC’s Paperboards and Packaging Business is one of India’s largest, anchored in cutting-edge manufacturing, digital technologies, robust R&D, sustainable fibre value chain and strong environmental stewardship.",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 23,
+    "excerpt": "ITC LSTC: Recognised as India's Largest Private Sector Innovator Science-based innovations in Agri Innovations in Packaging",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 6,
+    "excerpt": "A leading player in the global Packaging ecosystem Agri Business Paperboards and Packaging Leverages ITC's enterprise strengths in foods, hotels and digital 4 brands, 70+ kitchens, 5 cities High consumer love across brands and cities Fresh Food Business Global technology solutions provider Deep domain knowledge and co-creating solutions for the future with tech majors Presence in over 35 countries ITC Infotech Iconic…",
+    "section": "Management discussion and analysis"
+   }
+  ],
+  "segments": null,
+  "management": []
+ },
+ "checks": [],
+ "case": {
+  "bull": [
+   {
+    "theme": "cash",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹75,531 cr in total.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.03 at FY26 end (0.00 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 7.8× from ₹306 cr to ₹2,399 cr over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 39% in FY26 (39% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Cash conversion cycle lengthened from 105 to 164 days over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "ratios",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "Q1 FY27: revenue ₹19,114 cr (−11.1% YoY), PAT ₹4,509 cr (−15.6% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "level": "document",
+      "section": "Revenue Q1 FY27 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin compressed by 162 bps over FY23–FY26 (36.2% → 34.6%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 7.8× from ₹306 cr to ₹2,399 cr over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.03 at FY26 end (0.00 at FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from 105 to 164 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Return on capital employed was 39% in FY26 (39% in FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "ratios",
+       "level": "section"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 416 pages), the Q2 FY27 results filing and the Jul 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/ITC/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 416,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 416,
+    "truncated": true
+   }
+  },
+  {
+   "id": "ppt-2026-07",
+   "kind": "presentation",
+   "title": "Investor presentation, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20b685f4-2aec-4887-bb2a-eaf9fd999da2.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 45,
+   "coverage": {
+    "pagesRead": 45,
+    "totalPages": 45,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5bddd8c-e334-4796-abcb-fe6f95a76110.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 2,
+   "coverage": {
+    "pagesRead": 2,
+    "totalPages": 2,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ba4a189-5fd2-4851-af6f-ec365f7edea2.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f0d1e906-3c13-4993-ad06-e04ad1d3edf9.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "https://www.itcportal.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/ITC.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

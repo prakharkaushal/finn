@@ -1,0 +1,1564 @@
+{
+ "symbol": "HCLTECH",
+ "exchange": "NSE",
+ "name": "HCL Technologies",
+ "generatedAt": "2026-10-29T09:08:56.589Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/HCLTECH/consolidated/",
+  "retrievedAt": "2026-10-29T08:58:32.689Z",
+  "mode": "cache"
+ },
+ "price": {
+  "close": 1400.5,
+  "changePct": -1.3732394366197185,
+  "date": "2026-10-28",
+  "spark": [
+   1183.4000244140625,
+   1198.4000244140625,
+   1194.9000244140625,
+   1145.800048828125,
+   1143.199951171875,
+   1124,
+   1132.5999755859375,
+   1146.5999755859375,
+   1179.4000244140625,
+   1169.800048828125,
+   1168.199951171875,
+   1164,
+   1165.699951171875,
+   1161.9000244140625,
+   1165.199951171875,
+   1183.800048828125,
+   1195.0999755859375,
+   1243.5,
+   1179,
+   1168.300048828125,
+   1154.699951171875,
+   1151.300048828125,
+   1146.300048828125,
+   1132.0999755859375,
+   1110.199951171875,
+   1109.5999755859375,
+   1119.300048828125,
+   1159,
+   1166.800048828125,
+   1161.800048828125,
+   1131.699951171875,
+   1130.5,
+   1109.5,
+   1113.9000244140625,
+   1100.699951171875,
+   1102.4000244140625,
+   1071.800048828125,
+   1034.199951171875,
+   1078.0999755859375,
+   1139,
+   1134.199951171875,
+   1168.199951171875,
+   1145.5999755859375,
+   1150.4000244140625,
+   1164.0999755859375,
+   1221.199951171875,
+   1166.699951171875,
+   1168,
+   1187.4000244140625,
+   1203.9000244140625,
+   1221.300048828125,
+   1239.5,
+   1237.300048828125,
+   1244.699951171875,
+   1271,
+   1295.9000244140625,
+   1318.5999755859375,
+   1344.300048828125,
+   1352.699951171875,
+   1346.9000244140625,
+   1377,
+   1369.9000244140625,
+   1350,
+   1335,
+   1356.5999755859375,
+   1357.199951171875,
+   1365.4000244140625,
+   1365.4000244140625,
+   1370,
+   1360,
+   1325,
+   1298,
+   1324.800048828125,
+   1318.4000244140625,
+   1302.5,
+   1322,
+   1315.800048828125,
+   1298.5,
+   1282,
+   1316.0999755859375,
+   1312.199951171875,
+   1351.4000244140625,
+   1331.5,
+   1319,
+   1293.4000244140625,
+   1282.800048828125,
+   1277,
+   1229.800048828125,
+   1207,
+   1206.0999755859375,
+   1253.699951171875,
+   1253,
+   1258.300048828125,
+   1249.300048828125,
+   1281,
+   1270.4000244140625,
+   1256.699951171875,
+   1243.5999755859375,
+   1258,
+   1252.5999755859375,
+   1222,
+   1230,
+   1243.0999755859375,
+   1201.9000244140625,
+   1204.4000244140625,
+   1185,
+   1176.9000244140625,
+   1216.699951171875,
+   1223,
+   1326,
+   1327,
+   1360,
+   1380,
+   1379.9000244140625,
+   1424.199951171875,
+   1421.699951171875,
+   1422.199951171875,
+   1417,
+   1420,
+   1400.5
+  ],
+  "high52": 1729.5999755859375,
+  "low52": 1034.199951171875,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/HCLTECH.NS",
+   "retrievedAt": "2026-10-29T09:08:55.160Z",
+   "mode": "live",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 3,77,946 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 1,393"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 1,780 / 1,030"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "19.8"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 280"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "3.93 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "30.4 %"
+  },
+  {
+   "name": "ROE",
+   "value": "23.8 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 2.00"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q2 FY27: revenue ₹35,620 cr (+11.5% YoY), PAT ₹5,132 cr (+21.2% YoY).",
+   "tone": "positive",
+   "period": "Q2 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-09-30",
+     "level": "document",
+     "section": "Revenue Q2 FY27 not located on a page"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 35620
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-09-30",
+     "value": 5132
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹1,38,052 cr, EBITDA ₹28,433 cr (20.6% margin), PAT ₹18,330 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   75379,
+   85651,
+   101456,
+   109913,
+   117055,
+   130144
+  ],
+  "ebitda": [
+   20048,
+   20529,
+   22628,
+   24198,
+   25504,
+   26752
+  ],
+  "pat": [
+   11169,
+   13523,
+   14845,
+   15710,
+   17399,
+   16652
+  ],
+  "margin": [
+   26.596266864776663,
+   23.96819651842944,
+   22.303264469326606,
+   22.015594151738192,
+   21.788048353338173,
+   20.555692156380626
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 11.5% a year over FY21–FY26 (₹75,379 cr → ₹1,30,144 cr).",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 138,
+      "excerpt": "Revenue from operations 130,144 100.0% 117,055 100.0% 11.2%",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 130144
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 75379
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 11.2% was within its 5-year range (6.5% to 18.5%).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 138,
+      "excerpt": "Revenue from operations 130,144 100.0% 117,055 100.0% 11.2%",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 130144
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 117055
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin compressed by 175 bps over FY23–FY26 (22.3% → 20.6%).",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 8.3% a year over FY21–FY26, lagging revenue.",
+    "tone": "neutral",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 138,
+      "excerpt": "Profit after tax 16,652 12.8% 17,399 14.9% (4.3)%",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 16652
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 11169
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30",
+   "2026-09-30"
+  ],
+  "labels": [
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27",
+   "Q2 FY27"
+  ],
+  "revenue": [
+   29890,
+   30246,
+   30349,
+   31942,
+   33872,
+   33981,
+   34579,
+   35620
+  ],
+  "ebitda": [
+   6860,
+   6482,
+   6035,
+   6545,
+   7412,
+   6712,
+   6870,
+   7439
+  ],
+  "pat": [
+   4594,
+   4309,
+   3844,
+   4236,
+   4082,
+   4490,
+   4626,
+   5132
+  ],
+  "margin": [
+   22.950819672131146,
+   21.43093301593599,
+   19.885333948400277,
+   20.49026360278004,
+   21.8823807274445,
+   19.752214472793618,
+   19.867549668874172,
+   20.884334643458732
+  ],
+  "revenueYoY": [
+   5.076284890670042,
+   6.130039650514053,
+   8.16908436397334,
+   10.67147113852124,
+   13.322181331549013,
+   12.348740329299742,
+   13.937856272035324,
+   11.514620249201677
+  ],
+  "patYoY": [
+   5.58492300620547,
+   7.859824780976219,
+   -9.744071378257807,
+   -0.02360160490913382,
+   -11.144971702220287,
+   4.2005105592945,
+   20.343392299687828,
+   21.152030217186024
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26",
+   "FY27"
+  ],
+  "borrowings": [
+   6343,
+   4794,
+   5756,
+   6276,
+   5215,
+   6013
+  ],
+  "equity": [
+   61914,
+   65405,
+   68263,
+   69655,
+   75165,
+   76092
+  ],
+  "debtToEquity": [
+   0.10244855767677746,
+   0.07329714853604465,
+   0.08432093520648082,
+   0.09010121312181466,
+   0.06938069580256769,
+   0.07902276191978132
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.08 at FY27 end (0.08 at FY24).",
+    "tone": "positive",
+    "period": "FY27",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   19618,
+   16900,
+   18009,
+   22448,
+   22261,
+   19975
+  ],
+  "pat": [
+   11169,
+   13523,
+   14845,
+   15710,
+   17399,
+   16652
+  ],
+  "fcf": [
+   17865,
+   15345,
+   16565,
+   21432,
+   21178,
+   18576
+  ],
+  "capex": [
+   1753,
+   1555,
+   1444,
+   1016,
+   1083,
+   1399
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow was 1.27× reported profit (₹99,593 cr vs ₹78,129 cr) — profits are turning into cash.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 145,
+      "excerpt": "Net cash flows from operating activities (A) 19,975 22,261",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": 19975
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": 22261
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 5 of the last 5 years, ₹93,096 cr in total.",
+    "tone": "positive",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹6,497 cr, 7% of operating cash flow (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   85,
+   88,
+   92,
+   85,
+   81,
+   88
+  ],
+  "debtorDays": [
+   85,
+   88,
+   92,
+   85,
+   81,
+   88
+  ],
+  "inventoryDays": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle held steady from 92 to 88 days over FY23–FY26.",
+    "tone": "neutral",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 30% in FY26 (28% in FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-10-1",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 12,
+    "speaker": "C Vijayakumar",
+    "voice": "management",
+    "quote": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 2.5,
+    "high": 4,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "on_track",
+     "actual": 17.46178720494594,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far on track (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-10-2",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 12,
+    "speaker": "C Vijayakumar",
+    "voice": "management",
+    "quote": "Services revenue growth guidance is 3% to 4%.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 3,
+    "high": 4,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "on_track",
+     "actual": 12.695252925783821,
+     "actualLabel": "YoY growth, 2 of 4 quarters of FY27",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far on track (YoY growth, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-10-3",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 12,
+    "speaker": "C Vijayakumar",
+    "voice": "management",
+    "quote": "Our revenue guidance includes impact of our acquisitions, and Shiv will provide you more details.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-5",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 15,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "The full-year revenue growth guidance now includes inorganic contribution of 62 basis points for Services and 87 basis points for the Company.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-6",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 15,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "This implies that midpoint of our organic growth guidance both at services and company level is broadly unchanged.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-7",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 19,
+    "speaker": "C Vijayakumar",
+    "voice": "management",
+    "quote": "So the gross margins will be upwards of 70%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-8",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 19,
+    "speaker": "C Vijayakumar",
+    "voice": "management",
+    "quote": "For the services component, I think the margins will be at least 7% to 10% higher than traditional services.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-9",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 19,
+    "speaker": "Ravi Menon",
+    "voice": "management",
+    "quote": "But you're already at 4% YoY growth in your Services business in CC terms, and you have a strong pipeline, and you’re saying the outlook also is good.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-10-10",
+    "sourceId": "call-2026-10",
+    "callLabel": "Oct 2026 call · Q2 FY27",
+    "callMonth": "2026-10",
+    "page": 26,
+    "speaker": "C Vijayakumar",
+    "voice": "management",
+    "quote": "I think our earlier aspiration was 18% to 19%, and this year, we specifically called out the restructuring charges, and then we had reduced the guidance to 17.5% to 18.5%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-1",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 12,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "Global datacenter demand is set to triple by 2030 with AI driving roughly 70% of that growth, and in India that growth is expected to happen at an even faster pace.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-2",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 14,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for FY27.",
+    "structuredBy": "rules",
+    "metric": "other",
+    "low": 17.5,
+    "high": 18.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": false,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-07-3",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 14,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "The guidance is organic growth guidance and does not include acquisitions including Jaspersoft.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-4",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 20,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "And this year the guidance is 17.5% to 18.5% and that also includes approximately 40 to 50 basis points restructuring cost impact.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-6",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 22,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "Yes, of course, from last year to this year our guidance is improving gross margins, but I think if our strategy works out as we have planned, we do expect the gross margin per employee to increase.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-7",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 25,
+    "speaker": "Gaurav Rateria",
+    "voice": "management",
+    "quote": "So, my understanding is that this quarter has turned out to be probably, you know, slightly better than what we expecting because our YoY growth in services business is ahead of our midpoint of the guide.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-07-8",
+    "sourceId": "call-2026-07",
+    "callLabel": "Jul 2026 call · Q1 FY27",
+    "callMonth": "2026-07",
+    "page": 26,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "And Gaurav, on the margin’s guidelines, as we called out, our revenue as well as margin guidance are for the organic business.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-04-1",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 12,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "The revenue growth guidance for the full year is 1% to 4% in constant currency and 1.5% to 4.5% for Services.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 1,
+    "high": 4,
+    "unit": "%",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-04-2",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 12,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "EBIT margin guidance is 17.5% to 18.5%.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 17.5,
+    "high": 18.5,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "on_track",
+     "actual": 17.46178720494594,
+     "actualLabel": "EBIT margin, 2 of 4 quarters of FY27",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "FY27 is not over yet; so far on track (EBIT margin, 2 of 4 quarters of FY27)"
+   },
+   {
+    "id": "call-2026-04-3",
+    "sourceId": "call-2026-04",
+    "callLabel": "Apr 2026 call · Q4 FY26",
+    "callMonth": "2026-04",
+    "page": 18,
+    "speaker": "Sudheer Guntupalli",
+    "voice": "management",
+    "quote": "And the third one if I may squeeze in, if you add back that 50 basis points of impact because of these two accounts, still it would be like you are essentially talking about 2% to 5% kind of growth in services, which might be a bit tad softer than what we are anticipating.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-1",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 4,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "When we exclude restructuring costs, our operating margin in Q3 is down marginally 13 basis points YoY, and we are confident of recovering that as well in the future.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-2",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 8,
+    "speaker": "C. Vijayakumar",
+    "voice": "management",
+    "quote": "We continue to guide our sales organization remain focused on opportunities that make long-term economic sense.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-3",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 13,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "On the back of a standout quarter and sustained growth momentum, we are raising our full year services revenue growth guidance to 4.75% to 5.25% in constant currency terms and the company level guidance to 4% to 4.5% in constant currency terms.",
+    "structuredBy": "rules",
+    "metric": "revenue_growth",
+    "low": 4.75,
+    "high": 5.25,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "beat",
+     "actual": 11.18192302763658,
+     "actualLabel": "FY26 growth",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "met",
+    "assessmentNote": "11.2% reported, above the 4.75–5.25% promised"
+   },
+   {
+    "id": "call-2026-01-4",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 13,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "We remain on track to deliver on our full year EBIT margin guidance of 17% to 18%.",
+    "structuredBy": "rules",
+    "metric": "ebit_margin",
+    "low": 17,
+    "high": 18,
+    "unit": "%",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "delivered",
+     "actual": 17.20939881976887,
+     "actualLabel": "FY26 EBIT margin",
+     "basis": "screener.in standardised P&L: (operating profit − depreciation) ÷ sales. Company-defined EBIT can differ by a few tenths."
+    },
+    "assessment": "met",
+    "assessmentNote": "17.2% reported against 17–18% promised"
+   },
+   {
+    "id": "call-2026-01-5",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 13,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "The margin guidance is inclusive of the restructuring costs but excludes the one-time impact of the new labour code.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-6",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 18,
+    "speaker": "Shiv Walia",
+    "voice": "management",
+    "quote": "But for the next year, we'll update you in April on what sort of guidance we want to give, but I would not like to call out the margins for next year now.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-01-7",
+    "sourceId": "call-2026-01",
+    "callLabel": "Jan 2026 call · Q3 FY26",
+    "callMonth": "2026-01",
+    "page": 19,
+    "speaker": "Sandeep Shah",
+    "voice": "management",
+    "quote": "I'm not asking for guidance, but if there are no further macro negatives, directionally you believe the organic services growth could be better in the next year versus last year.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [
+   {
+    "metric": "ebit_margin",
+    "period": "FY27",
+    "from": "17.5–18.5%",
+    "to": "2.5–4%",
+    "direction": "cut",
+    "fromCall": "Apr 2026 call · Q4 FY26",
+    "toCall": "Oct 2026 call · Q2 FY27"
+   }
+  ],
+  "scorecard": {
+   "delivered": 1,
+   "missed": 0,
+   "beat": 1,
+   "on_track": 3,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 2
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 108,
+    "excerpt": "Our Business We are a global technology company, delivering industry-leading capabilities centered around AI, digital, engineering, cloud and software, powered by a broad portfolio of technology services and products. Our ambition is to be the best AI solutions company in the world.",
+    "section": "Management discussion and analysis"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 29,
+    "excerpt": "We became the first large-cap, India- headquartered technology services company to report Advanced AI revenue—a category spanning AI Factory, Physical AI, Robotics, AI Engineering and Custom Silicon, and distinct from Classical AI and usage of AI in traditional services—and reaching annualized Advanced AI revenue of $620 million.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 30,
+    "excerpt": "“We became the first large-cap, India-headquartered technology services company to report Advanced AI revenue. For the third straight year, HCLTech outperformed its comparable peers in FY26, with the fastest constant currency overall revenue growth.",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": null,
+  "management": [
+   {
+    "sourceId": "call-2026-10",
+    "page": 4,
+    "excerpt": "Number three, margins expanded significantly through disciplined execution and higher-margin Advanced AI revenue. Before I go through the numbers, please note that all growth rates that I mention are in constant currency, except for bookings and ARR. Our services business, which is more than 90% of our business, delivered a strong performance.",
+    "speaker": "C Vijayakumar"
+   },
+   {
+    "sourceId": "call-2026-10",
+    "page": 4,
+    "excerpt": "Growth was broad-based across verticals and geographies, reflecting how closely our portfolio is aligned with the clients -- with what the clients are prioritizing today, be it AI, cloud, data, cybersecurity, or application modernization. Advanced AI revenue reached $219 million this quarter, up 28.4% sequentially and 78% YoY. And the annualized Advanced AI revenue is now $876 million.",
+    "speaker": "C Vijayakumar"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-10-check-1",
+   "sourceId": "call-2026-10",
+   "page": 4,
+   "speaker": "C Vijayakumar",
+   "quote": "Advanced AI revenue reached $219 million this quarter, up 28.4% sequentially and 78% YoY.",
+   "metric": "revenue_growth",
+   "quarter": "Q2 FY27",
+   "claimed": 28.4,
+   "reported": 11.514620249201677,
+   "status": "conflict",
+   "note": "Said +28.4%; the reported consolidated figure is +11.5% — a 16.9-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-10-check-2",
+   "sourceId": "call-2026-10",
+   "page": 12,
+   "speaker": "Shiv Walia",
+   "quote": "Total revenue for the quarter is $3,724 million, a growth of 2.3% QoQ and 2.6% YoY.",
+   "metric": "revenue_growth",
+   "quarter": "Q2 FY27",
+   "claimed": 2.3,
+   "reported": 11.514620249201677,
+   "status": "conflict",
+   "note": "Said +2.3%; the reported consolidated figure is +11.5% — a 9.2-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-10-check-3",
+   "sourceId": "call-2026-10",
+   "page": 12,
+   "speaker": "Shiv Walia",
+   "quote": "Services revenue for the quarter came in at $3,442 million, a growth of 3% QoQ and 4% YoY.",
+   "metric": "revenue_growth",
+   "quarter": "Q2 FY27",
+   "claimed": 3,
+   "reported": 11.514620249201677,
+   "status": "conflict",
+   "note": "Said +3.0%; the reported consolidated figure is +11.5% — a 8.5-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-07-check-4",
+   "sourceId": "call-2026-07",
+   "page": 14,
+   "speaker": "Shiv Walia",
+   "quote": "HCL Software revenue for the quarter is $313 million, representing growth of 2.2% QoQ and decline of 5.3% YoY.",
+   "metric": "revenue_growth",
+   "quarter": "Q1 FY27",
+   "claimed": 2.2,
+   "reported": 13.937856272035324,
+   "status": "conflict",
+   "note": "Said +2.2%; the reported consolidated figure is +13.9% — a 11.7-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-01-check-5",
+   "sourceId": "call-2026-01",
+   "page": 11,
+   "speaker": "Shiv Walia",
+   "quote": "Starting with the revenue performance, total revenue for the quarter is $3,793 million, a growth of 4.2% QoQ and 4.8% YoY in constant currency terms.",
+   "metric": "revenue_growth",
+   "quarter": "Q3 FY26",
+   "claimed": 4.2,
+   "reported": 13.322181331549013,
+   "status": "conflict",
+   "note": "Said +4.2%; the reported consolidated figure is +13.3% — a 9.1-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-01-check-6",
+   "sourceId": "call-2026-01",
+   "page": 11,
+   "speaker": "Shiv Walia",
+   "quote": "Services revenue for the quarter came in at $3,379 million, a growth of 1.8% QoQ and 5% YoY in constant currency terms.",
+   "metric": "revenue_growth",
+   "quarter": "Q3 FY26",
+   "claimed": 1.8,
+   "reported": 13.322181331549013,
+   "status": "conflict",
+   "note": "Said +1.8%; the reported consolidated figure is +13.3% — a 11.5-point gap. Definitions or basis may differ; check the filing."
+  },
+  {
+   "id": "call-2026-01-check-7",
+   "sourceId": "call-2026-01",
+   "page": 11,
+   "speaker": "Shiv Walia",
+   "quote": "Software revenue for the quarter is $425 million, a growth of 28.1% QoQ and 3.1% YoY in constant currency terms.",
+   "metric": "revenue_growth",
+   "quarter": "Q3 FY26",
+   "claimed": 28.1,
+   "reported": 13.322181331549013,
+   "status": "conflict",
+   "note": "Said +28.1%; the reported consolidated figure is +13.3% — a 14.8-point gap. Definitions or basis may differ; check the filing."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Q2 FY27: revenue ₹35,620 cr (+11.5% YoY), PAT ₹5,132 cr (+21.2% YoY).",
+    "citations": [
+     {
+      "sourceId": "results-2026-09-30",
+      "level": "document",
+      "section": "Revenue Q2 FY27 not located on a page"
+     },
+     {
+      "sourceId": "screener",
+      "section": "quarters",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow was 1.27× reported profit (₹99,593 cr vs ₹78,129 cr) — profits are turning into cash.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 145,
+      "excerpt": "Net cash flows from operating activities (A) 19,975 22,261",
+      "level": "page",
+      "section": "Management discussion and analysis"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.08 at FY27 end (0.08 at FY24).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "working capital",
+    "text": "Return on capital employed was 30% in FY26 (28% in FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "bear": [
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin compressed by 175 bps over FY23–FY26 (22.3% → 20.6%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "credibility",
+    "text": "A number management stated does not match the reported one: Revenue growth (YoY) for Q2 FY27 — Said +28.4%; the reported consolidated figure is +11.5% — a 16.9-point gap. Definitions or basis may differ; check the filing.",
+    "citations": [
+     {
+      "sourceId": "call-2026-10",
+      "page": 4,
+      "speaker": "C Vijayakumar",
+      "excerpt": "Advanced AI revenue reached $219 million this quarter, up 28.4% sequentially and 78% YoY.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-10",
+      "page": 12,
+      "speaker": "Shiv Walia",
+      "excerpt": "Total revenue for the quarter is $3,724 million, a growth of 2.3% QoQ and 2.6% YoY.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-10",
+      "page": 12,
+      "speaker": "Shiv Walia",
+      "excerpt": "Services revenue for the quarter came in at $3,442 million, a growth of 3% QoQ and 4% YoY.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Management met 2 of 2 checkable promises, e.g. Revenue growth 4.75–5.25% for FY26 (11.2% reported, above the 4.75–5.25% promised).",
+     "citations": [
+      {
+       "sourceId": "call-2026-01",
+       "page": 13,
+       "speaker": "Shiv Walia",
+       "excerpt": "On the back of a standout quarter and sustained growth momentum, we are raising our full year services revenue growth guidance to 4.75% to 5.25% in constant currency terms and the company level guidance to 4% to 4.5% …",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2026-01",
+       "page": 13,
+       "speaker": "Shiv Walia",
+       "excerpt": "We remain on track to deliver on our full year EBIT margin guidance of 17% to 18%.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 485 pages), 4 call transcripts, the Q2 FY27 results filing and the Oct 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/HCLTECH/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 485,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 485,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-10",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 26,
+   "coverage": {
+    "pagesRead": 26,
+    "totalPages": 26,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-07",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11be9fba-0308-4756-a474-e4f2903fdaac.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 29,
+   "coverage": {
+    "pagesRead": 29,
+    "totalPages": 29,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-04",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 25,
+   "coverage": {
+    "pagesRead": 25,
+    "totalPages": 25,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-01",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 22,
+   "coverage": {
+    "pagesRead": 22,
+    "totalPages": 22,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-10",
+   "kind": "presentation",
+   "title": "Investor presentation, Oct 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/HCLTECH_12102026170757_InvestorRelease_5.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 32,
+   "coverage": {
+    "pagesRead": 32,
+    "totalPages": 32,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-09-30",
+   "kind": "results",
+   "title": "Results filing, Q2 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/HCLTECH_12102026165747_FinancialResults.pdf",
+   "period": "Q2 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 27,
+   "coverage": {
+    "pagesRead": 27,
+    "totalPages": 27,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ddf08009-d43c-4949-b149-643731211e1d.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ea5d9753-2bef-4e01-a344-51e7f5506153.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.hcltech.com",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/HCLTECH.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}

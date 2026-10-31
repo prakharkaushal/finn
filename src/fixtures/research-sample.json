@@ -1,0 +1,1540 @@
+{
+ "symbol": "KAYNES",
+ "exchange": "NSE",
+ "name": "Kaynes Technology India",
+ "generatedAt": "2026-10-28T15:30:21.772Z",
+ "provenance": "snapshot",
+ "basis": "consolidated",
+ "isLender": false,
+ "units": "₹ crore",
+ "statementsSource": {
+  "provider": "screener",
+  "type": "aggregator",
+  "url": "https://www.screener.in/company/KAYNES/consolidated/",
+  "retrievedAt": "2026-10-28T15:30:20.484Z",
+  "mode": "live"
+ },
+ "price": {
+  "close": 3140,
+  "changePct": -6.27984445070471,
+  "date": "2026-10-28",
+  "spark": [
+   4379.7001953125,
+   4507.5,
+   4364.2998046875,
+   4049.300048828125,
+   4178.39990234375,
+   3336.5,
+   3271.89990234375,
+   3118.199951171875,
+   3091.60009765625,
+   3001,
+   3174.89990234375,
+   3321.39990234375,
+   3400.39990234375,
+   3299,
+   3229.60009765625,
+   3133.60009765625,
+   3100.199951171875,
+   3169.10009765625,
+   3214.39990234375,
+   3190.5,
+   3121.800048828125,
+   3027.5,
+   3072.800048828125,
+   3073,
+   3026.89990234375,
+   3076.89990234375,
+   3082.10009765625,
+   3177.60009765625,
+   3248.300048828125,
+   3385.5,
+   3253.10009765625,
+   3283.5,
+   3216.89990234375,
+   3203.10009765625,
+   3264.699951171875,
+   3150.60009765625,
+   3121.89990234375,
+   3152.10009765625,
+   3158.5,
+   3333.800048828125,
+   3359.199951171875,
+   3312.60009765625,
+   3210.699951171875,
+   3429.10009765625,
+   3336.10009765625,
+   3319.5,
+   3288.39990234375,
+   3337.199951171875,
+   3438.800048828125,
+   3385.800048828125,
+   3328.800048828125,
+   3272.10009765625,
+   3252.39990234375,
+   3240.300048828125,
+   3176.199951171875,
+   3181.300048828125,
+   3227.699951171875,
+   3638.60009765625,
+   3621.5,
+   3804.60009765625,
+   3805,
+   3875,
+   3898,
+   3830,
+   3856.300048828125,
+   3735.10009765625,
+   3717.699951171875,
+   3828,
+   3760.5,
+   3660.199951171875,
+   3651,
+   3644.10009765625,
+   3823.300048828125,
+   3815,
+   3890,
+   3840.199951171875,
+   3936,
+   4032,
+   4018.800048828125,
+   3943.10009765625,
+   3685,
+   3600.5,
+   3583,
+   3485,
+   3598,
+   3604,
+   3610,
+   3615,
+   3499,
+   3505,
+   3392,
+   3385,
+   3520,
+   3515,
+   3650,
+   3455,
+   3458,
+   3509.5,
+   3650,
+   3658,
+   3511.5,
+   3501,
+   3399,
+   3394.800048828125,
+   3405,
+   3365,
+   3233,
+   3264,
+   3222.10009765625,
+   3290,
+   3275,
+   3260,
+   3281,
+   3250,
+   3165.10009765625,
+   3294,
+   3187.89990234375,
+   3306.800048828125,
+   3350.39990234375,
+   3140
+  ],
+  "high52": 6918.5,
+  "low52": 3001,
+  "source": {
+   "provider": "yahoo-chart",
+   "type": "market-data",
+   "url": "https://finance.yahoo.com/quote/KAYNES.NS",
+   "retrievedAt": "2026-10-28T15:30:20.882Z",
+   "mode": "live",
+   "label": "Yahoo Finance chart (end of day)",
+   "adjustment": "split-adjusted"
+  }
+ },
+ "topRatios": [
+  {
+   "name": "Market Cap",
+   "value": "₹ 21,180 Cr."
+  },
+  {
+   "name": "Current Price",
+   "value": "₹ 3,140"
+  },
+  {
+   "name": "High / Low",
+   "value": "₹ 6,964 / 2,995"
+  },
+  {
+   "name": "Stock P/E",
+   "value": "61.0"
+  },
+  {
+   "name": "Book Value",
+   "value": "₹ 708"
+  },
+  {
+   "name": "Dividend Yield",
+   "value": "0.00 %"
+  },
+  {
+   "name": "ROCE",
+   "value": "12.7 %"
+  },
+  {
+   "name": "ROE",
+   "value": "8.69 %"
+  },
+  {
+   "name": "Face Value",
+   "value": "₹ 10.0"
+  }
+ ],
+ "headline": [
+  {
+   "id": "head-latest-quarter",
+   "text": "Q1 FY27: revenue ₹946 cr (+40.6% YoY), PAT ₹56 cr (−25.3% YoY).",
+   "tone": "neutral",
+   "period": "Q1 FY27",
+   "citations": [
+    {
+     "sourceId": "results-2026-06-30",
+     "page": 10,
+     "excerpt": "la) Revenue froim operations 9,460.17 1242638 6,734.66 36,263.54",
+     "level": "page",
+     "unit": "₹ million"
+    },
+    {
+     "sourceId": "screener",
+     "section": "quarters",
+     "level": "section"
+    }
+   ],
+   "figures": [
+    {
+     "metric": "revenue",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 946
+    },
+    {
+     "metric": "pat",
+     "fy": 2027,
+     "quarter": "2026-06-30",
+     "value": 56
+    }
+   ]
+  },
+  {
+   "id": "head-ttm",
+   "text": "Trailing twelve months: revenue ₹3,899 cr, EBITDA ₹609 cr (15.6% margin), PAT ₹346 cr.",
+   "tone": "neutral",
+   "period": "TTM",
+   "citations": [
+    {
+     "sourceId": "screener",
+     "section": "profit-loss",
+     "level": "section"
+    }
+   ]
+  }
+ ],
+ "trajectory": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "revenue": [
+   420,
+   706,
+   1126,
+   1805,
+   2722,
+   3626
+  ],
+  "ebitda": [
+   42,
+   95,
+   170,
+   257,
+   416,
+   578
+  ],
+  "pat": [
+   10,
+   42,
+   95,
+   183,
+   293,
+   364
+  ],
+  "margin": [
+   10,
+   13.456090651558073,
+   15.097690941385435,
+   14.238227146814406,
+   15.282880235121235,
+   15.940430226144512
+  ],
+  "claims": [
+   {
+    "id": "traj-revenue-cagr",
+    "text": "Revenue compounded at 53.9% a year over FY21–FY26 (₹420 cr → ₹3,626 cr).",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 50,
+      "excerpt": "Revenue from Operations 21,278.18 19,154.43 36,263.54 27,217.52",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Leadership message"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 3626
+     },
+     {
+      "metric": "revenue",
+      "fy": 2021,
+      "value": 420
+     }
+    ]
+   },
+   {
+    "id": "traj-latest-growth",
+    "text": "FY26 revenue growth of 33.2% was the slowest in 5 years.",
+    "tone": "negative",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 50,
+      "excerpt": "Revenue from Operations 21,278.18 19,154.43 36,263.54 27,217.52",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Leadership message"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "revenue",
+      "fy": 2026,
+      "value": 3626
+     },
+     {
+      "metric": "revenue",
+      "fy": 2025,
+      "value": 2722
+     }
+    ]
+   },
+   {
+    "id": "traj-margin",
+    "text": "EBITDA margin expanded by 84 bps over FY23–FY26 (15.1% → 15.9%).",
+    "tone": "positive",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "traj-pat-cagr",
+    "text": "PAT compounded at 105.2% a year over FY21–FY26, ahead of revenue.",
+    "tone": "positive",
+    "period": "FY21–FY26",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 281,
+      "excerpt": "Profit after tax for the year 3,638.90 2,934.33",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Notes to the consolidated financial statements"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "pat",
+      "fy": 2026,
+      "value": 364
+     },
+     {
+      "metric": "pat",
+      "fy": 2021,
+      "value": 10
+     }
+    ]
+   }
+  ]
+ },
+ "quarters": {
+  "keys": [
+   "2024-09-30",
+   "2024-12-31",
+   "2025-03-31",
+   "2025-06-30",
+   "2025-09-30",
+   "2025-12-31",
+   "2026-03-31",
+   "2026-06-30"
+  ],
+  "labels": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q4 FY25",
+   "Q1 FY26",
+   "Q2 FY26",
+   "Q3 FY26",
+   "Q4 FY26",
+   "Q1 FY27"
+  ],
+  "revenue": [
+   572,
+   661,
+   984,
+   673,
+   906,
+   804,
+   1243,
+   946
+  ],
+  "ebitda": [
+   82,
+   94,
+   168,
+   113,
+   148,
+   119,
+   194,
+   148
+  ],
+  "pat": [
+   60,
+   66,
+   116,
+   75,
+   121,
+   77,
+   91,
+   56
+  ],
+  "margin": [
+   14.335664335664337,
+   14.22087745839637,
+   17.073170731707318,
+   16.79049034175334,
+   16.335540838852097,
+   14.800995024875622,
+   15.607401448109412,
+   15.644820295983086
+  ],
+  "revenueYoY": [
+   58.448753462603875,
+   29.862475442043223,
+   54.47409733124019,
+   33.53174603174603,
+   58.39160839160839,
+   21.6338880484115,
+   26.321138211382113,
+   40.56463595839524
+  ],
+  "patYoY": [
+   87.5,
+   46.666666666666664,
+   43.20987654320987,
+   47.05882352941176,
+   101.66666666666666,
+   16.666666666666664,
+   -21.551724137931032,
+   -25.333333333333336
+  ]
+ },
+ "balanceSheet": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "borrowings": [
+   148,
+   189,
+   155,
+   323,
+   903,
+   913
+  ],
+  "equity": [
+   139,
+   202,
+   959,
+   2487,
+   2840,
+   4748
+  ],
+  "debtToEquity": [
+   1.064748201438849,
+   0.9356435643564357,
+   0.1616266944734098,
+   0.12987535182951346,
+   0.31795774647887326,
+   0.19229149115417019
+  ],
+  "claims": [
+   {
+    "id": "bs-de",
+    "text": "Debt-to-equity was 0.19 at FY26 end (0.16 at FY23).",
+    "tone": "positive",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "bs-borrowings",
+    "text": "Borrowings rose 5.9× from ₹155 cr to ₹913 cr over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "cash": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "cfo": [
+   28,
+   21,
+   -42,
+   88,
+   -82,
+   -600
+  ],
+  "pat": [
+   10,
+   42,
+   95,
+   183,
+   293,
+   364
+  ],
+  "fcf": [
+   3,
+   -21,
+   -100,
+   -295,
+   -1031,
+   -1841
+  ],
+  "capex": [
+   25,
+   42,
+   58,
+   383,
+   949,
+   1241
+  ],
+  "claims": [
+   {
+    "id": "cash-conversion",
+    "text": "Over the last 5 years, operating cash flow totalled −₹615 cr against ₹977 cr of reported profit — operations consumed cash rather than generating it.",
+    "tone": "negative",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 240,
+      "excerpt": "Net Cash from Operating Activities (A) (6,004.04) (823.16)",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Independent auditor's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "figures": [
+     {
+      "metric": "cfo",
+      "fy": 2026,
+      "value": -600
+     },
+     {
+      "metric": "cfo",
+      "fy": 2025,
+      "value": -82
+     }
+    ]
+   },
+   {
+    "id": "cash-fcf",
+    "text": "Free cash flow (as computed by screener.in) was positive in 0 of the last 5 years, −₹3,288 cr in total.",
+    "tone": "negative",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "cash-capex",
+    "text": "Capex over the last 5 years was ₹2,673 cr, while operations consumed ₹615 cr (derived as operating cash flow − free cash flow).",
+    "tone": "neutral",
+    "period": "last 5 fiscal years",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "workingCapital": {
+  "years": [
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25",
+   "FY26"
+  ],
+  "ccc": [
+   193,
+   148,
+   162,
+   123,
+   102,
+   193
+  ],
+  "debtorDays": [
+   106,
+   102,
+   74,
+   72,
+   77,
+   154
+  ],
+  "inventoryDays": [
+   209,
+   167,
+   191,
+   150,
+   156,
+   169
+  ],
+  "claims": [
+   {
+    "id": "wc-ccc",
+    "text": "Cash conversion cycle lengthened from 162 to 193 days over FY23–FY26.",
+    "tone": "negative",
+    "period": "FY23–FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   },
+   {
+    "id": "wc-roce",
+    "text": "Return on capital employed was 13% in FY26 (22% in FY23).",
+    "tone": "neutral",
+    "period": "FY26",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ]
+   }
+  ]
+ },
+ "guidance": {
+  "status": "ok",
+  "transcriptsRead": 4,
+  "statements": [
+   {
+    "id": "call-2026-08-1",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 14,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "As far as OSAT and PCB is concerned, we already told from third quarter the revenue starts in both the business, and we have committed a full year revenue of totally INR500 crores between both, INR450 to INR500 crores, which is what we are targeting at this point in time, we are on the target.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 500,
+    "high": 500,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-08-2",
+    "sourceId": "call-2026-08",
+    "callLabel": "Aug 2026 call · Q1 FY27",
+    "callMonth": "2026-08",
+    "page": 16,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "We said we will be funding for this capex for this year is about INR300 crores for OSAT, INR300 crores for PCB, and about INR250 crores for EMS business.",
+    "structuredBy": "rules",
+    "metric": "capex",
+    "low": 300,
+    "high": 300,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2027,
+     "inferred": true,
+     "label": "FY27"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Reported financials don't isolate this; check the next transcripts"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Reported financials don't isolate this; check the next transcripts"
+   },
+   {
+    "id": "call-2026-05-1",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "Viral Shah",
+    "voice": "management",
+    "quote": "At the start of the year, sir, we had guided that we are looking to close the year with revenues of INR4,500 crores, which was subsequently toned down to INR4,000 crores, and we ended the year with close to INR3,600 crores of revenue, sir.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 4500,
+    "high": 4500,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 3626,
+     "actualLabel": "FY26 revenue",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "missed",
+    "assessmentNote": "₹3,626 cr reported — 81% of the ₹4,500 cr promised"
+   },
+   {
+    "id": "call-2026-05-2",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "Giving a guidance of INR4,500 crores is almost 55% growth over the previous year.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-3",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 8,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "I think these are the 2 things that while we have delivered about 33% growth in revenue and 39% growth in the bottom line, we sincerely understand and appreciate that the guidance what we have given, we could not meet.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-4",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 9,
+    "speaker": "Viral Shah",
+    "voice": "management",
+    "quote": "But sir, OCF INR600 crores of negative, I think that is a bigger disappointment, especially when you kind of guided that you will be just about neutral or slightly negative, sir.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-5",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "It is not that we are not giving a guidance for the revenue.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-6",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "We are not only giving guidance for the revenue numbers.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-7",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "When we are saying that the industry in India, the GDP growth is at 8%, the EMS space where we are playing has grown at about 18% last year or is expected to grow in this year 16% to 18%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-8",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 11,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "But exactly, we don't want to put the number because you see, for example, the December projection of automotive industry was a mid-double-digit growth for this year, whereas the latest prediction phase, it will be a single-digit higher or lower double digits, which may impact on the offtake of the product.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-9",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 17,
+    "speaker": "N. Muthukumar",
+    "voice": "management",
+    "quote": "For the next year, while the INR971 crores of sales, what we did this year, in absolute numbers, we may remain same or slightly up or down, that's not a question, but almost 50% of the business will be in the old model and the rest will come in the new model.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-05-10",
+    "sourceId": "call-2026-05",
+    "callLabel": "May 2026 call · Q4 FY26",
+    "callMonth": "2026-05",
+    "page": 19,
+    "speaker": "Achal Lohade",
+    "voice": "analyst",
+    "quote": "Sir, just to expand the previous question, if you could talk from a production value perspective, the earlier guidance of INR1,000 crores for OSAT, INR500 crores for PCB.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-1",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 7,
+    "speaker": "Sonali Salgaonkar",
+    "voice": "management",
+    "quote": "And secondly, the orders which are deferred, you mentioned in your television interview this morning that there is a deferral in the railways Kavach order worth INR3 billion, which is why you have brought down your revenue guidance as well.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 300,
+    "high": 300,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-02-2",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 10,
+    "speaker": "Indrajit Agarwal",
+    "voice": "management",
+    "quote": "Of the INR1,700 crores top line expected in 4Q, INR300 crores is smart metering.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 1700,
+    "high": 1700,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "Q",
+     "fy": 2026,
+     "inferred": true,
+     "quarter": 4,
+     "label": "Q4 FY26"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 1243,
+     "actualLabel": "Q4 FY26 revenue",
+     "basis": "screener.in quarterly results"
+    },
+    "assessment": "missed",
+    "assessmentNote": "₹1,243 cr reported — 73% of the ₹1,700 cr promised"
+   },
+   {
+    "id": "call-2026-02-3",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 11,
+    "speaker": "Manish Ostwal",
+    "voice": "analyst",
+    "quote": "Sir, last year also, we have guided INR3,000 crores of revenue and end up INR2,700 crores.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 3000,
+    "high": 3000,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": false,
+    "period": {
+     "scope": "FY",
+     "fy": 2025,
+     "inferred": true,
+     "label": "FY25"
+    },
+    "verdict": {
+     "status": "missed",
+     "actual": 2722,
+     "actualLabel": "FY25 revenue",
+     "basis": "screener.in annual P&L"
+    },
+    "assessment": "partially met",
+    "assessmentNote": "₹2,722 cr reported — 91% of the ₹3,000 cr promised"
+   },
+   {
+    "id": "call-2026-02-4",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 11,
+    "speaker": "Manish Ostwal",
+    "voice": "management",
+    "quote": "And in the beginning of the year, we guided at INR4,400 crores, now we are targeting INR4,100 crores.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-5",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 12,
+    "speaker": "Jairam Sampath",
+    "voice": "management",
+    "quote": "So broadly, you can take it as about 20% of our order book contains ODM products, which are like you may expect better margin products, and they help us to do better.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-6",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 13,
+    "speaker": "Meet Jain",
+    "voice": "management",
+    "quote": "So, our guidance of this around INR40 billion kind of -- so this implies almost more than 70% growth in our 4Q numbers.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2026-02-7",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 15,
+    "speaker": "Viral Shah",
+    "voice": "management",
+    "quote": "You guided for the full year, the smart metering business should do around INR700 crores to INR800 crores of revenue.",
+    "structuredBy": "rules",
+    "metric": "revenue_target",
+    "low": 700,
+    "high": 800,
+    "unit": "INR_cr",
+    "interpreted": false,
+    "segment": true,
+    "period": {
+     "scope": "FY",
+     "fy": 2026,
+     "inferred": true,
+     "label": "FY26"
+    },
+    "verdict": {
+     "status": "not_comparable",
+     "basis": "Refers to one business, segment or order — FINN only checks company-wide figures"
+    },
+    "assessment": "not comparable / insufficient evidence",
+    "assessmentNote": "Refers to one business, segment or order — FINN only checks company-wide figures"
+   },
+   {
+    "id": "call-2026-02-8",
+    "sourceId": "call-2026-02",
+    "callLabel": "Feb 2026 call · Q3 FY26",
+    "callMonth": "2026-02",
+    "page": 15,
+    "speaker": "Ramesh Kunhikannan",
+    "voice": "management",
+    "quote": "So the market demand is so high for the next 4, 5 years, year- on-year, there will be a growth of around 30%.",
+    "structuredBy": "none"
+   },
+   {
+    "id": "call-2025-12-1",
+    "sourceId": "call-2025-12",
+    "callLabel": "Dec 2025 call · Q2 FY26",
+    "callMonth": "2025-12",
+    "page": 7,
+    "speaker": "Jairam Sampath",
+    "voice": "management",
+    "quote": "First balance requirement for OSAT INR10.3 billion will be funded through QIP and spent amount of about 3.8 billion and balance internal accruals capex spread over five years and some transitory debt.",
+    "structuredBy": "none"
+   }
+  ],
+  "revisions": [],
+  "scorecard": {
+   "delivered": 0,
+   "missed": 3,
+   "beat": 0,
+   "on_track": 0,
+   "behind": 0,
+   "pending": 0,
+   "not_comparable": 4
+  }
+ },
+ "business": {
+  "status": "ok",
+  "overview": [
+   {
+    "sourceId": "ar-2026",
+    "page": 10,
+    "excerpt": "Kaynes Technology India Limited (‘Kaynes’, ‘Our Company’ or ‘We’) is a leading end-to-end IoT solutions-integrated electronics manufacturing company in India, offering comprehensive capabilities across the entire ESDM value chain from new product design and engineering to manufacturing and lifecycle support.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 47,
+    "excerpt": "Kaynes Technology India Limited ('Kaynes', 'KTIL', 'the Company,' or ‘We’) is a leading provider of end- to-end, IoT-enabled Integrated Electronics Manufacturing Services (IEMS), with capabilities spanning the full electronics value chain.",
+    "section": "Leadership message"
+   },
+   {
+    "sourceId": "ar-2026",
+    "page": 23,
+    "excerpt": "The platform is also expanding into smart water metering, enabling a unified multi-utility digital ecosystem across electricity and water infrastructure. GridCrest’s Products, Solutions and Services to Grab this Opportunity GridCrest’s leadership anticipated the shift from smart meter supply to integrated digital utility platforms, repositioning the company around the complete utility value chain.",
+    "section": "Leadership message"
+   }
+  ],
+  "segments": {
+   "names": [],
+   "single": true,
+   "evidence": {
+    "sourceId": "ar-2026",
+    "page": 280,
+    "excerpt": "The Group operates predominantly in one business segment of Electronics Manufacturing Services and accordingly primary reporting disclosures for business segment are not applicable.",
+    "section": "Notes to the consolidated financial statements"
+   }
+  },
+  "management": [
+   {
+    "sourceId": "call-2026-08",
+    "page": 3,
+    "excerpt": "EBITDA for the quarter was INR147.6 crores, translating into an EBITDA margin of 15.6% and 31% year-on-year growth. We have a robust order book of around INR9,000 crores.",
+    "speaker": "Ramesh Kunhikannan"
+   },
+   {
+    "sourceId": "call-2026-08",
+    "page": 5,
+    "excerpt": "We have taken the feedback of various stakeholders, and looking at the current situation of our balance sheet constraint, we have taken a conscious decision of growing more in EMS business, which is our traditional and core business, and we have degrown in the smart metering business, not because we don't have capacity, not because we don't have business and orders, but we put our foot down saying that we need to mak…",
+    "speaker": "N. Muthukumar"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "id": "call-2026-08-check-1",
+   "sourceId": "call-2026-08",
+   "page": 3,
+   "speaker": "Ramesh Kunhikannan",
+   "quote": "EBITDA for the quarter was INR147.6 crores, translating into an EBITDA margin of 15.6% and 31% year-on-year growth.",
+   "metric": "ebitda_margin",
+   "quarter": "Q1 FY27",
+   "claimed": 15.6,
+   "reported": 15.644820295983086,
+   "status": "consistent",
+   "note": "Said 15.6%; reported 15.6% (consolidated)."
+  },
+  {
+   "id": "call-2026-05-check-2",
+   "sourceId": "call-2026-05",
+   "page": 5,
+   "speaker": "N. Muthukumar",
+   "quote": "For Q4 FY '26, our total revenue stood at INR12,426 million, reflecting a year-on-year growth of 26% for this quarter.",
+   "metric": "revenue_growth",
+   "quarter": "Q4 FY26",
+   "claimed": 26,
+   "reported": 26.321138211382113,
+   "status": "consistent",
+   "note": "Said +26.0%; reported +26.3% (consolidated)."
+  }
+ ],
+ "case": {
+  "bull": [
+   {
+    "theme": "growth",
+    "text": "Revenue compounded at 53.9% a year over FY21–FY26 (₹420 cr → ₹3,626 cr).",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 50,
+      "excerpt": "Revenue from Operations 21,278.18 19,154.43 36,263.54 27,217.52",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Leadership message"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "FY26 revenue growth of 33.2% was the slowest in 5 years.",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 50,
+       "excerpt": "Revenue from Operations 21,278.18 19,154.43 36,263.54 27,217.52",
+       "level": "page",
+       "unit": "₹ million",
+       "section": "Leadership message"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "profitability",
+    "text": "EBITDA margin expanded by 84 bps over FY23–FY26 (15.1% → 15.9%).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Debt-to-equity was 0.19 at FY26 end (0.16 at FY23).",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Borrowings rose 5.9× from ₹155 cr to ₹913 cr over FY23–FY26.",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "credibility",
+    "text": "Numbers management stated on calls match the reported figures (2 checked, e.g. EBITDA margin for Q1 FY27).",
+    "citations": [
+     {
+      "sourceId": "call-2026-08",
+      "page": 3,
+      "speaker": "Ramesh Kunhikannan",
+      "excerpt": "EBITDA for the quarter was INR147.6 crores, translating into an EBITDA margin of 15.6% and 31% year-on-year growth.",
+      "level": "page"
+     },
+     {
+      "sourceId": "call-2026-05",
+      "page": 5,
+      "speaker": "N. Muthukumar",
+      "excerpt": "For Q4 FY '26, our total revenue stood at INR12,426 million, reflecting a year-on-year growth of 26% for this quarter.",
+      "level": "page"
+     }
+    ],
+    "counter": {
+     "text": "Management fell short on 2 of 2 checkable promises, e.g. Revenue target ₹4,500 cr for FY26 (₹3,626 cr reported — 81% of the ₹4,500 cr promised).",
+     "citations": [
+      {
+       "sourceId": "call-2026-05",
+       "page": 8,
+       "speaker": "Viral Shah",
+       "excerpt": "At the start of the year, sir, we had guided that we are looking to close the year with revenues of INR4,500 crores, which was subsequently toned down to INR4,000 crores, and we ended the year with close to INR3,600 c…",
+       "level": "page"
+      },
+      {
+       "sourceId": "call-2026-02",
+       "page": 10,
+       "speaker": "Indrajit Agarwal",
+       "excerpt": "Of the INR1,700 crores top line expected in 4Q, INR300 crores is smart metering.",
+       "level": "page"
+      }
+     ]
+    }
+   }
+  ],
+  "bear": [
+   {
+    "theme": "growth",
+    "text": "FY26 revenue growth of 33.2% was the slowest in 5 years.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 50,
+      "excerpt": "Revenue from Operations 21,278.18 19,154.43 36,263.54 27,217.52",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Leadership message"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Revenue compounded at 53.9% a year over FY21–FY26 (₹420 cr → ₹3,626 cr).",
+     "citations": [
+      {
+       "sourceId": "ar-2026",
+       "page": 50,
+       "excerpt": "Revenue from Operations 21,278.18 19,154.43 36,263.54 27,217.52",
+       "level": "page",
+       "unit": "₹ million",
+       "section": "Leadership message"
+      },
+      {
+       "sourceId": "screener",
+       "section": "profit-loss",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "cash",
+    "text": "Over the last 5 years, operating cash flow totalled −₹615 cr against ₹977 cr of reported profit — operations consumed cash rather than generating it.",
+    "citations": [
+     {
+      "sourceId": "ar-2026",
+      "page": 240,
+      "excerpt": "Net Cash from Operating Activities (A) (6,004.04) (823.16)",
+      "level": "page",
+      "unit": "₹ million",
+      "section": "Independent auditor's report"
+     },
+     {
+      "sourceId": "screener",
+      "section": "cash-flow",
+      "level": "section"
+     },
+     {
+      "sourceId": "screener",
+      "section": "profit-loss",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   },
+   {
+    "theme": "balance sheet",
+    "text": "Borrowings rose 5.9× from ₹155 cr to ₹913 cr over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "balance-sheet",
+      "level": "section"
+     }
+    ],
+    "counter": {
+     "text": "Debt-to-equity was 0.19 at FY26 end (0.16 at FY23).",
+     "citations": [
+      {
+       "sourceId": "screener",
+       "section": "balance-sheet",
+       "level": "section"
+      }
+     ]
+    }
+   },
+   {
+    "theme": "working capital",
+    "text": "Cash conversion cycle lengthened from 162 to 193 days over FY23–FY26.",
+    "citations": [
+     {
+      "sourceId": "screener",
+      "section": "ratios",
+      "level": "section"
+     }
+    ],
+    "counter": null
+   }
+  ],
+  "note": "Assembled by rules from the cited facts in this report; each point shows the strongest fact against it. It weighs evidence, it is not a recommendation to buy or sell."
+ },
+ "coverage": "Read the FY26 annual report (300 of 321 pages), 4 call transcripts, the Q1 FY27 results filing and the Aug 2026 investor presentation.",
+ "thesis": null,
+ "sources": [
+  {
+   "id": "screener",
+   "kind": "screener",
+   "title": "screener.in — standardised consolidated statements and document links (secondary)",
+   "url": "https://www.screener.in/company/KAYNES/consolidated/",
+   "status": "used",
+   "primary": false
+  },
+  {
+   "id": "ar-2026",
+   "kind": "annual_report",
+   "title": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b3ec474-8dc9-46bc-bf3b-64d55d3b6c30.pdf",
+   "period": "FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 321,
+   "coverage": {
+    "pagesRead": 300,
+    "totalPages": 321,
+    "truncated": true
+   }
+  },
+  {
+   "id": "call-2026-08",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-05",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2aa16ac-08ab-430a-819a-833f94c09dde.pdf",
+   "period": "Q4 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 20,
+   "coverage": {
+    "pagesRead": 20,
+    "totalPages": 20,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2026-02",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf",
+   "period": "Q3 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 19,
+   "coverage": {
+    "pagesRead": 19,
+    "totalPages": 19,
+    "truncated": false
+   }
+  },
+  {
+   "id": "call-2025-12",
+   "kind": "transcript",
+   "title": "Earnings-call transcript, Dec 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d42ff5a9-4c9e-4163-ae33-ed915881baa4.pdf",
+   "period": "Q2 FY26",
+   "primary": true,
+   "status": "used",
+   "pages": 22,
+   "coverage": {
+    "pagesRead": 22,
+    "totalPages": 22,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ppt-2026-08",
+   "kind": "presentation",
+   "title": "Investor presentation, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=516028d8-7580-4f5b-aed8-4a611fec0430.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 27,
+   "coverage": {
+    "pagesRead": 27,
+    "totalPages": 27,
+    "truncated": false
+   }
+  },
+  {
+   "id": "results-2026-06-30",
+   "kind": "results",
+   "title": "Results filing, Q1 FY27 (NSE)",
+   "url": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_07082026184230_Outcomesigned.pdf",
+   "period": "Q1 FY27",
+   "primary": true,
+   "status": "used",
+   "pages": 15,
+   "coverage": {
+    "pagesRead": 15,
+    "totalPages": 15,
+    "truncated": false
+   }
+  },
+  {
+   "id": "ar-2025",
+   "kind": "annual_report",
+   "title": "Annual report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d52aa183-1714-43c2-86fa-26c06bec250a.pdf",
+   "period": "FY25",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ar-2024",
+   "kind": "annual_report",
+   "title": "Annual report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/371bc508-0d39-44a6-9a12-6216bab594ab.pdf",
+   "period": "FY24",
+   "primary": true,
+   "status": "listed",
+   "note": "Not read: FINN reads the latest annual report, the last four calls, the latest presentation and results filing"
+  },
+  {
+   "id": "ir-website",
+   "kind": "ir_website",
+   "title": "Company website (entry point for investor-relations documents)",
+   "url": "http://www.kaynestechnology.co.in",
+   "status": "listed",
+   "primary": true,
+   "note": "Entry point only; FINN does not crawl company sites — add a document from it under Sources"
+  },
+  {
+   "id": "prices",
+   "kind": "prices",
+   "title": "End-of-day prices (Yahoo Finance chart (end of day))",
+   "url": "https://finance.yahoo.com/quote/KAYNES.NS",
+   "status": "used",
+   "primary": false
+  }
+ ],
+ "warnings": [],
+ "llm": {
+  "enabled": false,
+  "used": false,
+  "fastModel": "claude-haiku-5-5",
+  "reasoningModel": "claude-opus-5-5",
+  "calls": 0
+ }
+}
